@@ -1,0 +1,63 @@
+---
+acumos:
+  release-engineers:
+    - eball
+fdio:
+  release-engineers:
+    - valderrv
+hyperledger:
+  release-engineers:
+    - tijohnson
+iotivity:
+  release-engineers:
+    - snandigam8413
+opendaylight:
+  release-engineers:
+    - zxiiro
+    - askb
+    - agrimberg
+onap:
+  release-engineers:
+    - jwagantall
+    - bthuree
+opnfv:
+  project_creation_date: '2015-01-10'
+  project_category: 'LFN'
+  project_manager:
+    name: 'David McBride'
+    email: ''
+    id: ''
+    company: ''
+    timezone: ''
+  release-engineers:
+    - name: 'Trevor Bramwell'
+      email: 'tbramwell@linuxfoundation.org'
+      company: 'The Linux Foundation'
+      id: 'bramwelt'
+      timezone: 'America/Los_Angeles'
+    - name: 'Aric Gardner'
+      email: 'agardner@linuxfoundation.org'
+      company: 'The Linux Foundation'
+      id: 'agardner'
+  issue_tracking:
+    type: 'jira'
+    url: 'https://jira.opnfv.org/'
+  mailing_list:
+    type: 'groups.io'
+    url: 'https://lists.opnfv.org'
+  realtime_discussion:
+    type: 'irc'
+    url: '#opnfv-meeting'
+  meetings:
+    type: 'gtm'
+    account: '?'
+  repositories:
+    type: 'gerrit'
+    url: 'https://gerrit.opnfv.org/gerrit/'
+  continuous_integration:
+    type: 'jenkins'
+    url: 'https://build.opnfv.org/ci/'
+  committers:
+    type: 'ldap'
+  tsc:
+    type: 'foo'
