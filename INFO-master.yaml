@@ -1,0 +1,29 @@
+---
+project: 'info-master'
+project_creation_date: '2019-01-10'
+projects:
+    - acumos:
+          release-engineers:
+              - eball
+    - fdio:
+          release-engineers:
+              - valderrv
+    - hyperledger:
+          release-engineers:
+              - tijohnson
+    - iotivity:
+          release-engineers:
+              - snandigam8413
+    - opendaylight:
+          release-engineers:
+              - zxiiro
+              - askb
+              - agrimberg
+    - onap:
+          release-engineers:
+              - jwagantall
+              - bthuree
+    - opnfv:
+          release-engineers:
+              - agardner
+              - bramwelt
