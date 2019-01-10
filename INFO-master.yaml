@@ -1,0 +1,26 @@
+---
+acumos:
+  release-engineers:
+    - eball
+fdio:
+  release-engineers:
+    - valderrv
+hyperledger:
+  release-engineers:
+    - tijohnson
+iotivity:
+  release-engineers:
+    - snandigam8413
+opendaylight:
+  release-engineers:
+    - zxiiro
+    - askb
+    - agrimberg
+onap:
+  release-engineers:
+    - jwagantall
+    - bthuree
+opnfv:
+  release-engineers:
+    - bramwelt
+    - agardner
