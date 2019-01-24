@@ -1,0 +1,8 @@
+Verified+1: Jenkins CI <releng+lf-jenkins@linuxfoundation.org>
+Code-Review+2: Aric Gardner <agardner@linuxfoundation.org>
+Code-Review+2: Thanh Ha (zxiiro) <thanh.ha@linuxfoundation.org>
+Submitted-by: Thanh Ha (zxiiro) <thanh.ha@linuxfoundation.org>
+Submitted-at: Thu, 24 Jan 2019 18:56:16 +0000
+Reviewed-on: https://gerrit.linuxfoundation.org/infra/14122
+Project: releng/info-master
+Branch: refs/heads/master
