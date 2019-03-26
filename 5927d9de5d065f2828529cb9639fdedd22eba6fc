@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "20637902_ed03fc81",
+        "filename": "gerrit.onap.org/dcaegen2/services/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2019-03-26T21:09:15Z",
+      "side": 1,
+      "message": "Remove this space",
+      "range": {
+        "startLine": 81,
+        "startChar": 12,
+        "endLine": 81,
+        "endChar": 13
+      },
+      "revId": "5927d9de5d065f2828529cb9639fdedd22eba6fc",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
+    }
+  ]
+}
