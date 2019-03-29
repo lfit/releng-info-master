@@ -20,6 +20,26 @@ onap:
   release-engineers:
     - jwagantall
     - bthuree
+  tsc:
+    - denglingli
+    - AllaGoldner
+    - djhunt
+    - auztizza
+    - eric.debeau
+    - mturpcu
+    - Susana
+    - andreasgeissler
+    - biny993
+    - milindj
+    - saddepalli
+    - rightaa
+    - ningsous
+    - Katel34
+    - kspviswa-vz
+    - ca2853
+    - adetalhouet
+    - mtnskiier
+    - tperala
 opnfv:
   release-engineers:
     - bramwelt
