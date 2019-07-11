@@ -1,23 +1,23 @@
 ---
 acumos:
-  release-engineers:
+  release_engineers:
     - eball
 fdio:
-  release-engineers:
+  release_engineers:
     - valderrv
 hyperledger:
-  release-engineers:
+  release_engineers:
     - tijohnson
 iotivity:
-  release-engineers:
+  release_engineers:
     - snandigam8413
 opendaylight:
-  release-engineers:
+  release_engineers:
     - zxiiro
     - askb
     - agrimberg
 onap:
-  release-engineers:
+  release_engineers:
     - jwagantall
     - bthuree
   tsc:
@@ -41,6 +41,6 @@ onap:
     - mtnskiier
     - tperala
 opnfv:
-  release-engineers:
+  release_engineers:
     - bramwelt
     - agardner
