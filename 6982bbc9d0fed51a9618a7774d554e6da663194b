@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fc71b614_bdb82fed",
+        "filename": "INFO-master.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2019-07-11T17:33:47Z",
+      "side": 1,
+      "message": "Can you use _ instead of -? If not, we should consider camel-case because that is hard to read without a separator.",
+      "range": {
+        "startLine": 3,
+        "startChar": 2,
+        "endLine": 3,
+        "endChar": 18
+      },
+      "revId": "6982bbc9d0fed51a9618a7774d554e6da663194b",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
