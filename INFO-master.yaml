@@ -13,7 +13,6 @@ iotivity:
     - snandigam8413
 opendaylight:
   release_engineers:
-    - zxiiro
     - askb
     - agrimberg
 onap:
