@@ -44,3 +44,8 @@ opnfv:
   release_engineers:
     - bramwelt
     - agardner
+oran:
+  release_engineers:
+    - tykeal
+    - jwagantall
+    - DWTalton
