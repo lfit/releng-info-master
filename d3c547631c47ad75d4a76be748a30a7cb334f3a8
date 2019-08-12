@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1cbaa4d7_31ffc17a",
+        "filename": "gerrit.onap.org/modeling/genericparser/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-12T23:47:28Z",
+      "side": 1,
+      "message": "Wrong link for this persons approval",
+      "range": {
+        "startLine": 47,
+        "startChar": 17,
+        "endLine": 47,
+        "endChar": 76
+      },
+      "revId": "d3c547631c47ad75d4a76be748a30a7cb334f3a8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "43494974_6409d2ec",
+        "filename": "gerrit.onap.org/modeling/genericparser/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-12T23:47:28Z",
+      "side": 1,
+      "message": "Wrong link for this persons approval",
+      "range": {
+        "startLine": 50,
+        "startChar": 0,
+        "endLine": 50,
+        "endChar": 3
+      },
+      "revId": "d3c547631c47ad75d4a76be748a30a7cb334f3a8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "78d03369_f7f519c8",
+        "filename": "gerrit.onap.org/modeling/genericparser/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-12T23:47:28Z",
+      "side": 1,
+      "message": "Wrong link for this persons approval",
+      "range": {
+        "startLine": 53,
+        "startChar": 0,
+        "endLine": 53,
+        "endChar": 3
+      },
+      "revId": "d3c547631c47ad75d4a76be748a30a7cb334f3a8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "63239d51_f81efa0d",
+        "filename": "gerrit.onap.org/modeling/genericparser/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-12T23:47:28Z",
+      "side": 1,
+      "message": "Wrong link, should point to this persons formal approval from TSC",
+      "range": {
+        "startLine": 56,
+        "startChar": 0,
+        "endLine": 57,
+        "endChar": 1
+      },
+      "revId": "d3c547631c47ad75d4a76be748a30a7cb334f3a8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
