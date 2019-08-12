@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f8b91b1f_d10745a9",
+        "filename": "gerrit.onap.org/oom/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-12T03:15:20Z",
+      "side": 1,
+      "message": "Need a proper link pointing to the official approval.",
+      "range": {
+        "startLine": 87,
+        "startChar": 0,
+        "endLine": 87,
+        "endChar": 3
+      },
+      "revId": "61dc2402a7b868722e09a03f46cf0f0414ac34d3",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
