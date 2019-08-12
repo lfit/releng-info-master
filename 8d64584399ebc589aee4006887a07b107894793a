@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "548c8343_5d61d85c",
+        "filename": "gerrit.onap.org/modeling/genericparser/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-12T03:18:26Z",
+      "side": 1,
+      "message": "Please update the link to point to the correct individual committers approval from TSC.\nSeems to all point to Lingli and Serban as well as a different repository.",
+      "range": {
+        "startLine": 40,
+        "startChar": 0,
+        "endLine": 48,
+        "endChar": 3
+      },
+      "revId": "8d64584399ebc589aee4006887a07b107894793a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
