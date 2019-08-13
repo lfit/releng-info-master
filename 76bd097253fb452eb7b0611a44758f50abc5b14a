@@ -1,0 +1,234 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6970b146_277641c6",
+        "filename": "gerrit.onap.org/sdc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-13T00:07:15Z",
+      "side": 1,
+      "message": "Wrong timezone, should be Asia/Jerusalem according to https://time.is/Lod",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 3
+      },
+      "revId": "76bd097253fb452eb7b0611a44758f50abc5b14a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5a9937c4_4b15efa3",
+        "filename": "gerrit.onap.org/sdc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-13T00:07:15Z",
+      "side": 1,
+      "message": "Mismatch between below list of committers and whats in the access table.",
+      "range": {
+        "startLine": 32,
+        "startChar": 0,
+        "endLine": 32,
+        "endChar": 1
+      },
+      "revId": "76bd097253fb452eb7b0611a44758f50abc5b14a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "7ce69366_7d19f244",
+        "filename": "gerrit.onap.org/sdc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-13T00:07:15Z",
+      "side": 1,
+      "message": "Can\u0027t find TSC approval on this link",
+      "range": {
+        "startLine": 87,
+        "startChar": 0,
+        "endLine": 87,
+        "endChar": 3
+      },
+      "revId": "76bd097253fb452eb7b0611a44758f50abc5b14a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "56c25296_5780584c",
+        "filename": "gerrit.onap.org/sdc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-13T00:07:15Z",
+      "side": 1,
+      "message": "Can\u0027t find TSC approval on this link",
+      "range": {
+        "startLine": 90,
+        "startChar": 0,
+        "endLine": 90,
+        "endChar": 3
+      },
+      "revId": "76bd097253fb452eb7b0611a44758f50abc5b14a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "8516a65c_d3c9de4a",
+        "filename": "gerrit.onap.org/sdc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-13T00:07:15Z",
+      "side": 1,
+      "message": "Can\u0027t find TSC approval on this link",
+      "range": {
+        "startLine": 93,
+        "startChar": 0,
+        "endLine": 93,
+        "endChar": 3
+      },
+      "revId": "76bd097253fb452eb7b0611a44758f50abc5b14a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3d859717_dcb7be1a",
+        "filename": "gerrit.onap.org/sdc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-13T00:07:15Z",
+      "side": 1,
+      "message": "Can\u0027t find TSC approval on this link",
+      "range": {
+        "startLine": 96,
+        "startChar": 17,
+        "endLine": 96,
+        "endChar": 76
+      },
+      "revId": "76bd097253fb452eb7b0611a44758f50abc5b14a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a3506f81_966b0e59",
+        "filename": "gerrit.onap.org/sdc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-13T00:07:15Z",
+      "side": 1,
+      "message": "Can\u0027t find TSC approval on this link",
+      "range": {
+        "startLine": 99,
+        "startChar": 0,
+        "endLine": 99,
+        "endChar": 3
+      },
+      "revId": "76bd097253fb452eb7b0611a44758f50abc5b14a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e71e159e_0681e2c6",
+        "filename": "gerrit.onap.org/sdc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-13T00:07:15Z",
+      "side": 1,
+      "message": "No information regarding Michael Lando beeing removed.",
+      "range": {
+        "startLine": 105,
+        "startChar": 0,
+        "endLine": 105,
+        "endChar": 3
+      },
+      "revId": "76bd097253fb452eb7b0611a44758f50abc5b14a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "11d7fdfe_dd22dd7a",
+        "filename": "gerrit.onap.org/sdc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-13T00:07:15Z",
+      "side": 1,
+      "message": "Can not find TSC Approval for this person in link provided",
+      "range": {
+        "startLine": 108,
+        "startChar": 0,
+        "endLine": 108,
+        "endChar": 3
+      },
+      "revId": "76bd097253fb452eb7b0611a44758f50abc5b14a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "08c6182a_3d158265",
+        "filename": "gerrit.onap.org/sdc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-13T00:07:15Z",
+      "side": 1,
+      "message": "No information regarding Vitaliy beeing removed",
+      "range": {
+        "startLine": 111,
+        "startChar": 0,
+        "endLine": 111,
+        "endChar": 3
+      },
+      "revId": "76bd097253fb452eb7b0611a44758f50abc5b14a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
