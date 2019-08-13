@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2d52d8aa_0538f757",
+        "filename": "gerrit.onap.org/vid/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-13T21:17:10Z",
+      "side": 1,
+      "message": "The IANA time zone identifier for Lod is Asia/Jerusalem.",
+      "range": {
+        "startLine": 49,
+        "startChar": 0,
+        "endLine": 49,
+        "endChar": 3
+      },
+      "revId": "77b95dad6aeada8be9a348a8261bbe4f1272c36f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
