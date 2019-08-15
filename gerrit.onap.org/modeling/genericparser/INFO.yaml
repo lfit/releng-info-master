@@ -1,0 +1,47 @@
+---
+project: 'modeling-genericparser'
+project_creation_date: '2019-02-05'
+project_category: ''
+lifecycle_state: 'Incubation'
+project_lead: &onap_modeling_ptl
+    name: 'Hui Deng'
+    email: 'denghui12@huawei.com'
+    company: 'Huawei'
+    id: 'denghui02'
+    timezone: 'Asia/Shanghai'
+primary_contact: *onap_modeling_ptl
+issue_tracking:
+    type: 'jira'
+    url: 'https://jira.onap.org/projects/MODELING'
+    key: 'MODELING'
+mailing_list:
+    type: 'groups.io'
+    url: 'https://lists.onap.org/g/onap-discuss'
+    tag: '[modeling]'
+realtime_discussion: ''
+meetings:
+    - type: 'zoom'
+      agenda: 'https://wiki.onap.org/display/DW/Modeling+Project+Meetings'
+      url: 'https://wiki.onap.org/display/DW/Modeling+Project'
+      server: 'n/a'
+      channel: 'n/a'
+      repeats: 'dual weekly'
+      time: '13:00 UTC'
+repositories:
+    - 'modeling-genericparser'
+committers:
+    - <<: *onap_modeling_ptl
+    - name: 'Yuanhong Deng'
+      email: 'dengyuanhong@chinamobile.com'
+      company: 'CMCC'
+      id: 'dengyh'
+      timezone: 'Asia/Shanghai'
+tsc:
+    approval: 'https://lists.onap.org/pipermail/onap-tsc'
+    changes:
+        - type: 'Addition'
+          name: 'Hui Deng'
+          link: 'https://lists.onap.org/g/onap-tsc/message/3499'
+        - type: 'Addition'
+          name: 'Yuanhong Deng'
+          link: 'https://lists.onap.org/g/onap-tsc/message/5221'
