@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2903f64d_4c5fec05",
+        "filename": "gerrit.onap.org/sdc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-29T12:38:17Z",
+      "side": 1,
+      "message": "Should this person be a committer? Missmatch between this list and Access Table.\nPlease confirm list of committers, and update Wiki (if needed)",
+      "range": {
+        "startLine": 64,
+        "startChar": 0,
+        "endLine": 64,
+        "endChar": 3
+      },
+      "revId": "a63a27abeac669b0a859a3511c999ad057b935be",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
