@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d98f850a_3cdedc84",
+        "filename": "gerrit.onap.org/oparent/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-29T12:15:43Z",
+      "side": 1,
+      "message": "Could you confirm this list of committers?\nThere seems to be a missmatch between this list, and the LDAP Access Table, as well as the WIKI page.",
+      "range": {
+        "startLine": 32,
+        "startChar": 0,
+        "endLine": 32,
+        "endChar": 1
+      },
+      "revId": "c8290f804a396c64600acb6e7cdc6b3f2d41254f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "08150639_6997001f",
+        "filename": "gerrit.onap.org/oparent/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-29T12:15:43Z",
+      "side": 1,
+      "message": "Timezone should be Europe/Brussels",
+      "range": {
+        "startLine": 38,
+        "startChar": 0,
+        "endLine": 38,
+        "endChar": 3
+      },
+      "revId": "c8290f804a396c64600acb6e7cdc6b3f2d41254f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5b363c94_40f6d9ea",
+        "filename": "gerrit.onap.org/oparent/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-29T12:15:43Z",
+      "side": 1,
+      "message": "Timezone should be : Europe/Paris",
+      "range": {
+        "startLine": 53,
+        "startChar": 0,
+        "endLine": 53,
+        "endChar": 3
+      },
+      "revId": "c8290f804a396c64600acb6e7cdc6b3f2d41254f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "8d842784_7c99ece0",
+        "filename": "gerrit.onap.org/oparent/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-29T12:15:43Z",
+      "side": 1,
+      "message": "Should have individual links that shows approval for addition or removal for each committer/ptl",
+      "range": {
+        "startLine": 55,
+        "startChar": 0,
+        "endLine": 55,
+        "endChar": 3
+      },
+      "revId": "c8290f804a396c64600acb6e7cdc6b3f2d41254f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
