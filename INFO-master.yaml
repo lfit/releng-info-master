@@ -45,6 +45,6 @@ opnfv:
     - agardner
 oransc:
   release_engineers:
-    - tykeal
+    - agrimberg
     - jwagantall
     - DWTalton
