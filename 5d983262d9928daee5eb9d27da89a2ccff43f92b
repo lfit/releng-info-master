@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e19d044b_b3b05a93",
+        "filename": "gerrit.onap.org/sdc/sdc-tosca/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-29T12:26:18Z",
+      "side": 1,
+      "message": "Could you please confirm the persons that should have committer rights?\nThe list below do not match the WIKI nor the LDAP Access Table either.",
+      "range": {
+        "startLine": 32,
+        "startChar": 0,
+        "endLine": 32,
+        "endChar": 1
+      },
+      "revId": "5d983262d9928daee5eb9d27da89a2ccff43f92b",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
