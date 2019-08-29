@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4a2421f0_e65a5fc1",
+        "filename": "gerrit.onap.org/sdc/sdc-workflow-designer/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-08-29T12:32:56Z",
+      "side": 1,
+      "message": "This link also specified addition of Inna Manzon. Dont see her name anywhere.\nCould you please confirm who the committers should be (update WIKI also)",
+      "range": {
+        "startLine": 111,
+        "startChar": 17,
+        "endLine": 111,
+        "endChar": 63
+      },
+      "revId": "8b5a7100a28bfea0bbb8e4830c7898fa252191af",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
