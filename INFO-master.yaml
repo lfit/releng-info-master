@@ -43,7 +43,7 @@ opnfv:
   release_engineers:
     - bramwelt
     - agardner
-o-ran-sc:
+oransc:
   release_engineers:
     - tykeal
     - jwagantall
