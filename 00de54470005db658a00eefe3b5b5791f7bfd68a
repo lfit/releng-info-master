@@ -1,0 +1,8 @@
+Verified+1: Jenkins CI <releng+lf-jenkins@linuxfoundation.org>
+Code-Review+2: Aric Gardner <agardner@linuxfoundation.org>
+Code-Review+2: Vanessa Rene Valderrama <vvalderrama@linuxfoundation.org>
+Submitted-by: Vanessa Rene Valderrama <vvalderrama@linuxfoundation.org>
+Submitted-at: Thu, 29 Aug 2019 15:16:16 +0000
+Reviewed-on: https://gerrit.linuxfoundation.org/infra/c/releng/info-master/+/61526
+Project: releng/info-master
+Branch: refs/heads/master
