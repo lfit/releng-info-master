@@ -22,6 +22,30 @@
       "revId": "77b95dad6aeada8be9a348a8261bbe4f1272c36f",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fc65144a_30b6fab0",
+        "filename": "gerrit.onap.org/vid/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2019-09-06T22:56:59Z",
+      "side": 1,
+      "message": "I am going to approve this change since I am no longer being too strict with timezones. is too much work to do for ONAP and i see no help from the VID team",
+      "parentUuid": "2d52d8aa_0538f757",
+      "range": {
+        "startLine": 49,
+        "startChar": 0,
+        "endLine": 49,
+        "endChar": 3
+      },
+      "revId": "77b95dad6aeada8be9a348a8261bbe4f1272c36f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
     }
   ]
 }
