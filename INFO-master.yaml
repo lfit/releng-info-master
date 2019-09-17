@@ -2,6 +2,9 @@
 acumos:
   release_engineers:
     - eball
+akraino:
+  release_engineers:
+    - eball
 fdio:
   release_engineers:
     - valderrv
