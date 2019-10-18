@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "849fa813_f97beff7",
+        "filename": "gerrit.o-ran-sc.org/aal/virt/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-10-18T04:47:46Z",
+      "side": 1,
+      "message": "Should Jackie be on this repo? Link states approved for pti/rtp",
+      "range": {
+        "startLine": 53,
+        "startChar": 0,
+        "endLine": 53,
+        "endChar": 2
+      },
+      "revId": "f7a126587f359263b7416580bd45a9dff5adbc34",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "9a3ac12e_a6665ea5",
+        "filename": "gerrit.o-ran-sc.org/aal/virt/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-10-18T04:47:46Z",
+      "side": 1,
+      "message": "I would prefer to have one name per type (addition/removal).",
+      "range": {
+        "startLine": 53,
+        "startChar": 0,
+        "endLine": 54,
+        "endChar": 2
+      },
+      "revId": "f7a126587f359263b7416580bd45a9dff5adbc34",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
