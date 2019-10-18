@@ -22,6 +22,30 @@
       "revId": "1392f9a2aeb3eb5c5c5f334e6abe03ad455873bd",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "27022b58_f88ce7f4",
+        "filename": "gerrit.o-ran-sc.org/aal/mgmt/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2019-10-18T18:18:07Z",
+      "side": 1,
+      "message": "Bengt, I don\u0027t think projects track the change in lfgerrit. \nCan you please make these comments in the corresponding o-ran change? Make sure people notice that the LDAP changes are blocked on this. \nThe 1 name per type is not a big deal.. is not flagged by jjb",
+      "parentUuid": "ca0af36c_30bc03e5",
+      "range": {
+        "startLine": 53,
+        "startChar": 0,
+        "endLine": 53,
+        "endChar": 2
+      },
+      "revId": "1392f9a2aeb3eb5c5c5f334e6abe03ad455873bd",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
     }
   ]
 }
