@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "21455b3f_e11ef251",
+        "filename": "gerrit.o-ran-sc.org/aal/logic/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-10-18T04:52:22Z",
+      "side": 1,
+      "message": "Link states Jackie only has approval for pti/rtp. \nAlso, one name per type (addition/removal) please",
+      "range": {
+        "startLine": 53,
+        "startChar": 0,
+        "endLine": 53,
+        "endChar": 2
+      },
+      "revId": "b9d2e175545ec9ddf90c18bccc656550fb1f7eab",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
