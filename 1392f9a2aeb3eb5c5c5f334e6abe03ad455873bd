@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ca0af36c_30bc03e5",
+        "filename": "gerrit.o-ran-sc.org/aal/mgmt/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-10-18T04:51:16Z",
+      "side": 1,
+      "message": "Link states that Jackie should only have committer rights for pti/rtp\nAlso, one name per type (addition/removal)",
+      "range": {
+        "startLine": 53,
+        "startChar": 0,
+        "endLine": 53,
+        "endChar": 2
+      },
+      "revId": "1392f9a2aeb3eb5c5c5f334e6abe03ad455873bd",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
