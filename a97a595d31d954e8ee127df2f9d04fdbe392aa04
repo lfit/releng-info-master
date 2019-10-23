@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "15dd8028_27d5a0ab",
+        "filename": "gerrit.opnfv.org/pharos/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2019-10-23T03:52:48Z",
+      "side": 1,
+      "message": "This should preferable be from https://time.is/",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 3
+      },
+      "revId": "a97a595d31d954e8ee127df2f9d04fdbe392aa04",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
