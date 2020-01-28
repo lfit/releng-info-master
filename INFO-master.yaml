@@ -5,7 +5,7 @@ acumos:
 akraino:
   release_engineers:
     - eball
-fdio:
+fd:
   release_engineers:
     - valderrv
 hyperledger:
