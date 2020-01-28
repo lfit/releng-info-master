@@ -1,0 +1,67 @@
+---
+project: 'cicn'
+project_creation_date: '2017-02-02'
+project_category: ''
+lifecycle_state: 'Incubation'
+project_lead: &cicn_ptl
+    name: 'Luca Muscariello'
+    email: 'lumuscar+fdio@cisco.com'
+    id: 'muscariello'
+    company: 'cisco'
+    timezone: 'Unknown/Unknown'
+primary_contact: *cicn_ptl
+issue_tracking:
+    type: 'Jira'
+    url: 'https://jira.fd.io/projects/CICN/issues'
+    key: 'CICN'
+mailing_list:
+    type: 'groups.io'
+    url: 'https://lists.fd.io/g/cicn-dev'
+    tag: ''
+realtime_discussion:
+    type: 'Slack'
+    server: 'fdio-project.slack.com'
+    channel: '#cicn'
+meetings:
+    - type: ''
+      agenda: ''
+      url: ''
+      server: ''
+      channel: ''
+      repeats: ''
+      time: ''
+repositories:
+    - 'cicn'
+committers:
+    - <<: *cicn_ptl
+    - name: 'Alberto Compagno'
+      company: 'cisco'
+      email: 'acompagn+fdio@cisco.com'
+      id: 'acompagn'
+      timezone: 'Unknown/Unknown'
+    - name: 'Jim Gibson'
+      company: 'cisco'
+      email: 'gibson+fdio@cisco.com'
+      id: 'jgibson'
+      timezone: 'Unknown/Unknown'
+    - name: 'Jordan Augé'
+      company: 'cisco'
+      email: 'jordan.auge+fdio@cisco.com'
+      id: 'jordan.auge'
+      timezone: 'Unknown/Unknown'
+    - name: 'Mauro Sardara'
+      company: 'cisco'
+      email: 'msardara@cisco.com'
+      id: 'mauro91'
+      timezone: 'Unknown/Unknown'
+    - name: ' Michele Papalini'
+      company: 'cisco'
+      email: 'micpapal@cisco.com'
+      id: 'micpapal'
+      timezone: 'Unknown/Unknown'
+tsc:
+    approval: 'https://wiki.fd.io/view/TSC/Meeting_Minutes'
+    changes:
+        - type: ''
+          name: ''
+          link: ''
