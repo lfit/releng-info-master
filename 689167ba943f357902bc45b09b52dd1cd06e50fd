@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e3148b9b_b28723a0",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/o1/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2020-01-29T20:35:50Z",
+      "side": 1,
+      "message": "should this be ric-plt-o1?",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 21
+      },
+      "revId": "689167ba943f357902bc45b09b52dd1cd06e50fd",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
