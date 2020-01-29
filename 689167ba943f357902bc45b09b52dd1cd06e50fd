@@ -73,6 +73,30 @@
     },
     {
       "key": {
+        "uuid": "8cab3f0d_1848da86",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/o1/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 12
+      },
+      "writtenOn": "2020-01-29T20:49:26Z",
+      "side": 1,
+      "message": "actually a good point there, I may fix the generation script...",
+      "parentUuid": "1a2c0d61_b7055abf",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 21
+      },
+      "revId": "689167ba943f357902bc45b09b52dd1cd06e50fd",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "4ac4a642_04d2f50b",
         "filename": "gerrit.o-ran-sc.org/ric-plt/o1/INFO.yaml",
         "patchSetId": 1
