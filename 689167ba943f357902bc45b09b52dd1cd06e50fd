@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "6d19cca0_dd3b35bc",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/o1/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 12
+      },
+      "writtenOn": "2020-01-29T20:41:31Z",
+      "side": 1,
+      "message": "I dunno, thats their repo name, they can change it to whatever if they like.",
+      "parentUuid": "e3148b9b_b28723a0",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 21
+      },
+      "revId": "689167ba943f357902bc45b09b52dd1cd06e50fd",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "4ac4a642_04d2f50b",
         "filename": "gerrit.o-ran-sc.org/ric-plt/o1/INFO.yaml",
         "patchSetId": 1
