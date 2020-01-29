@@ -45,6 +45,30 @@
       "revId": "689167ba943f357902bc45b09b52dd1cd06e50fd",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5f857c37_f3324a98",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/o1/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 12
+      },
+      "writtenOn": "2020-01-29T20:40:39Z",
+      "side": 1,
+      "message": "we don\u0027t know their time zones, they can fix it if they like.",
+      "parentUuid": "4ac4a642_04d2f50b",
+      "range": {
+        "startLine": 37,
+        "startChar": 0,
+        "endLine": 44,
+        "endChar": 20
+      },
+      "revId": "689167ba943f357902bc45b09b52dd1cd06e50fd",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
     }
   ]
 }
