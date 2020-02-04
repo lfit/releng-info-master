@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "47038c98_3f56526e",
+        "filename": "gerrit.onap.org/aaf/certservice/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 374
+      },
+      "writtenOn": "2020-02-04T09:42:37Z",
+      "side": 1,
+      "message": "Wrong id, correct one is \u0027baniewsk\u0027",
+      "revId": "f7fb3f4de1b764d7787d85c363f84e7bd7c86dd7",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
