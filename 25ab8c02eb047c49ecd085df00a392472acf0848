@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7d272d5b_bf9418b1",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/xapp-frame-cpp/INFO.yaml",
+        "patchSetId": 6
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:34:09Z",
+      "side": 1,
+      "message": "This is not correct, Thoralf is in Espoo, Finland; UTC+2.  I suggest:\n\n    Europe/Helsinki",
+      "range": {
+        "startLine": 11,
+        "startChar": 15,
+        "endLine": 11,
+        "endChar": 31
+      },
+      "revId": "25ab8c02eb047c49ecd085df00a392472acf0848",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a3c03f36_30bb17d2",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/xapp-frame-cpp/INFO.yaml",
+        "patchSetId": 6
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:34:09Z",
+      "side": 1,
+      "message": "https://wiki.o-ran-sc.org/",
+      "range": {
+        "startLine": 27,
+        "startChar": 15,
+        "endLine": 27,
+        "endChar": 36
+      },
+      "revId": "25ab8c02eb047c49ecd085df00a392472acf0848",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0aa707d3_22352098",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/xapp-frame-cpp/INFO.yaml",
+        "patchSetId": 6
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:34:09Z",
+      "side": 1,
+      "message": "escottdaniels (two Ts)",
+      "range": {
+        "startLine": 44,
+        "startChar": 11,
+        "endLine": 44,
+        "endChar": 23
+      },
+      "revId": "25ab8c02eb047c49ecd085df00a392472acf0848",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
