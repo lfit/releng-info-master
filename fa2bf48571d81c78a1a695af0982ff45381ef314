@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9891c241_33f50eca",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/xapp-frame-py/INFO.yaml",
+        "patchSetId": 6
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:51:08Z",
+      "side": 1,
+      "message": "Europe/Helsinki",
+      "range": {
+        "startLine": 11,
+        "startChar": 15,
+        "endLine": 11,
+        "endChar": 31
+      },
+      "revId": "fa2bf48571d81c78a1a695af0982ff45381ef314",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "88b24564_d498c214",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/xapp-frame-py/INFO.yaml",
+        "patchSetId": 6
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:51:08Z",
+      "side": 1,
+      "message": "AT\u0026T",
+      "range": {
+        "startLine": 39,
+        "startChar": 16,
+        "endLine": 39,
+        "endChar": 19
+      },
+      "revId": "fa2bf48571d81c78a1a695af0982ff45381ef314",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "8d26ec16_9009779d",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/xapp-frame-py/INFO.yaml",
+        "patchSetId": 6
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:51:08Z",
+      "side": 1,
+      "message": "America/New_York",
+      "range": {
+        "startLine": 41,
+        "startChar": 17,
+        "endLine": 41,
+        "endChar": 32
+      },
+      "revId": "fa2bf48571d81c78a1a695af0982ff45381ef314",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "bfd6fc65_ffb32587",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/xapp-frame-py/INFO.yaml",
+        "patchSetId": 6
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:51:08Z",
+      "side": 1,
+      "message": "AT\u0026T",
+      "range": {
+        "startLine": 44,
+        "startChar": 16,
+        "endLine": 44,
+        "endChar": 19
+      },
+      "revId": "fa2bf48571d81c78a1a695af0982ff45381ef314",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
