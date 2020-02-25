@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ae01b00_c1126e6f",
+        "filename": "gerrit.onap.org/ric-plt/alarm-cpp/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T18:42:58Z",
+      "side": 1,
+      "message": "this is not the right email list",
+      "range": {
+        "startLine": 19,
+        "startChar": 28,
+        "endLine": 19,
+        "endChar": 42
+      },
+      "revId": "204464086a6b369f19aa11d3b12d9a4ab2ba05d7",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "4048d2ba_48975aad",
+        "filename": "gerrit.onap.org/ric-plt/alarm-cpp/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T18:42:58Z",
+      "side": 1,
+      "message": "this is not the right wiki",
+      "range": {
+        "startLine": 27,
+        "startChar": 15,
+        "endLine": 27,
+        "endChar": 36
+      },
+      "revId": "204464086a6b369f19aa11d3b12d9a4ab2ba05d7",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b4c62f0b_556b43c6",
+        "filename": "gerrit.onap.org/ric-plt/alarm-cpp/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T18:42:58Z",
+      "side": 1,
+      "message": "This one is right :)",
+      "range": {
+        "startLine": 47,
+        "startChar": 15,
+        "endLine": 47,
+        "endChar": 41
+      },
+      "revId": "204464086a6b369f19aa11d3b12d9a4ab2ba05d7",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
