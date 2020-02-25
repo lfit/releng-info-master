@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bc6b1f18_90429986",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/alarm-cpp/INFO.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:03:44Z",
+      "side": 1,
+      "message": "https://jira.o-ran-sc.org/projects/",
+      "range": {
+        "startLine": 15,
+        "startChar": 10,
+        "endLine": 15,
+        "endChar": 31
+      },
+      "revId": "2435addd9327f24b4adc1502d5cc19b7bcbde191",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a1c2f639_3f1e144c",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/alarm-cpp/INFO.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:03:44Z",
+      "side": 1,
+      "message": "https://lists.o-ran-sc.org/g/main says  main@lists.o-ran-sc.org",
+      "range": {
+        "startLine": 19,
+        "startChar": 10,
+        "endLine": 19,
+        "endChar": 42
+      },
+      "revId": "2435addd9327f24b4adc1502d5cc19b7bcbde191",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b9e06559_19f80b26",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/alarm-cpp/INFO.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:03:44Z",
+      "side": 1,
+      "message": "I found no such channel on freenode.  Perhaps it should exist, perhaps it\u0027s ok to leave this, IDK.",
+      "range": {
+        "startLine": 24,
+        "startChar": 14,
+        "endLine": 24,
+        "endChar": 20
+      },
+      "revId": "2435addd9327f24b4adc1502d5cc19b7bcbde191",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0cc432b7_7e656a7f",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/alarm-cpp/INFO.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:03:44Z",
+      "side": 1,
+      "message": "https://wiki.o-ran-sc.org/\n\n(not /display suffix please)",
+      "range": {
+        "startLine": 27,
+        "startChar": 15,
+        "endLine": 27,
+        "endChar": 44
+      },
+      "revId": "2435addd9327f24b4adc1502d5cc19b7bcbde191",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f7b64050_4579d069",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/alarm-cpp/INFO.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:03:44Z",
+      "side": 1,
+      "message": "see above",
+      "range": {
+        "startLine": 30,
+        "startChar": 17,
+        "endLine": 30,
+        "endChar": 21
+      },
+      "revId": "2435addd9327f24b4adc1502d5cc19b7bcbde191",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
