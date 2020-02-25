@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b35ba79e_65c62e92",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T18:44:10Z",
+      "side": 1,
+      "message": "ORAN (not onap)",
+      "range": {
+        "startLine": 7,
+        "startChar": 4,
+        "endLine": 7,
+        "endChar": 8
+      },
+      "revId": "0e5838ae69d1937562067196b8a1b191d48e2bc8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "8af22381_1a4aefb3",
+        "filename": "gerrit.onap.org/ric-plt/alarm-go/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T18:44:10Z",
+      "side": 1,
+      "message": "o-ran-sc",
+      "range": {
+        "startLine": 15,
+        "startChar": 23,
+        "endLine": 15,
+        "endChar": 27
+      },
+      "revId": "0e5838ae69d1937562067196b8a1b191d48e2bc8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c7c46570_e79b897c",
+        "filename": "gerrit.onap.org/ric-plt/alarm-go/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T18:44:10Z",
+      "side": 1,
+      "message": "o-ran-sc",
+      "range": {
+        "startLine": 27,
+        "startChar": 28,
+        "endLine": 27,
+        "endChar": 32
+      },
+      "revId": "0e5838ae69d1937562067196b8a1b191d48e2bc8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "86a72b0f_74f443de",
+        "filename": "gerrit.onap.org/ric-plt/alarm-go/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T18:44:10Z",
+      "side": 1,
+      "message": "oran doesn\u0027t have an IRC as far as I know",
+      "range": {
+        "startLine": 30,
+        "startChar": 17,
+        "endLine": 30,
+        "endChar": 21
+      },
+      "revId": "0e5838ae69d1937562067196b8a1b191d48e2bc8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
