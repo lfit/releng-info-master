@@ -71,6 +71,30 @@
     },
     {
       "key": {
+        "uuid": "3369373e_388cb042",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/xapp-frame-cpp/INFO.yaml",
+        "patchSetId": 7
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 379
+      },
+      "writtenOn": "2020-02-25T21:50:16Z",
+      "side": 1,
+      "message": "Yes, it should have two \"t\"  \nUsername EScottDaniels\nFull name Scott Daniels",
+      "parentUuid": "48a906ff_7abeff3a",
+      "range": {
+        "startLine": 44,
+        "startChar": 11,
+        "endLine": 44,
+        "endChar": 23
+      },
+      "revId": "c5d8f2acf5cfd940c63c0b8a15e35ff38a0f5122",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "4f9f5e73_30a47cd6",
         "filename": "gerrit.o-ran-sc.org/ric-plt/xapp-frame-cpp/INFO.yaml",
         "patchSetId": 7
