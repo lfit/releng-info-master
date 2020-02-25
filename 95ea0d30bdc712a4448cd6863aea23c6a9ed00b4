@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9fe73ca8_d32330dc",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/alarm-go/INFO.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:53:21Z",
+      "side": 1,
+      "message": "Europe/Helsinki",
+      "range": {
+        "startLine": 11,
+        "startChar": 15,
+        "endLine": 11,
+        "endChar": 31
+      },
+      "revId": "95ea0d30bdc712a4448cd6863aea23c6a9ed00b4",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
