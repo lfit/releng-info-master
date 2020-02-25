@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "972273b7_3fa86717",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/xapp-frame-cpp/INFO.yaml",
+        "patchSetId": 7
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:52:58Z",
+      "side": 1,
+      "message": "Europe/Helsinki",
+      "range": {
+        "startLine": 11,
+        "startChar": 15,
+        "endLine": 11,
+        "endChar": 31
+      },
+      "revId": "c5d8f2acf5cfd940c63c0b8a15e35ff38a0f5122",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b4316657_f1ac058d",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/xapp-frame-cpp/INFO.yaml",
+        "patchSetId": 7
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:52:58Z",
+      "side": 1,
+      "message": "AT\u0026T",
+      "range": {
+        "startLine": 43,
+        "startChar": 16,
+        "endLine": 43,
+        "endChar": 19
+      },
+      "revId": "c5d8f2acf5cfd940c63c0b8a15e35ff38a0f5122",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "48a906ff_7abeff3a",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/xapp-frame-cpp/INFO.yaml",
+        "patchSetId": 7
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:52:58Z",
+      "side": 1,
+      "message": "escottdaniels\n\nScott says that this is missing a \u0027t\u0027 , I have no way of checking LF ID",
+      "range": {
+        "startLine": 44,
+        "startChar": 11,
+        "endLine": 44,
+        "endChar": 23
+      },
+      "revId": "c5d8f2acf5cfd940c63c0b8a15e35ff38a0f5122",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "4f9f5e73_30a47cd6",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/xapp-frame-cpp/INFO.yaml",
+        "patchSetId": 7
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T20:52:58Z",
+      "side": 1,
+      "message": "AT\u0026T",
+      "range": {
+        "startLine": 47,
+        "startChar": 16,
+        "endLine": 47,
+        "endChar": 19
+      },
+      "revId": "c5d8f2acf5cfd940c63c0b8a15e35ff38a0f5122",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
