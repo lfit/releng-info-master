@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9076431d_4beb2dff",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T18:45:46Z",
+      "side": 1,
+      "message": "ORAN",
+      "range": {
+        "startLine": 7,
+        "startChar": 4,
+        "endLine": 7,
+        "endChar": 8
+      },
+      "revId": "8d9e734cdcb37b07b836a5f1ac98c79d0a589c70",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c5458e12_a9b901f7",
+        "filename": "gerrit.onap.org/ric-plt/xapp-frame-py/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T18:45:46Z",
+      "side": 1,
+      "message": "oran_ric_plt_...",
+      "range": {
+        "startLine": 6,
+        "startChar": 15,
+        "endLine": 6,
+        "endChar": 45
+      },
+      "revId": "8d9e734cdcb37b07b836a5f1ac98c79d0a589c70",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "9c67fd65_3e6be62a",
+        "filename": "gerrit.onap.org/ric-plt/xapp-frame-py/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T18:45:46Z",
+      "side": 1,
+      "message": "o-ran-sc",
+      "range": {
+        "startLine": 15,
+        "startChar": 23,
+        "endLine": 15,
+        "endChar": 27
+      },
+      "revId": "8d9e734cdcb37b07b836a5f1ac98c79d0a589c70",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c5474043_b9028b3e",
+        "filename": "gerrit.onap.org/ric-plt/xapp-frame-py/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T18:45:46Z",
+      "side": 1,
+      "message": "IDK",
+      "range": {
+        "startLine": 24,
+        "startChar": 15,
+        "endLine": 24,
+        "endChar": 19
+      },
+      "revId": "8d9e734cdcb37b07b836a5f1ac98c79d0a589c70",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "8648cfc6_6d50fa03",
+        "filename": "gerrit.onap.org/ric-plt/xapp-frame-py/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-02-25T18:45:46Z",
+      "side": 1,
+      "message": "IDK",
+      "range": {
+        "startLine": 30,
+        "startChar": 17,
+        "endLine": 30,
+        "endChar": 21
+      },
+      "revId": "8d9e734cdcb37b07b836a5f1ac98c79d0a589c70",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
