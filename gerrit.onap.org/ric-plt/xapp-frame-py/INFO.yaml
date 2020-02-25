@@ -1,0 +1,57 @@
+---
+project: 'ric_plt_xapp_frame_py'
+project_creation_date: '2020-02-25'
+project_category: ''
+lifecycle_state: 'Incubation'
+project_lead: &onap_ric_plt_xapp_frame_py_ptl
+    name: 'Thoralf Czichy'
+    email: 'thoralf.czichy@nokia.com'
+    id: 'czichy'
+    company: 'Nokia'
+    timezone: 'America/New_York'
+primary_contact: *onap_ric_plt_xapp_frame_py_ptl
+issue_tracking:
+    type: 'jira'
+    url: 'https://jira.onap.org/projects/'
+    key: 'RICPLT'
+mailing_list:
+    type: 'groups.io'
+    url: 'technical-discuss@lists.onap.org'
+    tag: '[]'
+realtime_discussion:
+    type: 'irc'
+    server: 'freenode.net'
+    channel: '#onap'
+meetings:
+    - type: 'gotomeeting+irc'
+      agenda: 'https://wiki.onap.org/display/'
+      url: ''
+      server: 'freenode.net'
+      channel: '#onap'
+      repeats: ''
+      time: ''
+repositories:
+    - ric-plt/xapp-frame-py
+committers:
+    - <<: *onap_ric_plt_xapp_frame_py_ptl
+    - name: 'Tommy Carpenter'
+      email: 'tc677g@att.com'
+      company: 'att'
+      id: 'tommycarpenter'
+      timezone: 'Unknown/Unknown'
+    - name: 'Jack Lucas'
+      email: 'jflucas@research.att.com'
+      company: 'ATT'
+      id: 'jackl'
+      timezone: 'America/New_York'
+    - name: 'Timo Tietavainen'
+      email: 'timo.tietavainen@nokia.com'
+      company: 'nokia'
+      id: 'tietavai'
+tsc:
+    # yamllint disable rule:line-length
+    approval: 'https://lists.o-ran-sc.org/g/main/topic/71383459#488'
+    changes:
+        - type: ''
+          name: ''
+          link: ''
