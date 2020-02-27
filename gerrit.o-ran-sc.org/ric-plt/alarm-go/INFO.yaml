@@ -8,7 +8,7 @@ project_lead: &oran_ric_plt_alarm_go_ptl
     email: 'thoralf.czichy@nokia.com'
     id: 'czichy'
     company: 'Nokia'
-    timezone: 'America/New_York'
+    timezone: 'Europe/Helsinki'
 primary_contact: *oran_ric_plt_alarm_go_ptl
 issue_tracking:
     type: 'jira'
@@ -38,10 +38,12 @@ committers:
       email: 'abukar.mohamed@nokia.com'
       company: 'nokia'
       id: 'Nune'
+      timezone: 'Europe/Helsinki'
     - name: 'Timo Tietavainen'
       email: 'timo.tietavainen@nokia.com'
       company: 'nokia'
       id: 'tietavai'
+      timezone: 'Europe/Helsinki'
 tsc:
     # yamllint disable rule:line-length
     approval: 'https://lists.o-ran-sc.org/g/main/topic/71383459#488'
