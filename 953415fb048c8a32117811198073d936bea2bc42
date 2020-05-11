@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ce9d346_2db43522",
+        "filename": "gerrit.o-ran-sc.org/scp/ocu/5gnr/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-05-11T14:26:46Z",
+      "side": 1,
+      "message": "why are the company entries blank in this list?",
+      "range": {
+        "startLine": 39,
+        "startChar": 0,
+        "endLine": 39,
+        "endChar": 4
+      },
+      "revId": "953415fb048c8a32117811198073d936bea2bc42",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b37b9845_359a4aa8",
+        "filename": "gerrit.o-ran-sc.org/scp/ocu/5gnr/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-05-11T14:26:46Z",
+      "side": 1,
+      "message": "is case relevant in LF ID strings?",
+      "range": {
+        "startLine": 45,
+        "startChar": 11,
+        "endLine": 45,
+        "endChar": 12
+      },
+      "revId": "953415fb048c8a32117811198073d936bea2bc42",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a88d22f7_d58fc0ea",
+        "filename": "gerrit.o-ran-sc.org/scp/ocu/5gnr/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-05-11T14:26:46Z",
+      "side": 1,
+      "message": "probably LF IDs cannot start with a space character",
+      "range": {
+        "startLine": 55,
+        "startChar": 11,
+        "endLine": 55,
+        "endChar": 12
+      },
+      "revId": "953415fb048c8a32117811198073d936bea2bc42",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
