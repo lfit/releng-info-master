@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "41b00b76_47a7965b",
+        "filename": "gerrit.o-ran-sc.org/scp/ocu/5gnr/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2020-05-11T15:40:00Z",
+      "side": 1,
+      "message": "Was not provided to me, asking project for it now.",
+      "parentUuid": "1ce9d346_2db43522",
+      "range": {
+        "startLine": 39,
+        "startChar": 0,
+        "endLine": 39,
+        "endChar": 4
+      },
+      "revId": "953415fb048c8a32117811198073d936bea2bc42",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "b37b9845_359a4aa8",
         "filename": "gerrit.o-ran-sc.org/scp/ocu/5gnr/INFO.yaml",
         "patchSetId": 2
@@ -48,6 +72,30 @@
     },
     {
       "key": {
+        "uuid": "5799fd0d_beb03b1f",
+        "filename": "gerrit.o-ran-sc.org/scp/ocu/5gnr/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2020-05-11T15:40:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b37b9845_359a4aa8",
+      "range": {
+        "startLine": 45,
+        "startChar": 11,
+        "endLine": 45,
+        "endChar": 12
+      },
+      "revId": "953415fb048c8a32117811198073d936bea2bc42",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "a88d22f7_d58fc0ea",
         "filename": "gerrit.o-ran-sc.org/scp/ocu/5gnr/INFO.yaml",
         "patchSetId": 2
@@ -68,6 +116,30 @@
       "revId": "953415fb048c8a32117811198073d936bea2bc42",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "dae875e1_09239ab0",
+        "filename": "gerrit.o-ran-sc.org/scp/ocu/5gnr/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2020-05-11T15:40:00Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a88d22f7_d58fc0ea",
+      "range": {
+        "startLine": 55,
+        "startChar": 11,
+        "endLine": 55,
+        "endChar": 12
+      },
+      "revId": "953415fb048c8a32117811198073d936bea2bc42",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
     }
   ]
 }
