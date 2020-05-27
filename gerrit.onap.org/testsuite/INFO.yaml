@@ -1,7 +1,8 @@
 ---
-project: 'testsuite'
-project_creation_date: '2017-02-15'
+project: 'testsuite-pythonsdk-tests'
+project_creation_date: '2020-05-27'
 lifecycle_state: 'Incubation'
+project_category: ''
 project_lead: &onap_releng_ptl
     name: 'Morgan Richomme'
     email: 'morgan.richomme@orange.com'
@@ -9,7 +10,6 @@ project_lead: &onap_releng_ptl
     company: 'Orange'
     timezone: 'France/Paris'
 primary_contact: *onap_releng_ptl
-project_category: ''
 issue_tracking:
     type: 'jira'
     url: 'https://jira.onap.org/projects/TEST'
@@ -28,7 +28,7 @@ meetings:
       repeats: 'weekly'
       time: '14:00 UTC'
 repositories:
-    - 'testsuite'
+    - 'testsuite/pythonsdk-tests'
 committers:
     - <<: *onap_releng_ptl
     - name: 'Christophe Closset'
@@ -41,16 +41,16 @@ committers:
       company: 'ATT'
       id: 'DR695H'
       timezone: 'America/New_York'
+    - name: 'Catherine Lefevre'
+      email: 'cl664y@att.com'
+      company: 'AT&T'
+      id: 'Katel34'
+      timezone: 'Europe/Belgium'
     - name: 'Marco Platania'
       email: 'platania@research.att.com'
       company: 'ATT'
       id: 'platania'
       timezone: 'America/New_York'
-    - name: 'Chengli Wang'
-      email: 'wangchengli@chinamobile.com'
-      company: 'China Mobile'
-      id: 'wangchengli'
-      timezone: 'China/Beijing'
     - name: 'Brian Freeman'
       email: 'bf1936@att.com'
       company: 'AT&T'
@@ -96,14 +96,14 @@ tsc:
     approval: 'https://lists.onap.org/pipermail/onap-tsc'
     changes:
         - type: 'Addition'
+          name: 'Brian Freeman, Mariusz Wagner'
+          link: 'https://wiki.onap.org/display/DW/TSC+2019-02-21'
+        - type: 'Addition'
           name: 'Morgan Richomme'
           link: 'https://wiki.onap.org/display/DW/TSC+2019-10-17'
-        - type: 'Deletion'
-          name: 'Xiaolong Kong, Hector Anapan-Lavalle'
-          link: 'https://lists.onap.org/g/onap-discuss/message/19277'
         - type: 'Addition'
           name: 'Bartek, Marcin, Eric'
-          link: 'https://wiki.onap.org/display/DW/Integration+Team'
+          link: 'https://lists.onap.org/g/onap-tsc/message/5772'
         - type: 'Addition'
           name: 'Krzysztof Kuzmicki'
           link: 'https://lists.onap.org/g/onap-tsc/topic/onap_integration_committer/73303463'
