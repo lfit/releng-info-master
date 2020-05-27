@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "396b094a_827b5227",
+        "filename": "gerrit.onap.org/testsuite/pythonsdk-tests/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2020-05-27T18:48:35Z",
+      "side": 1,
+      "message": "Should this be testsuite_pythonsdk_tests_ptl?",
+      "range": {
+        "startLine": 6,
+        "startChar": 15,
+        "endLine": 6,
+        "endChar": 30
+      },
+      "revId": "94d8595dfeb4fecb472d34569bb800558c829382",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
