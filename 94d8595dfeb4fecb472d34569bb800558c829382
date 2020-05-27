@@ -22,6 +22,29 @@
       "revId": "94d8595dfeb4fecb472d34569bb800558c829382",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "333c41da_f44d8e23",
+        "filename": "gerrit.onap.org/testsuite/pythonsdk-tests/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 12
+      },
+      "writtenOn": "2020-05-27T19:18:31Z",
+      "side": 1,
+      "message": "Don\u0027t think this is needed fora new project, just the approval link should be fixed",
+      "range": {
+        "startLine": 96,
+        "startChar": 1,
+        "endLine": 116,
+        "endChar": 0
+      },
+      "revId": "94d8595dfeb4fecb472d34569bb800558c829382",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
     }
   ]
 }
