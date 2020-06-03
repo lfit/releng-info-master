@@ -1,19 +1,19 @@
 ---
 project: 'testsuite-pythonsdk-tests'
-project_creation_date: '2020-05-27'
+project_creation_date: '2020-05-29'
 lifecycle_state: 'Incubation'
 project_category: ''
-project_lead: &testsuite_pythonsdk_tests_ptl
+project_lead: &onap_releng_ptl
     name: 'Morgan Richomme'
     email: 'morgan.richomme@orange.com'
     id: 'mrichomme'
     company: 'Orange'
     timezone: 'France/Paris'
-primary_contact: *testsuite_pythonsdk_tests_ptl
+primary_contact: *onap_releng_ptl
 issue_tracking:
     type: 'jira'
-    url: 'https://jira.onap.org/projects/TEST'
-    key: 'TEST'
+    url: 'https://jira.onap.org/projects/INT'
+    key: 'INT'
 mailing_list:
     type: 'groups.io'
     url: 'lists.onap.org'
@@ -30,7 +30,7 @@ meetings:
 repositories:
     - 'testsuite/pythonsdk-tests'
 committers:
-    - <<: *testsuite_pythonsdk_tests_ptl
+    - <<: *onap_releng_ptl
     - name: 'Christophe Closset'
       email: 'cc697w@intl.att.com'
       company: 'ATT'
@@ -91,6 +91,21 @@ committers:
       company: 'Deutsche Telekom'
       id: 'andreasgeissler'
       timezone: 'Europe/Berlin'
+    - name: 'Michal Jagiello'
+      email: 'Michal.Jagiello@t-mobile.pl'
+      company: 'T-Mobile'
+      id: 'MichalJagielloTMPL'
+      timezone: 'Europe/Warsaw'
+    - name: 'Thierry Hardy'
+      email: 'thierry.hardy@orange.com'
+      company: 'Orange'
+      id: 'jardellos'
+      timezone: 'Europe/Paris'
+    - name: 'Sylvain Desbureaux'
+      email: 'sylvain.desbureaux@orange.com'
+      company: 'Orange'
+      id: 'sdesbure'
+      timezone: 'Paris/France'
 tsc:
     # yamllint disable rule:line-length
-    approval: 'https://lists.onap.org/g/onap-tsc/message/6408?'
+    approval: 'https://lists.onap.org/g/onap-tsc/message/6408?p=,,,20,0,0,0::relevance,,new+repository+for+integration+team+testsuite%2Fpythonsdk-tests,20,2,0,74178111'
