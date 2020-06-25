@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "b0299be1_1e466be1",
+        "filename": "gerrit.o-ran-sc.org/scp/ric-app/kpimon/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2020-06-25T10:02:45Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e3228680_3bdc9cf8",
+      "range": {
+        "startLine": 3,
+        "startChar": 24,
+        "endLine": 3,
+        "endChar": 34
+      },
+      "revId": "23ef84949146de01129e0aa1ab98c625fc2a20d2",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "f30e705a_7362bf45",
         "filename": "gerrit.o-ran-sc.org/scp/ric-app/kpimon/INFO.yaml",
         "patchSetId": 1
@@ -36,6 +60,30 @@
       "writtenOn": "2020-06-25T09:58:39Z",
       "side": 1,
       "message": "a very minor matter, the timezone is not correct.  I\u0027ll ask Matti to submit the correct one.",
+      "range": {
+        "startLine": 41,
+        "startChar": 17,
+        "endLine": 41,
+        "endChar": 33
+      },
+      "revId": "23ef84949146de01129e0aa1ab98c625fc2a20d2",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "260447ce_ee54a86d",
+        "filename": "gerrit.o-ran-sc.org/scp/ric-app/kpimon/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2020-06-25T10:02:45Z",
+      "side": 1,
+      "message": "Ok, thanks, perhaps you can fix it up when it is live?\nI copied the information from the other kpimon INFO file.",
+      "parentUuid": "f30e705a_7362bf45",
       "range": {
         "startLine": 41,
         "startChar": 17,
