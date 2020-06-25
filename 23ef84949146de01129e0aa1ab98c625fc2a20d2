@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e3228680_3bdc9cf8",
+        "filename": "gerrit.o-ran-sc.org/scp/ric-app/kpimon/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 29
+      },
+      "writtenOn": "2020-06-25T09:11:39Z",
+      "side": 1,
+      "message": "2020-06-24",
+      "range": {
+        "startLine": 3,
+        "startChar": 24,
+        "endLine": 3,
+        "endChar": 34
+      },
+      "revId": "23ef84949146de01129e0aa1ab98c625fc2a20d2",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
