@@ -22,6 +22,29 @@
       "revId": "23ef84949146de01129e0aa1ab98c625fc2a20d2",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f30e705a_7362bf45",
+        "filename": "gerrit.o-ran-sc.org/scp/ric-app/kpimon/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 114
+      },
+      "writtenOn": "2020-06-25T09:58:39Z",
+      "side": 1,
+      "message": "a very minor matter, the timezone is not correct.  I\u0027ll ask Matti to submit the correct one.",
+      "range": {
+        "startLine": 41,
+        "startChar": 17,
+        "endLine": 41,
+        "endChar": 33
+      },
+      "revId": "23ef84949146de01129e0aa1ab98c625fc2a20d2",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
     }
   ]
 }
