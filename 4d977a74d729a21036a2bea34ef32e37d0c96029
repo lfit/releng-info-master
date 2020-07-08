@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9000fc4a_d3601295",
+        "filename": "gerrit.onap.org/ccsdk/oran/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 12
+      },
+      "writtenOn": "2020-07-08T17:10:42Z",
+      "side": 1,
+      "message": "If there is no approval needed can you put a link to the approval that allows project creation without the tsc..",
+      "range": {
+        "startLine": 70,
+        "startChar": 14,
+        "endLine": 70,
+        "endChar": 57
+      },
+      "revId": "4d977a74d729a21036a2bea34ef32e37d0c96029",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
