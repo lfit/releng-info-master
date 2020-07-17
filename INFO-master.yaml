@@ -18,6 +18,18 @@ opendaylight:
   release_engineers:
     - askb
     - agrimberg
+  tsc:
+    - abhijit2511
+    - Hematg
+    - rovarga
+    - askb
+    - Arunprakash
+    - ecelgp
+    - bvardar
+    - jluhrsen
+    - tnevrekar
+    - gvrangan
+    - k.faseela
 onap:
   release_engineers:
     - jwagantall
