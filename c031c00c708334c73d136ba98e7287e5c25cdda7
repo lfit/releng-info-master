@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "236d1793_39191039",
+        "filename": "gerrit.onap.org/ccsdk/oran/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 418
+      },
+      "writtenOn": "2020-07-20T18:58:11Z",
+      "side": 1,
+      "message": "Oops - should be fixed now",
+      "parentUuid": "b0201ff2_44d01955",
+      "range": {
+        "startLine": 72,
+        "startChar": 0,
+        "endLine": 72,
+        "endChar": 1
+      },
+      "revId": "c031c00c708334c73d136ba98e7287e5c25cdda7",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fdc424e7_cc04bc15",
         "filename": "gerrit.onap.org/ccsdk/oran/INFO.yaml",
         "patchSetId": 2
@@ -45,6 +69,30 @@
       "revId": "c031c00c708334c73d136ba98e7287e5c25cdda7",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "be3912ad_39bcb9c2",
+        "filename": "gerrit.onap.org/ccsdk/oran/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 418
+      },
+      "writtenOn": "2020-07-20T18:58:11Z",
+      "side": 1,
+      "message": "Should be fixed now",
+      "parentUuid": "fdc424e7_cc04bc15",
+      "range": {
+        "startLine": 73,
+        "startChar": 28,
+        "endLine": 73,
+        "endChar": 29
+      },
+      "revId": "c031c00c708334c73d136ba98e7287e5c25cdda7",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
     }
   ]
 }
