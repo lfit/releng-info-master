@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "b0201ff2_44d01955",
+        "filename": "gerrit.onap.org/ccsdk/oran/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2020-07-20T18:54:43Z",
+      "side": 1,
+      "message": "Sorry.. this needs to be spaces not tab",
+      "range": {
+        "startLine": 72,
+        "startChar": 0,
+        "endLine": 72,
+        "endChar": 1
+      },
+      "revId": "c031c00c708334c73d136ba98e7287e5c25cdda7",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fdc424e7_cc04bc15",
+        "filename": "gerrit.onap.org/ccsdk/oran/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2020-07-20T18:54:43Z",
+      "side": 1,
+      "message": "Small trailing, needs to be removed please",
+      "range": {
+        "startLine": 73,
+        "startChar": 28,
+        "endLine": 73,
+        "endChar": 29
+      },
+      "revId": "c031c00c708334c73d136ba98e7287e5c25cdda7",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
