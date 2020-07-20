@@ -1,0 +1,7 @@
+Verified+1: Jenkins CI <releng+lf-jenkins@linuxfoundation.org>
+Code-Review+2: Bengt Thuree <bthuree@linuxfoundation.org>
+Submitted-by: Bengt Thuree <bthuree@linuxfoundation.org>
+Submitted-at: Mon, 20 Jul 2020 07:51:26 +0000
+Reviewed-on: https://gerrit.linuxfoundation.org/infra/c/releng/info-master/+/64562
+Project: releng/info-master
+Branch: refs/heads/master
