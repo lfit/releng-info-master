@@ -22,6 +22,30 @@
       "revId": "3b152a48f2d36f18d8af53f67fb600a65d65bf3b",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "7cb9d6ba_8fd02d1e",
+        "filename": "gerrit.onap.org/ccsdk/oran/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 418
+      },
+      "writtenOn": "2020-07-20T21:53:24Z",
+      "side": 1,
+      "message": "Sorry - missed that one.  I think I got them all now (got a clean verify build anyway)",
+      "parentUuid": "34eba9fa_c99b4e5b",
+      "range": {
+        "startLine": 73,
+        "startChar": 24,
+        "endLine": 73,
+        "endChar": 25
+      },
+      "revId": "3b152a48f2d36f18d8af53f67fb600a65d65bf3b",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
     }
   ]
 }
