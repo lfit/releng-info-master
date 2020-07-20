@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "34eba9fa_c99b4e5b",
+        "filename": "gerrit.onap.org/ccsdk/oran/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2020-07-20T18:59:34Z",
+      "side": 1,
+      "message": "I think this one sneaked in :( sorry ..",
+      "range": {
+        "startLine": 73,
+        "startChar": 24,
+        "endLine": 73,
+        "endChar": 25
+      },
+      "revId": "3b152a48f2d36f18d8af53f67fb600a65d65bf3b",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
