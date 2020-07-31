@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "c9c30002_0656ab6e",
+        "filename": "gerrit.akraino.org/icn/plte5g/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 29
+      },
+      "writtenOn": "2020-07-31T09:04:37Z",
+      "side": 1,
+      "message": "plz check this file, i dont think this causing the verify info master to fail: https://gerrit.linuxfoundation.org/infra/c/releng/info-master/+/64851/1/gerrit.onap.org/aai/babel/INFO.yaml",
+      "parentUuid": "3fe02bb1_46b17c53",
+      "range": {
+        "startLine": 112,
+        "startChar": 0,
+        "endLine": 112,
+        "endChar": 7
+      },
+      "revId": "f29a8d8d0eb1b4ffbfd59246363253b7fdaa3712",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "2c080934_d08f6735",
         "filename": "gerrit.akraino.org/icn/plte5g/INFO.yaml",
         "patchSetId": 1
