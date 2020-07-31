@@ -1,0 +1,9 @@
+Verified+1: Jenkins CI <releng+lf-jenkins@linuxfoundation.org>
+Code-Review+2: Bengt Thuree <bthuree@linuxfoundation.org>
+Code-Review+1: Anil Belur <abelur@linuxfoundation.org>
+Code-Review+2: Eric Ball <eball@linuxfoundation.org>
+Submitted-by: Eric Ball <eball@linuxfoundation.org>
+Submitted-at: Fri, 31 Jul 2020 17:45:18 +0000
+Reviewed-on: https://gerrit.linuxfoundation.org/infra/c/releng/info-master/+/64853
+Project: releng/info-master
+Branch: refs/heads/master
