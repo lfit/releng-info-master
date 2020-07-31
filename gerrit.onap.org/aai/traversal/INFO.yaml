@@ -2,13 +2,13 @@
 project: 'aai-traversal'
 project_creation_date: '2017-05-03'
 project_category: ''
-lifecycle_state: 'Incubation'
+lifecycle_state: 'Mature'
 project_lead: &onap_aai_ptl
-    name: 'William Reehil'
-    email: 'william.reehil@att.com'
+    name: 'James Forsyth'
+    email: 'jf2512@att.com'
+    id: 'jimmydot'
     company: 'ATT'
-    id: 'wreehil'
-    timezone: 'America/New_York'
+    timezone: 'America/Detroit'
 primary_contact: *onap_aai_ptl
 issue_tracking:
     type: 'jira'
@@ -46,11 +46,6 @@ committers:
       company: 'ATT'
       id: 'vk250x'
       timezone: 'America/New_York'
-    - name: 'James Forsyth'
-      email: 'jf2512@att.com'
-      id: 'jimmydot'
-      company: 'ATT'
-      timezone: 'America/Detroit'
 tsc:
     approval: 'https://lists.onap.org/g/onap-tsc'
     changes:
@@ -60,6 +55,3 @@ tsc:
         - type: 'removal'
           name: 'Tian Lee'
           link: 'https://lists.onap.org/g/onap-tsc/message/6227'
-        - type: 'Addition'
-          name: 'William Reehil'
-          link: 'https://lists.onap.org/g/onap-tsc/message/6506'
