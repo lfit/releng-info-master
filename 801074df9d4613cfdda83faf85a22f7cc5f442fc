@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0ab38e01_de8f7400",
+        "filename": "gerrit.onap.org/integration/terraform/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2020-08-19T15:42:37Z",
+      "side": 1,
+      "message": "Same issue here, this tag does not match the defined one in line 6",
+      "range": {
+        "startLine": 33,
+        "startChar": 11,
+        "endLine": 33,
+        "endChar": 26
+      },
+      "revId": "801074df9d4613cfdda83faf85a22f7cc5f442fc",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
