@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d4f53175_c236bf01",
+        "filename": "gerrit.onap.org/testsuite/cds/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2020-08-19T15:42:11Z",
+      "side": 1,
+      "message": "This tag does not match the definition in line 6\n\ntestsuite_cds_ptl",
+      "range": {
+        "startLine": 33,
+        "startChar": 11,
+        "endLine": 33,
+        "endChar": 40
+      },
+      "revId": "5ecd7823129fd8e35cdfd62febc933bca0e4151a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
