@@ -2,7 +2,7 @@
 project: 'vvp-oom'
 project_creation_date: '2017-06-29'
 project_category: ''
-lifecycle_state: 'Incubation'
+lifecycle_state: 'Mature'
 project_lead: &onap_releng_ptl
     name: 'Steven Stark`'
     email: 'steven.stark@att.com'
