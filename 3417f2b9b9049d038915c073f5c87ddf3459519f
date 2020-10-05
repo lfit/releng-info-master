@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "16b25770_aa020003",
+        "filename": "gerrit.onap.org/so/libs/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2020-10-05T19:30:30Z",
+      "side": 1,
+      "message": "This is not supported. Spoke to the team already about fixing this and adding their INFO verify job. The equivalent of this change was not verified using INFO.yaml verify",
+      "range": {
+        "startLine": 32,
+        "startChar": 0,
+        "endLine": 35,
+        "endChar": 18
+      },
+      "revId": "3417f2b9b9049d038915c073f5c87ddf3459519f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
