@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0a9a0eb4_62b704da",
+        "filename": "gerrit.o-ran-sc.org/scp/ric-app/ssp/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 12
+      },
+      "writtenOn": "2020-10-14T16:20:30Z",
+      "side": 1,
+      "message": "?",
+      "range": {
+        "startLine": 34,
+        "startChar": 4,
+        "endLine": 34,
+        "endChar": 12
+      },
+      "revId": "684a90e7ad06c29cedb63c40b2d069d47f97c478",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
