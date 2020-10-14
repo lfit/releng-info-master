@@ -22,6 +22,30 @@
       "revId": "684a90e7ad06c29cedb63c40b2d069d47f97c478",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "0b4db1d3_3be8e98b",
+        "filename": "gerrit.o-ran-sc.org/scp/ric-app/ssp/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2020-10-14T17:27:42Z",
+      "side": 1,
+      "message": "Whoops, good catch. I screwed up my find-and-replace, and totally missed that when reviewing it. Updated.",
+      "parentUuid": "0a9a0eb4_62b704da",
+      "range": {
+        "startLine": 34,
+        "startChar": 4,
+        "endLine": 34,
+        "endChar": 12
+      },
+      "revId": "684a90e7ad06c29cedb63c40b2d069d47f97c478",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
     }
   ]
 }
