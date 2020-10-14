@@ -39,6 +39,11 @@ committers:
       company: 'ATT'
       id: 'dk8126'
       timezone: 'UNKNOWN/UNKOWN'
+    - name: 'Martin Skorupski'
+      email: 'martin.skorupski@highstreet-technologies.com'
+      company: 'ATT'
+      id: 'demx8as6'
+      timezone: 'UNKNOWN/UNKOWN'
 tsc:
     # yamllint disable rule:line-length
     approval: 'https://wiki.o-ran-sc.org/display/TOC#ORANSCTechnicalOversightCommittee(TOC)-20200923'
