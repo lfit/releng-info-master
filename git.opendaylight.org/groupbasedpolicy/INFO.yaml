@@ -1,0 +1,63 @@
+---
+project: 'groupbasedpolicy'
+project_creation_date: '2014-03-23'
+project_category: ''
+lifecycle_state: 'Incubation'
+project_lead: &odl_groupbasedpolicy_ptl
+    name: 'Michal Cmarada'
+    email: 'michal.cmarada@gmail.com'
+    company: ''
+    id: 'mcmarada'
+    timezone: 'Unknown/Unknown'
+primary_contact: *odl_groupbasedpolicy_ptl
+issue_tracking:
+    type: 'jira'
+    url: 'https://jira.opendaylight.org/projects/'
+    key: 'groupbasedpolicy'
+mailing_list:
+    type: 'groups.io'
+    url: 'app-dev@lists.opendaylight.org'
+    tag: '[]'
+realtime_discussion:
+    type: 'irc'
+    server: 'freenode.net'
+    channel: '#opendaylight'
+meetings:
+    - type: 'gotomeeting+irc'
+      agenda: 'https://wiki.opendaylight.org'
+      url: ''
+      server: 'freenode.net'
+      channel: '#opendaylight'
+      repeats: ''
+      time: ''
+repositories:
+    - groupbasedpolicy
+committers:
+    - <<: *odl_groupbasedpolicy_ptl
+    - name: 'Keith Burns'
+      email: 'alagalah@gmail.com'
+      company: ''
+      id: 'alagalah'
+      timezone: 'Unknown/Unknown'
+    - name: 'Rob Adams'
+      email: 'readams@readams.net'
+      company: 'readams'
+      id: 'readams'
+      timezone: 'Unknown/Unknown'
+    - name: 'Tomas Cechvala'
+      email: 'tcechval@cisco.com'
+      company: 'cisco'
+      id: 'tcechval'
+      timezone: 'Unknown/Unknown'
+    - name: 'Martin Sunal'
+      email: 'the.martin.sunal@gmail.com'
+      company: ''
+      id: 'msunal'
+      timezone: 'Unknown/Unknown'
+tsc:
+    # yamllint disable rule:line-length
+    approval: 'https://meetings.opendaylight.org/meetings/opendaylight-meeting/2014/opendaylight-meeting.2014-03-24-17.10.html'
+    changes:
+        - type: ''
+          name: ''
+          link: ''
