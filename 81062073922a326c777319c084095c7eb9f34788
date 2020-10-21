@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "67dc60b5_0d58194a",
+        "filename": "gerrit.onap.org/oom/utils/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2020-10-21T17:32:21Z",
+      "side": 1,
+      "message": "This should be oom/utils",
+      "range": {
+        "startLine": 31,
+        "startChar": 5,
+        "endLine": 31,
+        "endChar": 33
+      },
+      "revId": "81062073922a326c777319c084095c7eb9f34788",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
