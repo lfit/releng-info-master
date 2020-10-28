@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5982289e_3509984d",
+        "filename": "gerrit.onap.org/cps/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 473
+      },
+      "writtenOn": "2020-10-28T21:31:24Z",
+      "side": 1,
+      "message": "I don\u0027t have the context for this link, it returns me 404. Is it expected ?",
+      "revId": "acd105115e86055b25c1ed722214de2fdbae2bba",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
