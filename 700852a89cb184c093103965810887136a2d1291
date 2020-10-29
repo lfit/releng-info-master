@@ -22,6 +22,30 @@
       "revId": "700852a89cb184c093103965810887136a2d1291",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e615944f_019711b1",
+        "filename": "gerrit.onap.org/cps/INFO.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 470
+      },
+      "writtenOn": "2020-10-29T16:44:05Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "50ac0aea_d7b1d4a7",
+      "range": {
+        "startLine": 54,
+        "startChar": 0,
+        "endLine": 56,
+        "endChar": 44
+      },
+      "revId": "700852a89cb184c093103965810887136a2d1291",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
     }
   ]
 }
