@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "50ac0aea_d7b1d4a7",
+        "filename": "gerrit.onap.org/cps/INFO.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2020-10-29T16:13:56Z",
+      "side": 1,
+      "message": "08:06:36   56:11     warning  comment not indented like content  (comments-indentation)\n08:06:36   56:45     error    no new line character at the end of file  (new-line-at-end-of-file)\n\nThe comments are just warnings, so I think we should be ok..The only error to correct is the end of file please.",
+      "range": {
+        "startLine": 54,
+        "startChar": 0,
+        "endLine": 56,
+        "endChar": 44
+      },
+      "revId": "700852a89cb184c093103965810887136a2d1291",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
