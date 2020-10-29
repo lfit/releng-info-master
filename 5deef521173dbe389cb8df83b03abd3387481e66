@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e4d73de6_c67e4efa",
+        "filename": "gerrit.onap.org/cps/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 29
+      },
+      "writtenOn": "2020-10-29T14:23:41Z",
+      "side": 1,
+      "message": "line length rule needs to be disabled. \n\n      # yamllint disable rule:line-length\n      link: \u0027https://lists.onap.org/g/onap-tsc/topic/cps_ask_for_new_repo/77844208\u0027\n      # yamllint enable rule:line-length",
+      "range": {
+        "startLine": 54,
+        "startChar": 10,
+        "endLine": 54,
+        "endChar": 87
+      },
+      "revId": "5deef521173dbe389cb8df83b03abd3387481e66",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
