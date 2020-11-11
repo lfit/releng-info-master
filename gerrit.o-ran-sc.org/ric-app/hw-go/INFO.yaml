@@ -40,8 +40,8 @@ committers:
       id: 'rayban'
       timezone: 'America/New_York'
     - name: 'Subhash Kumar Singh'
-      email: 'subh.singh1106@gmail.com'
-      company: 'ATT'
+      email: 'subh.singh@samsung.com'
+      company: 'Samsung'
       id: 'subhash_singh'
       timezone: 'America/New_York'
 tsc:
