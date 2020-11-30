@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9d53d4f1_a7283008",
+        "filename": "gerrit.onap.org/policy/clamp/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2020-11-30T18:07:52Z",
+      "side": 1,
+      "message": "this should be policy-clamp",
+      "range": {
+        "startLine": 2,
+        "startChar": 9,
+        "endLine": 2,
+        "endChar": 16
+      },
+      "revId": "dfdda50b977b1d83f7ac338a4527b976bfa636b7",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fd7d6faa_8db36b59",
+        "filename": "gerrit.onap.org/policy/clamp/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2020-11-30T18:07:52Z",
+      "side": 1,
+      "message": "Please update with the right date, can be today\u0027s date assuming the repo will be created today",
+      "range": {
+        "startLine": 3,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 35
+      },
+      "revId": "dfdda50b977b1d83f7ac338a4527b976bfa636b7",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "051d6df4_9a42301f",
+        "filename": "gerrit.onap.org/policy/clamp/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2020-11-30T18:07:52Z",
+      "side": 1,
+      "message": "Please fix non-ascii character",
+      "range": {
+        "startLine": 49,
+        "startChar": 14,
+        "endLine": 49,
+        "endChar": 15
+      },
+      "revId": "dfdda50b977b1d83f7ac338a4527b976bfa636b7",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
