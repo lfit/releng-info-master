@@ -19,17 +19,11 @@ opendaylight:
     - askb
     - agrimberg
   tsc:
-    - abhijit2511
-    - Hematg
-    - rovarga
     - askb
-    - Arunprakash
     - ecelgp
-    - bvardar
-    - jluhrsen
-    - tnevrekar
+    - guillaume.lambert
     - gvrangan
-    - k.faseela
+    - rovarga
 onap:
   release_engineers:
     - jwagantall
