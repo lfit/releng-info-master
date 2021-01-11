@@ -120,6 +120,30 @@
     },
     {
       "key": {
+        "uuid": "4fabd863_e38cd574",
+        "filename": "gerrit.onap.org/dcaegen2/platform/ves-openapi-manager/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 365
+      },
+      "writtenOn": "2021-01-11T17:49:25Z",
+      "side": 1,
+      "message": "okay, got it. will update",
+      "parentUuid": "1f530399_8f801d99",
+      "range": {
+        "startLine": 3,
+        "startChar": 23,
+        "endLine": 3,
+        "endChar": 35
+      },
+      "revId": "f4cec7d29b15794ad02b518651155c8cf229d98f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "42418148_c457de5e",
         "filename": "gerrit.onap.org/dcaegen2/platform/ves-openapi-manager/INFO.yaml",
         "patchSetId": 1
