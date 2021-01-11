@@ -96,6 +96,30 @@
     },
     {
       "key": {
+        "uuid": "1f530399_8f801d99",
+        "filename": "gerrit.onap.org/dcaegen2/platform/ves-openapi-manager/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-01-11T17:35:13Z",
+      "side": 1,
+      "message": "This is specific to each repo. We need to track when was it created independently from its parent.",
+      "parentUuid": "2b065311_4ed2452f",
+      "range": {
+        "startLine": 3,
+        "startChar": 23,
+        "endLine": 3,
+        "endChar": 35
+      },
+      "revId": "f4cec7d29b15794ad02b518651155c8cf229d98f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "42418148_c457de5e",
         "filename": "gerrit.onap.org/dcaegen2/platform/ves-openapi-manager/INFO.yaml",
         "patchSetId": 1
@@ -131,6 +155,30 @@
       "side": 1,
       "message": "DCAE was approved as \"Mature\" in Guilin",
       "parentUuid": "42418148_c457de5e",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 25
+      },
+      "revId": "f4cec7d29b15794ad02b518651155c8cf229d98f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b60fb634_d29578fa",
+        "filename": "gerrit.onap.org/dcaegen2/platform/ves-openapi-manager/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-01-11T17:35:13Z",
+      "side": 1,
+      "message": "Ok.. in this case you can ignore this comment.",
+      "parentUuid": "f778e5c4_5659c242",
       "range": {
         "startLine": 5,
         "startChar": 0,
