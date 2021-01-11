@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8025c7ce_82e140a8",
+        "filename": "gerrit.onap.org/dcaegen2/platform/ves-openapi-manager/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-01-11T17:18:11Z",
+      "side": 1,
+      "message": "This needs to be corrected to the right name",
+      "range": {
+        "startLine": 2,
+        "startChar": 9,
+        "endLine": 2,
+        "endChar": 39
+      },
+      "revId": "f4cec7d29b15794ad02b518651155c8cf229d98f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3c0a690f_109fbc6c",
+        "filename": "gerrit.onap.org/dcaegen2/platform/ves-openapi-manager/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-01-11T17:18:11Z",
+      "side": 1,
+      "message": "This should be today\u0027s date",
+      "range": {
+        "startLine": 3,
+        "startChar": 23,
+        "endLine": 3,
+        "endChar": 35
+      },
+      "revId": "f4cec7d29b15794ad02b518651155c8cf229d98f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "42418148_c457de5e",
+        "filename": "gerrit.onap.org/dcaegen2/platform/ves-openapi-manager/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-01-11T17:18:11Z",
+      "side": 1,
+      "message": "Should this be incubation?",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 25
+      },
+      "revId": "f4cec7d29b15794ad02b518651155c8cf229d98f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
