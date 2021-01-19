@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "904057e1_fa05514d",
+        "filename": "gerrit.onap.org/integration/simulators/ran-nssmf-simulator/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 185
+      },
+      "writtenOn": "2021-01-19T16:44:01Z",
+      "side": 1,
+      "message": "list is onap-discuss@lists.onap.org",
+      "range": {
+        "startLine": 17,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 13
+      },
+      "revId": "7992952c93ddc9cbef257642bdf4069e3f5adee3",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "85140cce_bbcef736",
+        "filename": "gerrit.onap.org/integration/simulators/ran-nssmf-simulator/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 185
+      },
+      "writtenOn": "2021-01-19T16:44:01Z",
+      "side": 1,
+      "message": "IRC should now be slack\ngotomeeting should be zoom\nlink to agenda does not point at the meetings page.",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 32,
+        "endChar": 14
+      },
+      "revId": "7992952c93ddc9cbef257642bdf4069e3f5adee3",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
