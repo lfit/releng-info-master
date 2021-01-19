@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2754b319_6c3733fd",
+        "filename": "gerrit.onap.org/integration/simulators/core-nssmf-simulator/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 185
+      },
+      "writtenOn": "2021-01-19T16:40:01Z",
+      "side": 1,
+      "message": "the list name is onap-discuss@lists.onap.org",
+      "range": {
+        "startLine": 19,
+        "startChar": 4,
+        "endLine": 19,
+        "endChar": 43
+      },
+      "revId": "89b062bbffe79bfa4b52bac3736f6a401c43326d",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ed642433_d40b51a6",
+        "filename": "gerrit.onap.org/integration/simulators/core-nssmf-simulator/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 185
+      },
+      "writtenOn": "2021-01-19T16:40:01Z",
+      "side": 1,
+      "message": "realtime is now slack.\nIs gotomrrting being used or is zoom?\nagenda link doesn\u0027t go to the meeting page",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 32,
+        "endChar": 14
+      },
+      "revId": "89b062bbffe79bfa4b52bac3736f6a401c43326d",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
