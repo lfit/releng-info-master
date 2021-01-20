@@ -8,7 +8,7 @@ project_lead: &akraino_icn_ptl
     email: 'kuralamudhan.ramakrishnan@intel.com'
     id: 'r.kuralamudhan'
     company: 'intel'
-    timezone: 'Unknown/Unknown'
+    timezone: 'America/Los_Angeles'
 primary_contact: *akraino_icn_ptl
 issue_tracking:
     type: 'jira'
@@ -37,7 +37,7 @@ committers:
       email: 'kuralamudhan.ramakrishnan@intel.com'
       company: 'intel'
       id: 'r.kuralamudhan'
-      timezone: 'Unknown/Unknown'
+      timezone: 'America/Los_Angeles'
     - name: 'Houa Yang'
       email: 'hyang@contractor.linuxfoundation.org'
       company: 'contractor.linuxfoundation'
@@ -95,7 +95,7 @@ committers:
       timezone: 'Unknown/Unknown'
 tsc:
     # yamllint disable rule:line-length
-    approval: 'missing'
+    approval: 'https://wiki.akraino.org/download/attachments/4456453/Akraino%20TSC%20Meeting%2006.13.19.docx?version=1&modificationDate=1560439229000&api=v2'
     changes:
         - type: ''
           name: ''
