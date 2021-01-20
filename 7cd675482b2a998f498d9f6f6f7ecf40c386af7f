@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f16748e_b84f624d",
+        "filename": "gerrit.onap.org/integration/simulators/core-nssmf-simulator/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-01-20T17:45:13Z",
+      "side": 1,
+      "message": "This date needs to be adjusted to today",
+      "range": {
+        "startLine": 3,
+        "startChar": 24,
+        "endLine": 3,
+        "endChar": 35
+      },
+      "revId": "7cd675482b2a998f498d9f6f6f7ecf40c386af7f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
