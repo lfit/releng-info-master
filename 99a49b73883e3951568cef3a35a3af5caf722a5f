@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "99896a5b_83e2e358",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-01-28T15:11:25Z",
+      "side": 1,
+      "message": "Can we change this commit text to something like \n\"Add SO sub repo, mso-cnf-adapter\"",
+      "revId": "99a49b73883e3951568cef3a35a3af5caf722a5f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "d1f5f568_e3a411bd",
+        "filename": "gerrit.onap.org/so/mso-cnf-adapter/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-01-28T15:11:25Z",
+      "side": 1,
+      "message": "This should match the name of the sub repo \nmso-cnf-adapter",
+      "range": {
+        "startLine": 2,
+        "startChar": 10,
+        "endLine": 2,
+        "endChar": 12
+      },
+      "revId": "99a49b73883e3951568cef3a35a3af5caf722a5f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "84d64a5f_f76fcc3e",
+        "filename": "gerrit.onap.org/so/mso-cnf-adapter/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-01-28T15:11:25Z",
+      "side": 1,
+      "message": "This should match the name of the sub repo \nmso-cnf-adapter",
+      "range": {
+        "startLine": 31,
+        "startChar": 6,
+        "endLine": 31,
+        "endChar": 8
+      },
+      "revId": "99a49b73883e3951568cef3a35a3af5caf722a5f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
