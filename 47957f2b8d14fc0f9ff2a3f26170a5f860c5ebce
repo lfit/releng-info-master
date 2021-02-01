@@ -46,6 +46,30 @@
       "revId": "47957f2b8d14fc0f9ff2a3f26170a5f860c5ebce",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c284bef1_517b0212",
+        "filename": "gerrit.onap.org/so/so-etsi-nfvo/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 525
+      },
+      "writtenOn": "2021-02-01T18:33:01Z",
+      "side": 1,
+      "message": "It\u0027s correct Jess, it should be so/so-etsi-nfvo. \nthis is to have a pre notation for all the so containers to have so- prefix.\nWe might support to have a distributed deployment in future and then the name will be needed.",
+      "parentUuid": "1a89aef8_27d29633",
+      "range": {
+        "startLine": 31,
+        "startChar": 6,
+        "endLine": 31,
+        "endChar": 21
+      },
+      "revId": "47957f2b8d14fc0f9ff2a3f26170a5f860c5ebce",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
     }
   ]
 }
