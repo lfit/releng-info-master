@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a89aef8_27d29633",
+        "filename": "gerrit.onap.org/so/so-etsi-nfvo/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-02-01T18:07:07Z",
+      "side": 1,
+      "message": "should this repo path be so/etsi-nfvo?",
+      "range": {
+        "startLine": 31,
+        "startChar": 6,
+        "endLine": 31,
+        "endChar": 21
+      },
+      "revId": "47957f2b8d14fc0f9ff2a3f26170a5f860c5ebce",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
