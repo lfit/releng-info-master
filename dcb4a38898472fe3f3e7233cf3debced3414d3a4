@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c6247951_0dfb0fbe",
+        "filename": "gerrit.onap.org/so/adapters/so-etsi-sol005-adapter/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-02-01T18:09:24Z",
+      "side": 1,
+      "message": "this does not match the repo path",
+      "range": {
+        "startLine": 2,
+        "startChar": 8,
+        "endLine": 2,
+        "endChar": 33
+      },
+      "revId": "dcb4a38898472fe3f3e7233cf3debced3414d3a4",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
