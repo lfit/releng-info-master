@@ -22,6 +22,30 @@
       "revId": "c77629f9b5792524c267b5f91caecdd3724b3738",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a778bf94_17a35ba4",
+        "filename": "gerrit.onap.org/so/adapters/so-oof-adapter/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 525
+      },
+      "writtenOn": "2021-02-01T18:36:24Z",
+      "side": 1,
+      "message": "This is the notation we want to follow Jess. \nWe have a requirement to have distributed containers in future and so need the so- as the prefix.",
+      "parentUuid": "4dd899c6_9c04a5a7",
+      "range": {
+        "startLine": 2,
+        "startChar": 9,
+        "endLine": 2,
+        "endChar": 24
+      },
+      "revId": "c77629f9b5792524c267b5f91caecdd3724b3738",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
     }
   ]
 }
