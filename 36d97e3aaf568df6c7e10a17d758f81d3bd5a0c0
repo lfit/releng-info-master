@@ -22,6 +22,30 @@
       "revId": "36d97e3aaf568df6c7e10a17d758f81d3bd5a0c0",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "aaf64dc7_23cbd7e0",
+        "filename": "gerrit.onap.org/so/adapters/so-etsi-sol003-adapter/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 526
+      },
+      "writtenOn": "2021-02-01T18:22:22Z",
+      "side": 1,
+      "message": "@Seshu, I am okay with Jessica\u0027s suggestion. Also, the \u0027so-adapters-etsi-sol003-adapter\u0027 is fine.",
+      "parentUuid": "f9844166_2b6aba1d",
+      "range": {
+        "startLine": 2,
+        "startChar": 9,
+        "endLine": 2,
+        "endChar": 33
+      },
+      "revId": "36d97e3aaf568df6c7e10a17d758f81d3bd5a0c0",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
     }
   ]
 }
