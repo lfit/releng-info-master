@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f9844166_2b6aba1d",
+        "filename": "gerrit.onap.org/so/adapters/so-etsi-sol003-adapter/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-02-01T18:02:36Z",
+      "side": 1,
+      "message": "This should be \u0027so-adapters-so-etsi-sol003-adapter\u0027",
+      "range": {
+        "startLine": 2,
+        "startChar": 9,
+        "endLine": 2,
+        "endChar": 33
+      },
+      "revId": "36d97e3aaf568df6c7e10a17d758f81d3bd5a0c0",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
