@@ -22,6 +22,30 @@
       "revId": "34afaa78bbcf1cece4f3f94e55359d43e0ec176b",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b60595da_9326fc75",
+        "filename": "gerrit.onap.org/so/adapters/so-etsi-sol005-adapter/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-02-01T21:57:18Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "68644785_c5708c99",
+      "range": {
+        "startLine": 2,
+        "startChar": 10,
+        "endLine": 2,
+        "endChar": 44
+      },
+      "revId": "34afaa78bbcf1cece4f3f94e55359d43e0ec176b",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
     }
   ]
 }
