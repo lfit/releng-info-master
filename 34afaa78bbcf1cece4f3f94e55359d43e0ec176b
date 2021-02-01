@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "68644785_c5708c99",
+        "filename": "gerrit.onap.org/so/adapters/so-etsi-sol005-adapter/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 526
+      },
+      "writtenOn": "2021-02-01T21:05:36Z",
+      "side": 1,
+      "message": "@Jessica, so the project name needs to be reflected the repository path?? Did you discuss this with Seshu?",
+      "range": {
+        "startLine": 2,
+        "startChar": 10,
+        "endLine": 2,
+        "endChar": 44
+      },
+      "revId": "34afaa78bbcf1cece4f3f94e55359d43e0ec176b",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
