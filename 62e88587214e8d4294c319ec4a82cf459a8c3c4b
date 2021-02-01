@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "98f3d453_8a7d3630",
+        "filename": "gerrit.onap.org/so/adapters/so-nssmf-adapter/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-02-01T18:09:06Z",
+      "side": 1,
+      "message": "this does not match the repo path",
+      "range": {
+        "startLine": 2,
+        "startChar": 9,
+        "endLine": 2,
+        "endChar": 27
+      },
+      "revId": "62e88587214e8d4294c319ec4a82cf459a8c3c4b",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
