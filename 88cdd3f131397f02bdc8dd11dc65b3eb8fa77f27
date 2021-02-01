@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "1d4e948a_c426aff6",
+        "filename": "gerrit.onap.org/so/mso-cnf-adapter/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 525
+      },
+      "writtenOn": "2021-02-01T18:33:37Z",
+      "side": 1,
+      "message": "Have a question, can I add the the so and so-libs permission again to the list",
+      "parentUuid": "b8be19cf_c70c225e",
+      "range": {
+        "startLine": 32,
+        "startChar": 0,
+        "endLine": 35,
+        "endChar": 18
+      },
+      "revId": "88cdd3f131397f02bdc8dd11dc65b3eb8fa77f27",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "19e95aac_4e0c3611",
         "filename": "gerrit.onap.org/so/mso-cnf-adapter/INFO.yaml",
         "patchSetId": 1
@@ -36,6 +60,30 @@
       "writtenOn": "2021-01-25T18:03:16Z",
       "side": 1,
       "message": "Also, there can\u0027t be multiple name tags in one addition/removal type block\nYou will need to create one entry per name.",
+      "range": {
+        "startLine": 72,
+        "startChar": 0,
+        "endLine": 82,
+        "endChar": 26
+      },
+      "revId": "88cdd3f131397f02bdc8dd11dc65b3eb8fa77f27",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e1f82b67_8d811117",
+        "filename": "gerrit.onap.org/so/mso-cnf-adapter/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 525
+      },
+      "writtenOn": "2021-02-01T18:33:37Z",
+      "side": 1,
+      "message": "Thanks for the comment, I have updated the commit accordingly.",
+      "parentUuid": "19e95aac_4e0c3611",
       "range": {
         "startLine": 72,
         "startChar": 0,
