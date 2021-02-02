@@ -60,7 +60,7 @@ committers:
       email: 'ramesh.parthasarathy@att.com'
       company: 'ATT'
       id: 'parthasram'
-      timezone: 'PST'
+      timezone: 'America/Los_Angeles'
 tsc:
     approval: 'https://lists.onap.org/pipermail/onap-tsc'
     changes:
