@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f3cc5842_6584cc3b",
+        "filename": "gerrit.onap.org/integration/ieft-actn-tools/INFO.yaml",
+        "patchSetId": 6
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-02-04T17:29:38Z",
+      "side": 1,
+      "message": "Can we update the date to today\u0027s please",
+      "range": {
+        "startLine": 3,
+        "startChar": 23,
+        "endLine": 3,
+        "endChar": 35
+      },
+      "revId": "ee5f850a5b7ec3d8b1214551a8af7b5ebea18130",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
