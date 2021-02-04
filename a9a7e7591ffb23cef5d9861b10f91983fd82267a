@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff14753b_b308fa29",
+        "filename": "gerrit.onap.org/integration/simulators/ran-nssmf-simulator/INFO.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-02-04T17:28:58Z",
+      "side": 1,
+      "message": "Can we please update this date to today?",
+      "range": {
+        "startLine": 3,
+        "startChar": 24,
+        "endLine": 3,
+        "endChar": 35
+      },
+      "revId": "a9a7e7591ffb23cef5d9861b10f91983fd82267a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
