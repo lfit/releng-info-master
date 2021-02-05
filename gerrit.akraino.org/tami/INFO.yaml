@@ -1,0 +1,48 @@
+---
+project: 'tami'
+project_creation_date: '2021-02-04'
+project_category: 'feature'
+lifecycle_state: 'Incubation'
+project_lead: &akraino_tami_ptl
+    name: 'Surojit Banerjee'
+    email: 'surojitbanerjee@gmail.com'
+    id: 'SurojitBanerjee'
+    company: 'Amazon'
+    timezone: 'Unknown/Unknown'
+primary_contact: *akraino_tami_ptl
+issue_tracking:
+    type: 'jira'
+    url: 'https://jira.akraino.org/projects/'
+    key: 'tami'
+mailing_list:
+    type: 'groups.io'
+    url: 'featureprojects@lists.akraino.org'
+    tag: '[#tami]'
+realtime_discussion:
+    type: 'irc'
+    server: 'freenode.net'
+    channel: '#akraino'
+meetings:
+    - type: 'gotomeeting+irc'
+      agenda: 'https://wiki.akraino.org/display/'
+      url: ''
+      server: 'freenode.net'
+      channel: '#akraino'
+      repeats: ''
+      time: ''
+repositories:
+    - tami
+committers:
+    - <<: *akraino_tami_ptl
+    - name: 'Tina Tsou'
+      email: 'tina.tsou@arm.com'
+      id: 'tinatsou'
+      company: 'ARM'
+      timezone: 'America/Los_Angeles'
+tsc:
+    # yamllint disable rule:line-length
+    approval: 'TBD'
+    changes:
+        - type: ''
+          name: ''
+          link: ''
