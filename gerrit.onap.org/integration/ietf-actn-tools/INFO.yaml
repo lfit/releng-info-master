@@ -1,19 +1,19 @@
 ---
-project: 'integration_ieft_actn_tools'
-project_creation_date: '2021-02-04'
+project: 'integration_ietf_actn_tools'
+project_creation_date: '2021-02-10'
 project_category: ''
 lifecycle_state: 'Incubation'
-project_lead: &onap_integration_ieft_actn_tools_ptl
+project_lead: &onap_integration_ietf_actn_tools_ptl
     name: 'Morgan Richomme'
     email: 'morgan.richomme@orange.com'
     id: 'mrichomme'
     company: 'Orange'
     timezone: 'France/Paris'
-primary_contact: *onap_integration_ieft_actn_tools_ptl
+primary_contact: *onap_integration_ietf_actn_tools_ptl
 issue_tracking:
     type: 'jira'
     url: 'https://jira.onap.org/projects/'
-    key: 'integration_ieft_actn_tools'
+    key: 'integration_ietf_actn_tools'
 mailing_list:
     type: 'groups.io'
     url: 'onap-discuss@lists.onap.org'
@@ -31,9 +31,9 @@ meetings:
       repeats: 'weekly'
       time: '1PM UTC'
 repositories:
-    - integration/ieft-actn-tools
+    - integration/ietf-actn-tools
 committers:
-    - <<: *onap_integration_ieft_actn_tools_ptl
+    - <<: *onap_integration_ietf_actn_tools_ptl
     - name: 'Christophe Closset'
       email: 'cc697w@intl.att.com'
       company: 'ATT'
