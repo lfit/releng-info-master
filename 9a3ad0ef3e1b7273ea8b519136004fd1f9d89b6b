@@ -72,6 +72,30 @@
     },
     {
       "key": {
+        "uuid": "6d111c60_7e1b6d44",
+        "filename": "gerrit.onap.org/cps/cps-temporal/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 473
+      },
+      "writtenOn": "2021-02-12T14:43:47Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f84fce36_f4337979",
+      "range": {
+        "startLine": 3,
+        "startChar": 24,
+        "endLine": 3,
+        "endChar": 35
+      },
+      "revId": "9a3ad0ef3e1b7273ea8b519136004fd1f9d89b6b",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "c4bd7204_2f549146",
         "filename": "gerrit.onap.org/cps/cps-temporal/INFO.yaml",
         "patchSetId": 1
@@ -92,6 +116,30 @@
       "revId": "9a3ad0ef3e1b7273ea8b519136004fd1f9d89b6b",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "5964004d_348aa5d1",
+        "filename": "gerrit.onap.org/cps/cps-temporal/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 473
+      },
+      "writtenOn": "2021-02-12T14:43:47Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c4bd7204_2f549146",
+      "range": {
+        "startLine": 47,
+        "startChar": 0,
+        "endLine": 48,
+        "endChar": 9
+      },
+      "revId": "9a3ad0ef3e1b7273ea8b519136004fd1f9d89b6b",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": false
     }
   ]
 }
