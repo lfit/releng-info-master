@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6875100f_45a44770",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 470
+      },
+      "writtenOn": "2021-02-12T08:46:08Z",
+      "side": 1,
+      "message": "maybe it is a misunderstanding about the terminology? But all this commit odes I think i define a new project in the same repo. I am not sure what that means for our normal builds etc. Can you also ask Claudio to review please?",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 34
+      },
+      "revId": "9a3ad0ef3e1b7273ea8b519136004fd1f9d89b6b",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f84fce36_f4337979",
+        "filename": "gerrit.onap.org/cps/cps-temporal/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 470
+      },
+      "writtenOn": "2021-02-12T08:46:08Z",
+      "side": 1,
+      "message": "Update?",
+      "range": {
+        "startLine": 3,
+        "startChar": 24,
+        "endLine": 3,
+        "endChar": 35
+      },
+      "revId": "9a3ad0ef3e1b7273ea8b519136004fd1f9d89b6b",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    }
+  ]
+}
