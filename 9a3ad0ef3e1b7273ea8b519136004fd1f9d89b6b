@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "4d71e1b3_a100d9f4",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 470
+      },
+      "writtenOn": "2021-02-12T08:47:25Z",
+      "side": 1,
+      "message": "ignore above comment, I got confused",
+      "parentUuid": "6875100f_45a44770",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 34
+      },
+      "revId": "9a3ad0ef3e1b7273ea8b519136004fd1f9d89b6b",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "f84fce36_f4337979",
         "filename": "gerrit.onap.org/cps/cps-temporal/INFO.yaml",
         "patchSetId": 1
@@ -41,6 +65,29 @@
         "startChar": 24,
         "endLine": 3,
         "endChar": 35
+      },
+      "revId": "9a3ad0ef3e1b7273ea8b519136004fd1f9d89b6b",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c4bd7204_2f549146",
+        "filename": "gerrit.onap.org/cps/cps-temporal/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 470
+      },
+      "writtenOn": "2021-02-12T08:47:25Z",
+      "side": 1,
+      "message": "should this not define the new repo?!",
+      "range": {
+        "startLine": 47,
+        "startChar": 0,
+        "endLine": 48,
+        "endChar": 9
       },
       "revId": "9a3ad0ef3e1b7273ea8b519136004fd1f9d89b6b",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09",
