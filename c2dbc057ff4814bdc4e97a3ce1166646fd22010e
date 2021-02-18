@@ -24,6 +24,30 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "6bfe84a4_292872ea",
+        "filename": "gerrit.onap.org/cps/cps-tbdmt/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 544
+      },
+      "writtenOn": "2021-02-18T06:59:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa8c44cd_293101ca",
+      "range": {
+        "startLine": 3,
+        "startChar": 22,
+        "endLine": 3,
+        "endChar": 35
+      },
+      "revId": "c2dbc057ff4814bdc4e97a3ce1166646fd22010e",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "7c6c5a1c_4693777c",
@@ -37,6 +61,30 @@
       "writtenOn": "2021-02-17T21:42:10Z",
       "side": 1,
       "message": "this anchor should be named something more relevant to the project. Can you please use \nonap_cps_ptl instead?",
+      "range": {
+        "startLine": 6,
+        "startChar": 15,
+        "endLine": 6,
+        "endChar": 30
+      },
+      "revId": "c2dbc057ff4814bdc4e97a3ce1166646fd22010e",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "15752f7f_85ae2487",
+        "filename": "gerrit.onap.org/cps/cps-tbdmt/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 544
+      },
+      "writtenOn": "2021-02-18T06:59:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7c6c5a1c_4693777c",
       "range": {
         "startLine": 6,
         "startChar": 15,
@@ -70,6 +118,30 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "24e3e6be_70c69ee1",
+        "filename": "gerrit.onap.org/cps/cps-tbdmt/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 544
+      },
+      "writtenOn": "2021-02-18T06:59:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "cd05370d_ae1f0e88",
+      "range": {
+        "startLine": 12,
+        "startChar": 18,
+        "endLine": 12,
+        "endChar": 33
+      },
+      "revId": "c2dbc057ff4814bdc4e97a3ce1166646fd22010e",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "be39a744_f42c6b61",
@@ -83,6 +155,30 @@
       "writtenOn": "2021-02-17T21:42:10Z",
       "side": 1,
       "message": "this anchor should be named something more relevant to the project. Can you please use \nonap_cps_ptl instead?",
+      "range": {
+        "startLine": 31,
+        "startChar": 10,
+        "endLine": 31,
+        "endChar": 26
+      },
+      "revId": "c2dbc057ff4814bdc4e97a3ce1166646fd22010e",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "00a942bd_9efdb8a1",
+        "filename": "gerrit.onap.org/cps/cps-tbdmt/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 544
+      },
+      "writtenOn": "2021-02-18T06:59:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "be39a744_f42c6b61",
       "range": {
         "startLine": 31,
         "startChar": 10,
