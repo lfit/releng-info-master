@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "52652e06_1ac42ad2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 357
+      },
+      "writtenOn": "2021-02-19T21:15:27Z",
+      "side": 1,
+      "message": "I cannot chase the link to the failed build to even begin to figure out what it\u0027s complaints are. Sigh.   I\u0027m going to try \"recheck\" to see if that\u0027s supported and maybe it was just a glitch in the system.",
+      "revId": "b03dbd2c2c6aa425c3c8a0223028bb7629030780",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
