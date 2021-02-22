@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fd42d85b_c8927490",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12
+      },
+      "writtenOn": "2021-02-22T17:50:18Z",
+      "side": 1,
+      "message": "@scott your text editor put some unicode BOM stuff at the start of the file.\nwe have a check to stop this sort of funny business.\n\n+\u003cfeff\u003e---\n\nOur check looks like\n\nLC_ALL\u003dC grep -I -r \u0027[^[:print:][:cntrl:]]\u0027 file_name\n\nbut if you use the file program.\n[agardner@hyperion-3 info-master]$ file gerrit.o-ran-sc.org/ric-plt/ric-sdk-py/INFO.yaml\ngerrit.o-ran-sc.org/ric-plt/ric-sdk-py/INFO.yaml: UTF-8 Unicode (with BOM) text\n\nafter i removed the \"\u003cfeff\u003e\"\n\n[agardner@hyperion-3 info-master]$ file gerrit.o-ran-sc.org/ric-plt/ric-sdk-py/INFO.yaml\ngerrit.o-ran-sc.org/ric-plt/ric-sdk-py/INFO.yaml: ASCII text\n\n\n",
+      "revId": "95f61a25887b86ffca7d32543e995fc3cc70646f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
