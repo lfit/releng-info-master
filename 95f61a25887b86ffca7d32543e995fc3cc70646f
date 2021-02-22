@@ -16,6 +16,24 @@
       "message": "@scott your text editor put some unicode BOM stuff at the start of the file.\nwe have a check to stop this sort of funny business.\n\n+\u003cfeff\u003e---\n\nOur check looks like\n\nLC_ALL\u003dC grep -I -r \u0027[^[:print:][:cntrl:]]\u0027 file_name\n\nbut if you use the file program.\n[agardner@hyperion-3 info-master]$ file gerrit.o-ran-sc.org/ric-plt/ric-sdk-py/INFO.yaml\ngerrit.o-ran-sc.org/ric-plt/ric-sdk-py/INFO.yaml: UTF-8 Unicode (with BOM) text\n\nafter i removed the \"\u003cfeff\u003e\"\n\n[agardner@hyperion-3 info-master]$ file gerrit.o-ran-sc.org/ric-plt/ric-sdk-py/INFO.yaml\ngerrit.o-ran-sc.org/ric-plt/ric-sdk-py/INFO.yaml: ASCII text\n\n\n",
       "revId": "95f61a25887b86ffca7d32543e995fc3cc70646f",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "10688e25_302457f8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 357
+      },
+      "writtenOn": "2021-02-22T17:56:09Z",
+      "side": 1,
+      "message": "@aric \nAric,  Thanks.  Matti generated the file, so I\u0027ll pass that along; I\u0027m pushing his changes as he\u0027s having difficuties with keys at the moment. \n\nI still cannot get to the output from the verify job (/1408).   I thought it might be a VPN issue, but have the same access problem from outside.  I can get to the verification output that is successful.  Strange.",
+      "parentUuid": "fd42d85b_c8927490",
+      "revId": "95f61a25887b86ffca7d32543e995fc3cc70646f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
