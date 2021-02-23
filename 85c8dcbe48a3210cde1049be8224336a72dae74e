@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2ddaafb1_622d4723",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-02-23T20:37:36Z",
+      "side": 1,
+      "message": "Is this a ric-app or a ric-ptl project?\n\nThe INFO.yaml file says ric-app, but the name of the file is under ric-ptl",
+      "revId": "85c8dcbe48a3210cde1049be8224336a72dae74e",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
