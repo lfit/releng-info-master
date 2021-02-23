@@ -34,6 +34,23 @@
       "parentUuid": "2ddaafb1_622d4723",
       "revId": "85c8dcbe48a3210cde1049be8224336a72dae74e",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fe197439_3dc5a457",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 384
+      },
+      "writtenOn": "2021-02-23T20:44:18Z",
+      "side": 1,
+      "message": "It is an xapp repo ... long story but this sdk work will be done under the RICAPP project.",
+      "revId": "85c8dcbe48a3210cde1049be8224336a72dae74e",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
