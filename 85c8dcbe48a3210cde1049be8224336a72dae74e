@@ -16,6 +16,24 @@
       "message": "Is this a ric-app or a ric-ptl project?\n\nThe INFO.yaml file says ric-app, but the name of the file is under ric-ptl",
       "revId": "85c8dcbe48a3210cde1049be8224336a72dae74e",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "56f47719_6d3b180d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 357
+      },
+      "writtenOn": "2021-02-23T20:42:27Z",
+      "side": 1,
+      "message": "I will check with Matti and make the needed change.  Thanks for pointing it out.",
+      "parentUuid": "2ddaafb1_622d4723",
+      "revId": "85c8dcbe48a3210cde1049be8224336a72dae74e",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
