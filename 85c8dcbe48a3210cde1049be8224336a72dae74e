@@ -69,6 +69,24 @@
       "parentUuid": "fe197439_3dc5a457",
       "revId": "85c8dcbe48a3210cde1049be8224336a72dae74e",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9f3440e1_0ac3c4ed",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-02-24T17:11:19Z",
+      "side": 1,
+      "message": "No problem at all... I am here to help and was able to merge your newest change. \n\nThanks!",
+      "parentUuid": "51256537_bfef32e1",
+      "revId": "85c8dcbe48a3210cde1049be8224336a72dae74e",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
