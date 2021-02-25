@@ -39,6 +39,30 @@
       },
       "revId": "0f80a152b6ac6d0c43c3ad2a755af5c534bd77e3",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cd57ec4d_0b4efe29",
+        "filename": "gerrit.onap.org/integration/simulators/nf-simulator/avcn-manager/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 547
+      },
+      "writtenOn": "2021-02-25T23:56:33Z",
+      "side": 1,
+      "message": "solved",
+      "parentUuid": "bed87894_e9cb3a44",
+      "range": {
+        "startLine": 34,
+        "startChar": 6,
+        "endLine": 34,
+        "endChar": 41
+      },
+      "revId": "0f80a152b6ac6d0c43c3ad2a755af5c534bd77e3",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
