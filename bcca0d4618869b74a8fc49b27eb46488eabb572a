@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bdeca9a8_adde51ee",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 223
+      },
+      "writtenOn": "2021-03-02T12:56:50Z",
+      "side": 1,
+      "message": "I put -1 until Konrad, Krystian and Pawel can be added for review ",
+      "revId": "bcca0d4618869b74a8fc49b27eb46488eabb572a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
