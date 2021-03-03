@@ -99,6 +99,30 @@
       },
       "revId": "29b27920e63dae7e3e65304bd6d5c850384d29c6",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dbde80d8_739e07dc",
+        "filename": "gerrit.onap.org/integration/usecases/A1-policy-enforcement-r-apps/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 551
+      },
+      "writtenOn": "2021-03-03T15:06:30Z",
+      "side": 1,
+      "message": "ok, I wasn\u0027t aware. Then I think your pick is better, let\u0027s leave it as is. Sorry for confusion.",
+      "parentUuid": "c289b0d5_b59959b2",
+      "range": {
+        "startLine": 34,
+        "startChar": 0,
+        "endLine": 34,
+        "endChar": 2
+      },
+      "revId": "29b27920e63dae7e3e65304bd6d5c850384d29c6",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
