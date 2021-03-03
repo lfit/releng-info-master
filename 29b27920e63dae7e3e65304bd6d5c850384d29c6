@@ -36,6 +36,24 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b6e50332_b6906a04",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 223
+      },
+      "writtenOn": "2021-03-03T12:47:35Z",
+      "side": 1,
+      "message": "same I got a timeout so no idea on the nature of the issue, @jess?",
+      "parentUuid": "3d9e78f7_d022bb3c",
+      "revId": "29b27920e63dae7e3e65304bd6d5c850384d29c6",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "b9ec8328_827011a1",
@@ -49,6 +67,30 @@
       "writtenOn": "2021-03-03T11:35:00Z",
       "side": 1,
       "message": "ok, sorry, I\u0027ve just noticed it. This naming is also fine for me, but we\u0027ve decided to place r-apps after slash, not dash, right?\nI mean \"integration/usecases/A1-policy-enforcement/r-apps\"",
+      "range": {
+        "startLine": 34,
+        "startChar": 0,
+        "endLine": 34,
+        "endChar": 2
+      },
+      "revId": "29b27920e63dae7e3e65304bd6d5c850384d29c6",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c289b0d5_b59959b2",
+        "filename": "gerrit.onap.org/integration/usecases/A1-policy-enforcement-r-apps/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 223
+      },
+      "writtenOn": "2021-03-03T12:47:35Z",
+      "side": 1,
+      "message": "we cannot have \n/A1-policy-enforcement\n/A1-policy-enforcement/r-apps\n at the same time\n\nso either\n/A1-policy-enforcement/usecase\n/A1-policy-enforcement/r-apps\n\nor\n/A1-policy-enforcement\n/A1-policy-enforcement-r-apps\n\nbut /A1-policy-enforcement cannot be at the same time a repo \nand a directory hosting other repositories",
+      "parentUuid": "b9ec8328_827011a1",
       "range": {
         "startLine": 34,
         "startChar": 0,
