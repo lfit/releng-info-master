@@ -16,6 +16,23 @@
       "message": "recheck",
       "revId": "78e62458b78cb30a63d34b29b7c2ee7571198a15",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "052302a6_f17799ee",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2021-04-13T20:34:07Z",
+      "side": 1,
+      "message": "Waiting on the committers to merge the following patch: https://gerrit.akraino.org/r/c/aiedge/+/4210",
+      "revId": "78e62458b78cb30a63d34b29b7c2ee7571198a15",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
