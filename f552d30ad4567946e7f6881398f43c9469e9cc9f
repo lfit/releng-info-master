@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "1e203070_c8b94418",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-05-12T19:21:02Z",
+      "side": 1,
+      "message": "The name of the file needs to be \"INFO.yaml\"",
+      "revId": "f552d30ad4567946e7f6881398f43c9469e9cc9f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d56df65b_d952bb9b",
