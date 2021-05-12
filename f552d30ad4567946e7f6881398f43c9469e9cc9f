@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d56df65b_d952bb9b",
+        "filename": "gerrit.akraino.org/INFO.Yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-05-12T19:19:56Z",
+      "side": 1,
+      "message": "Should be today\u0027s date",
+      "range": {
+        "startLine": 3,
+        "startChar": 23,
+        "endLine": 3,
+        "endChar": 35
+      },
+      "revId": "f552d30ad4567946e7f6881398f43c9469e9cc9f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "661f3b4e_531432ed",
+        "filename": "gerrit.akraino.org/INFO.Yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-05-12T19:19:56Z",
+      "side": 1,
+      "message": "Wrong hook name?",
+      "range": {
+        "startLine": 6,
+        "startChar": 14,
+        "endLine": 6,
+        "endChar": 46
+      },
+      "revId": "f552d30ad4567946e7f6881398f43c9469e9cc9f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "672d1a29_6ce62cc4",
+        "filename": "gerrit.akraino.org/INFO.Yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-05-12T19:19:56Z",
+      "side": 1,
+      "message": "Why is this not explicit?\nRemove trailing spaces",
+      "range": {
+        "startLine": 37,
+        "startChar": 0,
+        "endLine": 41,
+        "endChar": 28
+      },
+      "revId": "f552d30ad4567946e7f6881398f43c9469e9cc9f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
