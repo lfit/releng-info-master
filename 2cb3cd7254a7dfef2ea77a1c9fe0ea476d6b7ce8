@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a1b0177a_97f81ce1",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2021-05-12T20:26:07Z",
+      "side": 1,
+      "message": "Please use the subject line that Eric gave in his first review. To be specific:\n\nAdd INFO file for new Akraino project security",
+      "revId": "2cb3cd7254a7dfef2ea77a1c9fe0ea476d6b7ce8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9fe328c3_de4a7a8d",
+        "filename": "gerrit.akraino.org/INFO.Yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2021-05-12T20:26:07Z",
+      "side": 1,
+      "message": "Dangling whitespace",
+      "range": {
+        "startLine": 36,
+        "startChar": 31,
+        "endLine": 36,
+        "endChar": 33
+      },
+      "revId": "2cb3cd7254a7dfef2ea77a1c9fe0ea476d6b7ce8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
