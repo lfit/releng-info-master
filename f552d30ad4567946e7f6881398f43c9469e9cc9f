@@ -61,6 +61,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "45b96c42_e03cd47a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2021-05-12T20:48:14Z",
+      "side": 1,
+      "message": "Path/filename still need to be fixed. Should be gerrit.akraino.org/security/INFO.yaml. To be clear, \"yaml\" should be all lower-case.",
+      "parentUuid": "e6ff9483_53d00fcc",
+      "revId": "f552d30ad4567946e7f6881398f43c9469e9cc9f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d56df65b_d952bb9b",
         "filename": "gerrit.akraino.org/INFO.Yaml",
         "patchSetId": 1
