@@ -108,6 +108,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "617cae06_eac7c0a9",
+        "filename": "gerrit.akraino.org/INFO.Yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2021-05-12T20:15:16Z",
+      "side": 1,
+      "message": "As Eric points out this should be in ISO standard date format YYYY-MM-DD\n\nAs for the date itself. I would, personally, go for the date of the TSC approval as that\u0027s the official day when it was allowed in which from the looks of the attached TSC minutes is 2021-05-06",
+      "parentUuid": "05a4c1a0_3b4d7532",
+      "range": {
+        "startLine": 3,
+        "startChar": 23,
+        "endLine": 3,
+        "endChar": 35
+      },
+      "revId": "f552d30ad4567946e7f6881398f43c9469e9cc9f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "661f3b4e_531432ed",
         "filename": "gerrit.akraino.org/INFO.Yaml",
         "patchSetId": 1
