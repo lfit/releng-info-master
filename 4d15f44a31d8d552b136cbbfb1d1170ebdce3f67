@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b2fec6d0_aebb3d6a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2021-05-13T19:17:19Z",
+      "side": 1,
+      "message": "_fix_ the file name for INFO.yaml it _must_ be:\n\ngerrit.akraino.org/security/INFO.yaml\n\nDo _not_ include the .gpg signature (that\u0027s not something you need)\n\n_fix_ your commit subject line to be:\n\nAdd INFO file for new Akraino project security",
+      "revId": "4d15f44a31d8d552b136cbbfb1d1170ebdce3f67",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
