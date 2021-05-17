@@ -18,6 +18,24 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c759fe0_ad353c84",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2021-05-17T20:47:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a1b0177a_97f81ce1",
+      "revId": "2cb3cd7254a7dfef2ea77a1c9fe0ea476d6b7ce8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "9fe328c3_de4a7a8d",
@@ -31,6 +49,30 @@
       "writtenOn": "2021-05-12T20:26:07Z",
       "side": 1,
       "message": "Dangling whitespace",
+      "range": {
+        "startLine": 36,
+        "startChar": 31,
+        "endLine": 36,
+        "endChar": 33
+      },
+      "revId": "2cb3cd7254a7dfef2ea77a1c9fe0ea476d6b7ce8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7b50f376_647d4625",
+        "filename": "gerrit.akraino.org/INFO.Yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2021-05-17T20:47:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9fe328c3_de4a7a8d",
       "range": {
         "startLine": 36,
         "startChar": 31,
