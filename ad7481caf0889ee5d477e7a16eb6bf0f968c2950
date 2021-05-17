@@ -33,6 +33,23 @@
       "message": "recheck",
       "revId": "ad7481caf0889ee5d477e7a16eb6bf0f968c2950",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cc3b5b6e_b63c75c0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2021-05-17T20:49:13Z",
+      "side": 1,
+      "message": "Restored, as this should not have been abandoned. I believe the Jenkins failures we were seeing was due to bad credentials in the Jenkins config. I\u0027ve adjusted the credentials for nexus3.akraino.org to use a token rather than username/pass, and in my local testing, this fixed the issue.",
+      "revId": "ad7481caf0889ee5d477e7a16eb6bf0f968c2950",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
