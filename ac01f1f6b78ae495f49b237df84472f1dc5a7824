@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4f4e729e_e4071b4d",
+        "filename": "gerrit.akraino.org/cassini/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2021-06-01T18:34:25Z",
+      "side": 1,
+      "message": "For this key, you need to create a new Jira project and enter the actual project key.",
+      "range": {
+        "startLine": 16,
+        "startChar": 9,
+        "endLine": 16,
+        "endChar": 14
+      },
+      "revId": "ac01f1f6b78ae495f49b237df84472f1dc5a7824",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
