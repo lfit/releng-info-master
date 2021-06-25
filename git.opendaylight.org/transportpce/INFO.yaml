@@ -20,13 +20,13 @@ mailing_list:
     tag: '[]'
 realtime_discussion:
     type: 'irc'
-    server: 'libera.chat'
+    server: 'freenode.net'
     channel: '#opendaylight'
 meetings:
     - type: 'gotomeeting+irc'
       agenda: 'https://wiki.opendaylight.org'
       url: ''
-      server: 'libera.chat'
+      server: 'freenode.net'
       channel: '#opendaylight'
       repeats: ''
       time: ''
