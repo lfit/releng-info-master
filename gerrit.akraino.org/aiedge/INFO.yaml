@@ -54,6 +54,11 @@ committers:
       company: 'webank'
       id: 'siyanghan'
       timezone: 'Asia/Shanghai'
+    - name: 'HaiHui Wang'
+      email: 'wanghh2000@163.com'
+      company: 'IBM'
+      id: 'wanghaihui'
+      timezone: 'Asia/Shanghai'
 tsc:
     # yamllint disable rule:line-length
     approval: 'https://zoom.us/recording/share/MiotJLOkg-98JCxUC2GKgrC2RxHgJkSY5gt3pTaJWDCwIumekTziMw'
