@@ -57,3 +57,7 @@ oransc:
     - agrimberg
     - jwagantall
     - DWTalton
+tungsten:
+  release_engineers:
+    - valderrv
+    - cdasari
