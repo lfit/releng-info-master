@@ -8,7 +8,7 @@ project_lead: &onap_multicloud_ptl
     email: 'bin.yang@windriver.com'
     company: 'Windriver'
     id: 'biny993'
-    timezone: 'China/Beijing'
+    timezone: 'Asia/Shanghai'
 primary_contact: *onap_multicloud_ptl
 issue_tracking:
     type: 'jira'
