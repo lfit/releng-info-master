@@ -33,6 +33,23 @@
       "message": "recheck",
       "revId": "cd8cb30f9edf89548ab2efaeb8df6836feec0e26",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ce611607_edcdd6c5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2021-08-09T23:18:49Z",
+      "side": 1,
+      "message": "The verification issue seems to be an issue with the lftools.ini file. I found an error in it before the first recheck, but there is still an error somewhere in there. The may be an issue with the url, so I have adjusted that and tried again.",
+      "revId": "cd8cb30f9edf89548ab2efaeb8df6836feec0e26",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
