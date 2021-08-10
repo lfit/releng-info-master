@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8683293c_4e46635f",
+        "filename": "gerrit.opnfv.org/thoth/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 15
+      },
+      "writtenOn": "2021-08-10T18:50:02Z",
+      "side": 1,
+      "message": "Looks like Sridhar is listed twice here? Not sure if that\u0027s going to cause an issue with automation.",
+      "range": {
+        "startLine": 34,
+        "startChar": 4,
+        "endLine": 39,
+        "endChar": 30
+      },
+      "revId": "61408db0cf6193b55f29da20716cfbf0a295c7a8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
