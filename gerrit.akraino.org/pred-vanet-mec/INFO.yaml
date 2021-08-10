@@ -8,7 +8,7 @@ project_lead: &akraino_pred_vanet_mec_ptl
     email: 'malikasifmahmoodawan@gmail.com'
     id: 'AsifMehmood'
     company: 'Jeju National University'
-    timezone: 'Unknown/Unknown'
+    timezone: 'Asia/Seoul'
 primary_contact: *akraino_pred_vanet_mec_ptl
 issue_tracking:
     type: 'jira'
