@@ -34,6 +34,11 @@ repositories:
     - cassini
 committers:
     - <<: *akraino_cassini_ptl
+    - name: 'Jack Liu'
+      email: 'jack.liu@myais.com.cn'
+      company: 'Myais'
+      id: 'jack.liu.2048'
+      timezone: 'Asia/Shanghai'
 tsc:
     # yamllint disable rule:line-length
     approval: 'https://wiki.akraino.org/display/AK/TSC+2021-05-20+%28Thursday%29+7+am+Pacific'
