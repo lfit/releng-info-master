@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e35c0a6_a509895e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-09-09T19:24:29Z",
+      "side": 1,
+      "message": "Reached out to Pam and Liam to fix this in gerrit.onap.org",
+      "revId": "9fb22a92fe596d37978287229962ac6fc189004e",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
