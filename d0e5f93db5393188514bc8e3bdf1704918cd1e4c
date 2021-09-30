@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6bf3b935_cf1fa36f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 492
+      },
+      "writtenOn": "2021-09-30T12:37:10Z",
+      "side": 1,
+      "message": "Thanks! When the new repo will be ready to use on gerrit.onap.org?",
+      "revId": "d0e5f93db5393188514bc8e3bdf1704918cd1e4c",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
