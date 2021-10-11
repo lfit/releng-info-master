@@ -67,6 +67,24 @@
       "message": "this link is invalid",
       "revId": "7d927b03ce081ab85328d080798c233e63ea205d",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ea8ab6f0_f5dd9a88",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/ricctl/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2021-10-11T22:24:28Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f24f9775_4b239ac5",
+      "revId": "7d927b03ce081ab85328d080798c233e63ea205d",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
