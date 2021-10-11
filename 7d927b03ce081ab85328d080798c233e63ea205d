@@ -33,6 +33,40 @@
       "message": "recheck",
       "revId": "7d927b03ce081ab85328d080798c233e63ea205d",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "590ed18b_6cd5c5ea",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2021-10-11T20:38:43Z",
+      "side": 1,
+      "message": "Please check my comment about the invalid link for meetings section",
+      "revId": "7d927b03ce081ab85328d080798c233e63ea205d",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f24f9775_4b239ac5",
+        "filename": "gerrit.o-ran-sc.org/ric-plt/ricctl/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2021-10-11T20:38:43Z",
+      "side": 1,
+      "message": "this link is invalid",
+      "revId": "7d927b03ce081ab85328d080798c233e63ea205d",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
