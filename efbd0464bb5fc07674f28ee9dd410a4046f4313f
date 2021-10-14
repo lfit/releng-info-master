@@ -18,6 +18,24 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "99507d95_a5c677fd",
+        "filename": "gerrit.onap.org/integration/data-provider/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2021-10-14T19:58:23Z",
+      "side": 1,
+      "message": "\u0027/\u0027 is a valid character here",
+      "parentUuid": "6fa696b3_eecc45f4",
+      "revId": "efbd0464bb5fc07674f28ee9dd410a4046f4313f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "cc29d531_c2880a4a",
