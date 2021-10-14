@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6fa696b3_eecc45f4",
+        "filename": "gerrit.onap.org/integration/data-provider/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2021-10-14T19:54:23Z",
+      "side": 1,
+      "message": "using slashes (/) here may cause issues so please replace it with underscores (_) .. I recommend using the following project name: integration_data_provider",
+      "revId": "efbd0464bb5fc07674f28ee9dd410a4046f4313f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cc29d531_c2880a4a",
+        "filename": "gerrit.onap.org/integration/data-provider/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2021-10-14T19:54:23Z",
+      "side": 1,
+      "message": "is this creation date correct?",
+      "revId": "efbd0464bb5fc07674f28ee9dd410a4046f4313f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "80bd5516_fb168dfe",
+        "filename": "gerrit.onap.org/integration/data-provider/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2021-10-14T19:54:23Z",
+      "side": 1,
+      "message": "replace this placeholder with a valid value, e.g. \u0027integration\u0027",
+      "revId": "efbd0464bb5fc07674f28ee9dd410a4046f4313f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
