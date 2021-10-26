@@ -84,6 +84,24 @@
       "message": "@Fabio @Kevin @Andrew I need support to resolve that LF Jenkins CI issue. I don\u0027t have an access to the Jenkins dashboard and here in comments I can\u0027t see why that job is failing.",
       "revId": "90d0519354f7d23750b14ae16467be5cb873fd69",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "65aafc6c_fcd44c18",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29
+      },
+      "writtenOn": "2021-10-26T07:55:24Z",
+      "side": 1,
+      "message": "Here is the error message from the logs:\n\n17:11:09 ##########################################################\n17:11:09 Begin verification of INFO.yaml against LFN INFRASTRUCTURE\n17:11:09 gerrit_name:     onap\n17:11:09 gerrit_project:  integration/data-provider\n17:11:09 github Org:      onap\n17:11:09 github_project:  integration-data-provider\n17:11:09 gerrit_fqdn:     gerrit.onap.org\n17:11:09 jenkins host:    jenkins.onap.org\n17:11:09 nexus host:      nexus.onap.org\n17:11:09 nexus3 host:     nexus3.onap.org\n17:11:09 clonebase:       gerrit.onap.org/r/\n17:11:09 sshclonebase:    ssh://lf-jobbuilder@gerrit.onap.org:29418/\n17:11:09 modified_files:  gerrit.onap.org/integration/data-provider/INFO.yaml\n17:11:09 jjb repo:        ci-management\n17:11:09 domain:          onap.org\n17:11:09 nexus host:      nexus.onap.org\n17:11:09 group id:        org.onap\n17:11:10 ERROR: This project inherits from \n17:11:10 Therefore it should not have an info file.\n17:11:10 Committer changes should be done against the  repository\n17:11:10 Build step \u0027Execute shell\u0027 marked build as failure\n\nI\u0027m not sure if these sections are changeable once created since the repo would have been rolled out previously. Will need to confirm and get back. \n\n@Andy: Can we create a cloudfront/S3 bucket for the internal Jenkins so that logs are still accessable by $users?",
+      "parentUuid": "24534a17_24c65c3c",
+      "revId": "90d0519354f7d23750b14ae16467be5cb873fd69",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
