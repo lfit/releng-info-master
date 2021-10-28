@@ -102,6 +102,24 @@
       "parentUuid": "24534a17_24c65c3c",
       "revId": "90d0519354f7d23750b14ae16467be5cb873fd69",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cd4bf528_cf51a203",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 492
+      },
+      "writtenOn": "2021-10-28T14:47:33Z",
+      "side": 1,
+      "message": "Any updates on that issue?",
+      "parentUuid": "65aafc6c_fcd44c18",
+      "revId": "90d0519354f7d23750b14ae16467be5cb873fd69",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
