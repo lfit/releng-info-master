@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "867cf9fc_6b97bcfc",
+        "filename": "gerrit.onap.org/integration/data-provider/INFO.yaml",
+        "patchSetId": 6
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2021-11-11T14:47:11Z",
+      "side": 1,
+      "message": "Remove blank lines",
+      "revId": "3b65354d10e0e8a981c6b69a928d0597e8de0fb1",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
