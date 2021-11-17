@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ab2e0fca_ebbcc555",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 383
+      },
+      "writtenOn": "2021-11-17T09:07:43Z",
+      "side": 1,
+      "message": "Jessica/Bengt could you please provide feedback for this build? It failed on merge job.",
+      "revId": "47aafd82bcd67c069fcf8a33a2897b3b6bacf691",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
