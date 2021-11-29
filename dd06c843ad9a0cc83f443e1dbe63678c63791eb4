@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c7997250_ad07dc61",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 380
+      },
+      "writtenOn": "2021-11-29T07:51:05Z",
+      "side": 1,
+      "message": "failures discovered by CI need to be fixed first.",
+      "revId": "dd06c843ad9a0cc83f443e1dbe63678c63791eb4",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c1e9001a_ae6e32cc",
+        "filename": "gerrit.o-ran-sc.org/ric-app/rc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 380
+      },
+      "writtenOn": "2021-11-29T07:51:05Z",
+      "side": 1,
+      "message": "CI gave this for the yaml file (using yamllint)\n\n06:58:08   59:6      warning  missing starting space in comment  (comments)\n06:58:08   63:1      error    too many blank lines (1 \u003e 0)  (empty-lines)\n\nneeds to be fixed",
+      "range": {
+        "startLine": 58,
+        "startChar": 100,
+        "endLine": 58,
+        "endChar": 101
+      },
+      "revId": "dd06c843ad9a0cc83f443e1dbe63678c63791eb4",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
