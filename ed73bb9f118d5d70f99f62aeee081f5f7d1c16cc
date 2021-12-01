@@ -1,0 +1,188 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "64c67841_b51a6c22",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-12-01T19:59:36Z",
+      "side": 1,
+      "message": "Typo \"repository\"",
+      "range": {
+        "startLine": 7,
+        "startChar": 4,
+        "endLine": 7,
+        "endChar": 14
+      },
+      "revId": "ed73bb9f118d5d70f99f62aeee081f5f7d1c16cc",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3e517e36_d4af5c2e",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-12-01T19:59:36Z",
+      "side": 1,
+      "message": "This is confusing, the name of the repo requested is \"ric-app/rc\"",
+      "range": {
+        "startLine": 7,
+        "startChar": 28,
+        "endLine": 7,
+        "endChar": 35
+      },
+      "revId": "ed73bb9f118d5d70f99f62aeee081f5f7d1c16cc",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5a32fa92_31cd4bcd",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-12-01T19:59:36Z",
+      "side": 1,
+      "message": "Please capitalize",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 3
+      },
+      "revId": "ed73bb9f118d5d70f99f62aeee081f5f7d1c16cc",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e2e85eec_fa01b527",
+        "filename": "gerrit.o-ran-sc.org/ric-app/rc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-12-01T19:59:36Z",
+      "side": 1,
+      "message": "This is not the right project name. \nThis should be \"ric-app-rc\"",
+      "range": {
+        "startLine": 2,
+        "startChar": 10,
+        "endLine": 2,
+        "endChar": 18
+      },
+      "revId": "ed73bb9f118d5d70f99f62aeee081f5f7d1c16cc",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "93040b00_b25da075",
+        "filename": "gerrit.o-ran-sc.org/ric-app/rc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-12-01T19:59:36Z",
+      "side": 1,
+      "message": "This is not a correct timezone. Please use http://time.is/ to search for the right timezone. \nThe right timezone should be in the form of Asia/\u003cregion\u003e",
+      "range": {
+        "startLine": 11,
+        "startChar": 15,
+        "endLine": 11,
+        "endChar": 20
+      },
+      "revId": "ed73bb9f118d5d70f99f62aeee081f5f7d1c16cc",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2d5cc084_dd2e8750",
+        "filename": "gerrit.o-ran-sc.org/ric-app/rc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-12-01T19:59:36Z",
+      "side": 1,
+      "message": "This is not a correct timezone. Please use http://time.is/ to search for the right timezone. \nThe right timezone should be in the form of Asia/\u003cregion\u003e",
+      "range": {
+        "startLine": 45,
+        "startChar": 17,
+        "endLine": 45,
+        "endChar": 22
+      },
+      "revId": "ed73bb9f118d5d70f99f62aeee081f5f7d1c16cc",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "53fd0ba8_60b5bf17",
+        "filename": "gerrit.o-ran-sc.org/ric-app/rc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-12-01T19:59:36Z",
+      "side": 1,
+      "message": "This is not a correct timezone. Please use http://time.is/ to search for the right timezone. \nThe right timezone should be in the form of Asia/\u003cregion\u003e",
+      "range": {
+        "startLine": 50,
+        "startChar": 17,
+        "endLine": 50,
+        "endChar": 22
+      },
+      "revId": "ed73bb9f118d5d70f99f62aeee081f5f7d1c16cc",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "855d9542_0c8c68e9",
+        "filename": "gerrit.o-ran-sc.org/ric-app/rc/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2021-12-01T19:59:36Z",
+      "side": 1,
+      "message": "This is not a correct timezone. Please use http://time.is/ to search for the right timezone. \nThe right timezone should be in the form of Asia/\u003cregion\u003e",
+      "range": {
+        "startLine": 55,
+        "startChar": 17,
+        "endLine": 55,
+        "endChar": 22
+      },
+      "revId": "ed73bb9f118d5d70f99f62aeee081f5f7d1c16cc",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
