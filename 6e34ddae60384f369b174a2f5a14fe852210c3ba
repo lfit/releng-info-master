@@ -1,0 +1,165 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7e31b44f_572c6d4e",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2021-12-02T07:18:34Z",
+      "side": 1,
+      "message": "Commit message header should be limited to 50 characters, and should not include a period at the end.\n\nhttps://cbea.ms/git-commit/#seven-rules",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 70
+      },
+      "revId": "6e34ddae60384f369b174a2f5a14fe852210c3ba",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "66613bd4_278c09b5",
+        "filename": "gerrit.o-ran-sc.org/ric-app/rc/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2021-12-02T07:18:34Z",
+      "side": 1,
+      "message": "This is not an IANA tz. Please use \"Asia/Kolkata\".",
+      "range": {
+        "startLine": 11,
+        "startChar": 15,
+        "endLine": 11,
+        "endChar": 45
+      },
+      "revId": "6e34ddae60384f369b174a2f5a14fe852210c3ba",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3c911529_4e252319",
+        "filename": "gerrit.o-ran-sc.org/ric-app/rc/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2021-12-02T07:18:34Z",
+      "side": 1,
+      "message": "Asia/Kolkata",
+      "range": {
+        "startLine": 17,
+        "startChar": 15,
+        "endLine": 17,
+        "endChar": 45
+      },
+      "revId": "6e34ddae60384f369b174a2f5a14fe852210c3ba",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6e99d78e_1f09837d",
+        "filename": "gerrit.o-ran-sc.org/ric-app/rc/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2021-12-02T07:18:34Z",
+      "side": 1,
+      "message": "Asia/Kolkata",
+      "range": {
+        "startLine": 45,
+        "startChar": 17,
+        "endLine": 45,
+        "endChar": 47
+      },
+      "revId": "6e34ddae60384f369b174a2f5a14fe852210c3ba",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9dc43e4d_7eb8c171",
+        "filename": "gerrit.o-ran-sc.org/ric-app/rc/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2021-12-02T07:18:34Z",
+      "side": 1,
+      "message": "Asia/Kolkata",
+      "range": {
+        "startLine": 50,
+        "startChar": 17,
+        "endLine": 50,
+        "endChar": 47
+      },
+      "revId": "6e34ddae60384f369b174a2f5a14fe852210c3ba",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "01028abe_b80d4a07",
+        "filename": "gerrit.o-ran-sc.org/ric-app/rc/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2021-12-02T07:18:34Z",
+      "side": 1,
+      "message": "Asia/Kolkata",
+      "range": {
+        "startLine": 55,
+        "startChar": 17,
+        "endLine": 55,
+        "endChar": 47
+      },
+      "revId": "6e34ddae60384f369b174a2f5a14fe852210c3ba",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e91ceb37_ae42fbf3",
+        "filename": "gerrit.o-ran-sc.org/ric-app/rc/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2021-12-02T07:18:34Z",
+      "side": 1,
+      "message": "This is coming up as a non-ascii character. Not sure how/why, but it is apparently not a standard space. This is causing the verification failure.",
+      "range": {
+        "startLine": 58,
+        "startChar": 13,
+        "endLine": 58,
+        "endChar": 14
+      },
+      "revId": "6e34ddae60384f369b174a2f5a14fe852210c3ba",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
