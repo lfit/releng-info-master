@@ -1,4 +1,7 @@
 ---
+aswf:
+  release_engineers:
+    - agrimberg
 acumos:
   release_engineers:
     - eball
@@ -8,12 +11,6 @@ akraino:
 fd:
   release_engineers:
     - valderrv
-hyperledger:
-  release_engineers:
-    - tijohnson
-iotivity:
-  release_engineers:
-    - snandigam8413
 opendaylight:
   release_engineers:
     - askb
@@ -28,6 +25,7 @@ onap:
   release_engineers:
     - jwagantall
     - bthuree
+    - kevin.sandi
   tsc:
     - denglingli
     - AllaGoldner
@@ -51,13 +49,11 @@ onap:
 opnfv:
   release_engineers:
     - bramwelt
-    - agardner
+    - fpalumbo
 oransc:
   release_engineers:
     - agrimberg
     - jwagantall
-    - DWTalton
 tungsten:
   release_engineers:
     - valderrv
-    - cdasari
