@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dfb1258d_c3e328c2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2022-01-06T23:36:26Z",
+      "side": 1,
+      "message": "my LFID is correct, thanks",
+      "revId": "94a8ac6f452cdf43b5a0b1bd37a031cf3f8112c4",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
