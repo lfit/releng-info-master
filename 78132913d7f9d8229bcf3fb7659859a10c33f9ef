@@ -16,6 +16,23 @@
       "message": "Sorry I cannot access the logs for failed jobs above, so cannot diagnose / rectify. ",
       "revId": "78132913d7f9d8229bcf3fb7659859a10c33f9ef",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e5f57175_77fd6f1e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2022-02-02T18:15:54Z",
+      "side": 1,
+      "message": "The issue is mainly because our process do not support more than one INFO yaml file at a time. \nPlease split this change into one Gerrit change per file ",
+      "revId": "78132913d7f9d8229bcf3fb7659859a10c33f9ef",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
