@@ -1,0 +1,47 @@
+---
+project: 'relman'
+project_creation_date: '2022-03-09'
+project_category: ''
+lifecycle_state: 'Incubation'
+project_lead: &example_example_parent_example_child_ptl
+    name: 'David McBride'
+    email: 'dmcbride@linuxfoundation.org'
+    id: 'dmcbride'
+    company: 'Linux Foundation'
+    timezone: 'Pacific'
+primary_contact: *example_example_parent_example_child_ptl
+issue_tracking:
+    type: 'jira'
+    url: 'https://jira.example.org/projects/'
+    key: 'example_parent_example_child'
+mailing_list:
+    type: 'groups.io'
+    url: 'technical-discuss@lists.example.org'
+    tag: '[]'
+realtime_discussion:
+    type: 'irc'
+    server: 'freenode.net'
+    channel: '#example'
+meetings:
+    - type: 'gotomeeting+irc'
+      agenda: 'https://wiki.example.org/display/'
+      url: ''
+      server: 'freenode.net'
+      channel: '#example'
+      repeats: ''
+      time: ''
+repositories:
+    - example-parent/example-child
+committers:
+    - <<: *example_example_parent_example_child_ptl
+    - name: ''
+      email: ''
+      company: ''
+      id: ''
+tsc:
+    # yamllint disable rule:line-length
+    approval: 'https://wiki.onap.org/x/rKkEBw'
+    changes:
+        - type: ''
+          name: ''
+          link: ''
