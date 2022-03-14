@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0a9799db_f08c8b85",
+        "filename": "gerrit.onap.org/relman/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-03-14T14:57:15Z",
+      "side": 1,
+      "message": "This entire block is unneeded (and will actually cause problems) since it\u0027s pulled in by the \u0027\u003c\u003c: *relman_ptl\u0027 statement on line 16.",
+      "range": {
+        "startLine": 17,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 20
+      },
+      "revId": "5e40b976bf21d6ddf5a68ee1b233f3894e009489",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
