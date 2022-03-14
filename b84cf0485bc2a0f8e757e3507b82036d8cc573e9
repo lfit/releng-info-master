@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3d30f70d_3fc6cc2f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-03-14T15:56:57Z",
+      "side": 1,
+      "message": "Congrats on your new repository",
+      "revId": "b84cf0485bc2a0f8e757e3507b82036d8cc573e9",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}

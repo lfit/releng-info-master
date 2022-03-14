@@ -24,6 +24,30 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ef474fe8_f00853e4",
+        "filename": "gerrit.onap.org/relman/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-03-14T15:56:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "8ecc4bfc_16996658",
+      "range": {
+        "startLine": 6,
+        "startChar": 15,
+        "endLine": 6,
+        "endChar": 55
+      },
+      "revId": "22aa7e15e88295ed1b3085d6c481b18933146d5f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e82caa84_ccfdaf06",
@@ -37,6 +61,30 @@
       "writtenOn": "2022-03-11T17:30:18Z",
       "side": 1,
       "message": "This is not a valid timezone identifier. \u0027America/Los_Angeles\u0027 would be the correct one for a US Pacific TZ.",
+      "range": {
+        "startLine": 11,
+        "startChar": 15,
+        "endLine": 11,
+        "endChar": 22
+      },
+      "revId": "22aa7e15e88295ed1b3085d6c481b18933146d5f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1cd9191d_46453be9",
+        "filename": "gerrit.onap.org/relman/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-03-14T15:56:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e82caa84_ccfdaf06",
       "range": {
         "startLine": 11,
         "startChar": 15,
@@ -70,6 +118,30 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ba22763b_717752b4",
+        "filename": "gerrit.onap.org/relman/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-03-14T15:56:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "333efdb5_6e2bae65",
+      "range": {
+        "startLine": 12,
+        "startChar": 18,
+        "endLine": 12,
+        "endChar": 58
+      },
+      "revId": "22aa7e15e88295ed1b3085d6c481b18933146d5f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ebdf963b_24cd2366",
@@ -83,6 +155,30 @@
       "writtenOn": "2022-03-11T17:30:18Z",
       "side": 1,
       "message": "These items should be filled in appropriately, or removed. IIRC our schema treats them as optional",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 32,
+        "endChar": 14
+      },
+      "revId": "22aa7e15e88295ed1b3085d6c481b18933146d5f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "090ac47b_8388161a",
+        "filename": "gerrit.onap.org/relman/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-03-14T15:56:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ebdf963b_24cd2366",
       "range": {
         "startLine": 13,
         "startChar": 0,
@@ -116,6 +212,30 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "fb81de6e_6967859a",
+        "filename": "gerrit.onap.org/relman/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-03-14T15:56:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "74ff4c07_5f545608",
+      "range": {
+        "startLine": 34,
+        "startChar": 6,
+        "endLine": 34,
+        "endChar": 34
+      },
+      "revId": "22aa7e15e88295ed1b3085d6c481b18933146d5f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "b8448e34_34637590",
@@ -139,6 +259,30 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "350b4d72_81c0e69a",
+        "filename": "gerrit.onap.org/relman/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-03-14T15:56:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b8448e34_34637590",
+      "range": {
+        "startLine": 36,
+        "startChar": 11,
+        "endLine": 36,
+        "endChar": 51
+      },
+      "revId": "22aa7e15e88295ed1b3085d6c481b18933146d5f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a9f0bb6b_0fc2c1ff",
@@ -152,6 +296,30 @@
       "writtenOn": "2022-03-11T17:30:18Z",
       "side": 1,
       "message": "You really should have at least 1 other committer defined. Preferably 2",
+      "range": {
+        "startLine": 37,
+        "startChar": 0,
+        "endLine": 40,
+        "endChar": 12
+      },
+      "revId": "22aa7e15e88295ed1b3085d6c481b18933146d5f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9da494b2_72417b19",
+        "filename": "gerrit.onap.org/relman/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-03-14T15:56:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a9f0bb6b_0fc2c1ff",
       "range": {
         "startLine": 37,
         "startChar": 0,

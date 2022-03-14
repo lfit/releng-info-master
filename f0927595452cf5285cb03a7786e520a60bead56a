@@ -35,6 +35,24 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "097b6140_e198d737",
+        "filename": "gerrit.onap.org/relman/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-03-14T15:56:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "acebdb75_0a859d42",
+      "revId": "f0927595452cf5285cb03a7786e520a60bead56a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8a2dd9ea_399fad7b",
@@ -48,6 +66,24 @@
       "writtenOn": "2022-03-11T23:22:01Z",
       "side": 1,
       "message": "This needs a \u0027-\u0027 at the same level as on line 17",
+      "revId": "f0927595452cf5285cb03a7786e520a60bead56a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "10afc46f_8d9128b2",
+        "filename": "gerrit.onap.org/relman/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-03-14T15:56:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "8a2dd9ea_399fad7b",
       "revId": "f0927595452cf5285cb03a7786e520a60bead56a",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
