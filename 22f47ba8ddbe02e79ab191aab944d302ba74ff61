@@ -16,6 +16,23 @@
       "message": "Should this have a tag in the subject line for conventional commit style? It doesn\u0027t seem like something we\u0027re enforcing on this repo, so I\u0027ll give a +2, but leave it up to you to either merge, or update the commit message.",
       "revId": "22f47ba8ddbe02e79ab191aab944d302ba74ff61",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dc651672_773ddd5c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2022-03-15T19:49:29Z",
+      "side": 1,
+      "message": "Huh... does info-master-verify not know how to deal with deleted files? That doesn\u0027t seem good.",
+      "revId": "22f47ba8ddbe02e79ab191aab944d302ba74ff61",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
