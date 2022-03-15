@@ -33,6 +33,42 @@
       "message": "Huh... does info-master-verify not know how to deal with deleted files? That doesn\u0027t seem good.",
       "revId": "22f47ba8ddbe02e79ab191aab944d302ba74ff61",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3eba8a03_50660b0b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-03-15T19:56:23Z",
+      "side": 1,
+      "message": "I was kind of expecting this. I\u0027m pretty certain we don\u0027t support the removal case in the code :-/ note certain the best way to fix this...",
+      "parentUuid": "dc651672_773ddd5c",
+      "revId": "22f47ba8ddbe02e79ab191aab944d302ba74ff61",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "709f67bf_c88b7456",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-03-15T19:56:23Z",
+      "side": 1,
+      "message": "I probably should do a CC subject, but we aren\u0027t enforcing on this repo",
+      "parentUuid": "fd97da76_ddc7fced",
+      "revId": "22f47ba8ddbe02e79ab191aab944d302ba74ff61",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
