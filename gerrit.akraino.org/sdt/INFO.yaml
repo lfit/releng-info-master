@@ -1,0 +1,57 @@
+---
+project: 'sdt'
+project_creation_date: '2022-03-28'
+project_category: ''
+lifecycle_state: 'Incubation'
+project_lead: &akraino_sdt_ptl
+    name: 'Colin Peters'
+    email: 'colin.peters@fujitsu.com'
+    company: 'fujitsu'
+    id: 'colinpeters'
+    timezone: 'Unknown/Unknown'
+primary_contact: *akraino_sdt_ptl
+issue_tracking:
+    type: 'jira'
+    url: 'https://jira.akraino.org/projects/'
+    key: 'sdt'
+mailing_list:
+    type: 'groups.io'
+    url: 'technical-discuss@lists.akraino.org'
+    tag: '[]'
+realtime_discussion:
+    type: 'irc'
+    server: 'freenode.net'
+    channel: '#akraino'
+meetings:
+    - type: 'gotomeeting+irc'
+      agenda: 'https://wiki.akraino.org/display/'
+      url: ''
+      server: 'freenode.net'
+      channel: '#akraino'
+      repeats: ''
+      time: ''
+repositories:
+    - sdt
+committers:
+    - <<: *akraino_sdt_ptl
+    - name: 'Yoshiko Tsuji'
+      email: 'tsuji.yoshiko@fujitsu.com'
+      company: 'fujitsu'
+      id: 'yoshiko'
+      timezone: 'Unknown/Unknown'
+    - name: 'Inoue Reo'
+      email: 'inoue.reo@fujitsu.com'
+      company: 'fujitsu'
+      id: 'InoueReo'
+      timezone: 'Unknown/Unknown'
+    - name: 'Fukano Haruhisa'
+      email: 'fukano.haruhisa@fujitsu.com'
+      company: 'fujitsu'
+      id: 'haruhisa'
+      timezone: 'Unknown/Unknown'
+tsc:
+    # yamllint disable rule:line-length
+    approval: ''
+    changes:
+        - type: 'approval'
+          link: 'https://wiki.akraino.org/display/AK/TSC+2022-03-24+%28Thursday%29+7%3A00+am+Pacific'
