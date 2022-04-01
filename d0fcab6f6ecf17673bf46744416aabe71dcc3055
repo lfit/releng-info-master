@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4c79bac9_2728c6c0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-04-01T15:42:13Z",
+      "side": 1,
+      "message": "Please see my comment. Also, reach out to the requester to validate it.",
+      "revId": "d0fcab6f6ecf17673bf46744416aabe71dcc3055",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ee2d6217_f60f9714",
+        "filename": "gerrit.o-ran-sc.org/smo/pkg/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-04-01T15:42:13Z",
+      "side": 1,
+      "message": "This will break the repository build out because there is no ID. Unless we\u0027ve got something in our ACL modifier has a special case for \u0027n/a\u0027",
+      "range": {
+        "startLine": 37,
+        "startChar": 0,
+        "endLine": 41,
+        "endChar": 32
+      },
+      "revId": "d0fcab6f6ecf17673bf46744416aabe71dcc3055",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
