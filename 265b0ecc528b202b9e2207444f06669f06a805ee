@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "733d174b_2ee7153c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29
+      },
+      "writtenOn": "2022-05-13T01:06:39Z",
+      "side": 1,
+      "message": "Please change only what was recommended\nand not the entire commit message. \n\nRef:\nhttps://docs.releng.linuxfoundation.org/en/latest/gerrit.html",
+      "revId": "265b0ecc528b202b9e2207444f06669f06a805ee",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
