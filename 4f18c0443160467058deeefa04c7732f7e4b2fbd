@@ -24,6 +24,30 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "bda7a02a_b02ad6f2",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 606
+      },
+      "writtenOn": "2022-05-16T07:10:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "40a6e586_68e7e85b",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 54
+      },
+      "revId": "4f18c0443160467058deeefa04c7732f7e4b2fbd",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "5a6f41c1_ee2ba69d",
@@ -47,6 +71,30 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "1fdf5eb9_9a9672f9",
+        "filename": "gerrit.o-ran-sc.org/ric-app/kpimon-go/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 606
+      },
+      "writtenOn": "2022-05-16T07:10:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5a6f41c1_ee2ba69d",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 16
+      },
+      "revId": "4f18c0443160467058deeefa04c7732f7e4b2fbd",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "4f933e7b_ac04ec4a",
@@ -60,6 +108,30 @@
       "writtenOn": "2022-05-09T18:53:48Z",
       "side": 1,
       "message": "Please add an approval link.",
+      "range": {
+        "startLine": 43,
+        "startChar": 15,
+        "endLine": 43,
+        "endChar": 47
+      },
+      "revId": "4f18c0443160467058deeefa04c7732f7e4b2fbd",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e6c31e91_46c14b57",
+        "filename": "gerrit.o-ran-sc.org/ric-app/kpimon-go/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 606
+      },
+      "writtenOn": "2022-05-16T07:10:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "4f933e7b_ac04ec4a",
       "range": {
         "startLine": 43,
         "startChar": 15,

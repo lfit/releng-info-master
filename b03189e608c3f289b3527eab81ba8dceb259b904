@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9687cce1_33d67d51",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 606
+      },
+      "writtenOn": "2022-05-16T07:10:19Z",
+      "side": 1,
+      "message": "Hi All,\n\nI have incorporated comments from Eric on this patchset.\n\nRegards,\nAmit",
+      "revId": "b03189e608c3f289b3527eab81ba8dceb259b904",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
