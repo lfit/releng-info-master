@@ -16,6 +16,29 @@
       "message": "Hi All,\n\nI have incorporated comments from Eric on this patchset.\n\nRegards,\nAmit",
       "revId": "b03189e608c3f289b3527eab81ba8dceb259b904",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "00445d15_0bda05c1",
+        "filename": "gerrit.o-ran-sc.org/ric-app/kpimon-go/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2022-05-17T20:16:23Z",
+      "side": 1,
+      "message": "I don\u0027t see an approval for this repo here. Was this approved by to TOC?",
+      "range": {
+        "startLine": 42,
+        "startChar": 15,
+        "endLine": 42,
+        "endChar": 52
+      },
+      "revId": "b03189e608c3f289b3527eab81ba8dceb259b904",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
