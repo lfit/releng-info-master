@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "df6ba7ed_b4d41e6f",
+        "filename": "gerrit.o-ran-sc.org/sim/ns3-o-ran-e2/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2022-05-18T20:58:45Z",
+      "side": 1,
+      "message": "Please only use ISO time zones. This should be America/New_York.",
+      "range": {
+        "startLine": 41,
+        "startChar": 16,
+        "endLine": 41,
+        "endChar": 28
+      },
+      "revId": "541c8e798cd15d145202d8496748f066fae58a43",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dc64b9d9_cf855b1b",
+        "filename": "gerrit.o-ran-sc.org/sim/ns3-o-ran-e2/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2022-05-18T20:58:45Z",
+      "side": 1,
+      "message": "America/New_York",
+      "range": {
+        "startLine": 46,
+        "startChar": 17,
+        "endLine": 46,
+        "endChar": 28
+      },
+      "revId": "541c8e798cd15d145202d8496748f066fae58a43",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a5e29c32_5147fbdd",
+        "filename": "gerrit.o-ran-sc.org/sim/ns3-o-ran-e2/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2022-05-18T20:58:45Z",
+      "side": 1,
+      "message": "Europe/Rome",
+      "range": {
+        "startLine": 51,
+        "startChar": 16,
+        "endLine": 51,
+        "endChar": 28
+      },
+      "revId": "541c8e798cd15d145202d8496748f066fae58a43",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
