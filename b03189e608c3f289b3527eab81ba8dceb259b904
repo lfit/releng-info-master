@@ -18,6 +18,23 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "9a752c51_7ad5c8ef",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 606
+      },
+      "writtenOn": "2022-05-19T05:47:26Z",
+      "side": 1,
+      "message": "Hi Eric,\n\nI have added the links which I got.\nKindly help to approve.\n\nRegards,\nAmit",
+      "revId": "b03189e608c3f289b3527eab81ba8dceb259b904",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "00445d15_0bda05c1",
@@ -31,6 +48,30 @@
       "writtenOn": "2022-05-17T20:16:23Z",
       "side": 1,
       "message": "I don\u0027t see an approval for this repo here. Was this approved by to TOC?",
+      "range": {
+        "startLine": 42,
+        "startChar": 15,
+        "endLine": 42,
+        "endChar": 52
+      },
+      "revId": "b03189e608c3f289b3527eab81ba8dceb259b904",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "720a63be_9d03d94c",
+        "filename": "gerrit.o-ran-sc.org/ric-app/kpimon-go/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 606
+      },
+      "writtenOn": "2022-05-19T05:47:26Z",
+      "side": 1,
+      "message": "Hi Eric, \nKindly find the links below\n\nhttps://lists.o-ran-sc.org/g/toc/message/660\nhttps://wiki.o-ran-sc.org/pages/viewpage.action?pageId\u003d47748899",
+      "parentUuid": "00445d15_0bda05c1",
       "range": {
         "startLine": 42,
         "startChar": 15,
