@@ -24,6 +24,30 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e2bb25a_42738457",
+        "filename": "gerrit.o-ran-sc.org/sim/ns3-o-ran-e2/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 608
+      },
+      "writtenOn": "2022-05-19T09:58:16Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "df6ba7ed_b4d41e6f",
+      "range": {
+        "startLine": 41,
+        "startChar": 16,
+        "endLine": 41,
+        "endChar": 28
+      },
+      "revId": "541c8e798cd15d145202d8496748f066fae58a43",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "dc64b9d9_cf855b1b",
@@ -47,6 +71,30 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "08c2a4eb_b5348e49",
+        "filename": "gerrit.o-ran-sc.org/sim/ns3-o-ran-e2/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 608
+      },
+      "writtenOn": "2022-05-19T09:58:16Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dc64b9d9_cf855b1b",
+      "range": {
+        "startLine": 46,
+        "startChar": 17,
+        "endLine": 46,
+        "endChar": 28
+      },
+      "revId": "541c8e798cd15d145202d8496748f066fae58a43",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a5e29c32_5147fbdd",
@@ -60,6 +108,30 @@
       "writtenOn": "2022-05-18T20:58:45Z",
       "side": 1,
       "message": "Europe/Rome",
+      "range": {
+        "startLine": 51,
+        "startChar": 16,
+        "endLine": 51,
+        "endChar": 28
+      },
+      "revId": "541c8e798cd15d145202d8496748f066fae58a43",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "77c04b25_5414e491",
+        "filename": "gerrit.o-ran-sc.org/sim/ns3-o-ran-e2/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 608
+      },
+      "writtenOn": "2022-05-19T09:58:16Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a5e29c32_5147fbdd",
       "range": {
         "startLine": 51,
         "startChar": 16,
