@@ -33,6 +33,23 @@
       "message": "Is there anything needed from my side? I see that the merge job failed, but the repo is created nevertheless. But I see the repo as empty, I would have expected the INFO.yaml file to be present there.",
       "revId": "8b3d515a3e0fffc37a522a8e22c23d7b35a997f6",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f043acfd_00c402a9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 608
+      },
+      "writtenOn": "2022-05-23T08:30:24Z",
+      "side": 1,
+      "message": "remerge",
+      "revId": "8b3d515a3e0fffc37a522a8e22c23d7b35a997f6",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
