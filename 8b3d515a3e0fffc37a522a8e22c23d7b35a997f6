@@ -67,6 +67,24 @@
       "message": "Sorry Alex, there\u0027s an issue with our automation right now. The repo was created, and the committer group was correctly created based on the INFO file and given permissions for the repo, so you can add and commit the INFO file to the repo. We\u0027re taking a look at the issue with this merge job, but adding it manually is going to be your best bet to get it in the repo as soon as possible.",
       "revId": "8b3d515a3e0fffc37a522a8e22c23d7b35a997f6",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6eef1d6c_59064504",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 608
+      },
+      "writtenOn": "2022-05-24T08:24:47Z",
+      "side": 1,
+      "message": "Thanks Eric for the feedback!\n\nI tried to add the INFO.yaml file manually in the repo, but it seems I am unable to merge the change myself, it seems I am not a committer. I have added you as a reviewer to that job, just FYI.",
+      "parentUuid": "665107ef_6ca95bde",
+      "revId": "8b3d515a3e0fffc37a522a8e22c23d7b35a997f6",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
