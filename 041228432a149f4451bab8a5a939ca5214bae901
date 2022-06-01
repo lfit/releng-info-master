@@ -16,6 +16,23 @@
       "message": "Done. Incorporated the link in file. Kindly approve so that I can proceed with code check-in.\n\nRegards,\nAmit",
       "revId": "041228432a149f4451bab8a5a939ca5214bae901",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "de052c86_91da1f2e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-06-01T15:36:41Z",
+      "side": 1,
+      "message": "remerge",
+      "revId": "041228432a149f4451bab8a5a939ca5214bae901",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
