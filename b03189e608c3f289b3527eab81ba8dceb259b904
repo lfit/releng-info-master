@@ -104,6 +104,30 @@
       },
       "revId": "b03189e608c3f289b3527eab81ba8dceb259b904",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9759cdfc_36a601c1",
+        "filename": "gerrit.o-ran-sc.org/ric-app/kpimon-go/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 606
+      },
+      "writtenOn": "2022-06-01T12:38:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c0445c7a_24549065",
+      "range": {
+        "startLine": 42,
+        "startChar": 15,
+        "endLine": 42,
+        "endChar": 52
+      },
+      "revId": "b03189e608c3f289b3527eab81ba8dceb259b904",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
