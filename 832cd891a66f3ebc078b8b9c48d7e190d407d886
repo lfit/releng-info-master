@@ -22,6 +22,30 @@
       },
       "revId": "832cd891a66f3ebc078b8b9c48d7e190d407d886",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "60566134_0d8853a2",
+        "filename": "gerrit.onap.org/usecase-ui/intent-analysis/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2022-07-05T15:42:21Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "df8770b8_07f674da",
+      "range": {
+        "startLine": 46,
+        "startChar": 4,
+        "endLine": 52,
+        "endChar": 0
+      },
+      "revId": "832cd891a66f3ebc078b8b9c48d7e190d407d886",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
