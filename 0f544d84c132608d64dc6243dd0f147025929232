@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "40cf7c80_03f9ec6a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2022-07-05T15:46:35Z",
+      "side": 1,
+      "message": "Do you want to add the existing committers in the changes section?\nFor trackability point of view, but not mandatory.",
+      "revId": "0f544d84c132608d64dc6243dd0f147025929232",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
