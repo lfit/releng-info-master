@@ -25,6 +25,7 @@ onap:
   release_engineers:
     - jwagantall
     - bthuree
+    - mwatkins
     - kevin.sandi
   tsc:
     - denglingli
