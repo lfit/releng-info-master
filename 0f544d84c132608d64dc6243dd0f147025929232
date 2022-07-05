@@ -33,6 +33,23 @@
       "message": "It\u0027s building again, jenkins is happy; we can move forward with this.",
       "revId": "0f544d84c132608d64dc6243dd0f147025929232",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "67c4a763_a6e416e3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2022-07-05T20:15:42Z",
+      "side": 1,
+      "message": "remerge",
+      "revId": "0f544d84c132608d64dc6243dd0f147025929232",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
