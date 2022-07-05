@@ -16,6 +16,23 @@
       "message": "Do you want to add the existing committers in the changes section?\nFor trackability point of view, but not mandatory.",
       "revId": "0f544d84c132608d64dc6243dd0f147025929232",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5ec1521a_5182c915",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 605
+      },
+      "writtenOn": "2022-07-05T15:53:14Z",
+      "side": 1,
+      "message": "It\u0027s building again, jenkins is happy; we can move forward with this.",
+      "revId": "0f544d84c132608d64dc6243dd0f147025929232",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
