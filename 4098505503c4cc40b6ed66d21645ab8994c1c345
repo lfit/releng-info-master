@@ -50,6 +50,23 @@
       "message": "since there was a post-merge build failure, I suspect something went wrong with the permissions. I also created a LF support case to resolve this issue: IT-24284 .",
       "revId": "4098505503c4cc40b6ed66d21645ab8994c1c345",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ad99101c_b842cf85",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2022-07-12T17:48:19Z",
+      "side": 1,
+      "message": "remerge",
+      "revId": "4098505503c4cc40b6ed66d21645ab8994c1c345",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
