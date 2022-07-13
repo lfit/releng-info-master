@@ -38,12 +38,12 @@ committers:
       email: 'johannes@caur.us'
       company: 'caurus'
       id: 'jkbecker'
-      timezone: ''
+      timezone: 'America/New_York'
     - name: 'Bryan Russett'
       email: 'bryan@caur.us'
       company: 'caurus'
       id: 'bryanr'
-      timezone: ''
+      timezone: 'America/New_York'
 tsc:
     # yamllint disable rule:line-length
     approval: 'https://wiki.o-ran-sc.org/display/TOC'
