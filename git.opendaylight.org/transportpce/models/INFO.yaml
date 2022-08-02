@@ -1,0 +1,68 @@
+---
+project: 'transportpce_models'
+project_creation_date: '2022-08-02'
+project_category: ''
+lifecycle_state: 'Incubation'
+project_lead: &odl_transportpce_models_ptl
+    name: 'Gilles Thouenon'
+    email: 'gilles.thouenon@orange.com'
+    company: 'orange'
+    id: 'gthouenon'
+    timezone: 'Europe/Paris'
+primary_contact: *odl_transportpce_models_ptl
+issue_tracking:
+    type: 'jira'
+    url: 'https://jira.opendaylight.org/projects/'
+    key: 'transportpce_models'
+mailing_list:
+    type: 'groups.io'
+    url: 'technical-discuss@lists.opendaylight.org'
+    tag: '[]'
+realtime_discussion:
+    type: 'irc'
+    server: 'freenode.net'
+    channel: '#odl'
+meetings:
+    - type: 'gotomeeting+irc'
+      agenda: 'https://wiki.opendaylight.org/display/'
+      url: ''
+      server: 'freenode.net'
+      channel: '#odl'
+      repeats: ''
+      time: ''
+repositories:
+    - transportpce/models
+committers:
+    - <<: *odl_transportpce_models_ptl
+    - name: 'Christophe Betoule'
+      email: 'christophe.betoule@orange.com'
+      company: 'orange'
+      id: 'cbetoule'
+      timezone: 'Europe/Paris'
+    - name: 'Balagangadhar Bathula'
+      email: 'bb4341@att.com'
+      company: 'att'
+      id: 'b95quare'
+      timezone: 'America/New_York'
+    - name: 'Guillaume Lambert'
+      email: 'guillaume.lambert@orange.com'
+      company: 'orange'
+      id: 'guillaume.lambert'
+      timezone: 'Europe/Paris'
+    - name: 'Shweta Vachhani'
+      email: 'sv111y@att.com'
+      company: 'att'
+      id: 'svachhani'
+      timezone: 'America/New_York'
+    - name: 'Cédric Ollivier'
+      email: 'cedric.ollivier@orange.com'
+      company: 'orange'
+      id: 'collivier'
+      timezone: 'Europe/Paris'
+tsc:
+    # yamllint disable rule:line-length
+    approval: 'https://wiki.opendaylight.org/display/ODL/2022-06-30+TSC+Minutes'
+    changes:
+        - type: ''
+          name: ''
+          link: ''
