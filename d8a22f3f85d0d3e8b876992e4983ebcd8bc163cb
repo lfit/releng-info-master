@@ -16,6 +16,23 @@
       "message": "The repo was approved in the TOC meeting on 2022-06-23 in\nitem 3.b of the agenda:\n\n  https://wiki.o-ran-sc.org/display/TOC#ORANSCTechnicalOversightCommittee(TOC)-20220623\n\nNote that old meeting minutes are moved to\n\n  https://wiki.o-ran-sc.org/display/TOC/Archived+Meetings\n\nand you might have to check from this archive to find the\ncorrect meeting minutes.",
       "revId": "d8a22f3f85d0d3e8b876992e4983ebcd8bc163cb",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "474755ea_69762c04",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 614
+      },
+      "writtenOn": "2022-08-09T14:24:32Z",
+      "side": 1,
+      "message": "thanks!",
+      "revId": "d8a22f3f85d0d3e8b876992e4983ebcd8bc163cb",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
