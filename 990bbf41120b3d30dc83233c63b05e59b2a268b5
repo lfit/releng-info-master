@@ -50,6 +50,23 @@
       "message": "The last couple failures are due to an issue with our verify/merge script. I\u0027ve opened a patch to fix it at https://gerrit.linuxfoundation.org/infra/c/ci-management/+/70474.",
       "revId": "990bbf41120b3d30dc83233c63b05e59b2a268b5",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8b6313ff_ac1e89c8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2022-08-10T18:15:47Z",
+      "side": 1,
+      "message": "recheck",
+      "revId": "990bbf41120b3d30dc83233c63b05e59b2a268b5",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
