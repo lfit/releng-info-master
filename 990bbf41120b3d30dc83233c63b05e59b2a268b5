@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e288565c_34e87e0a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 530
+      },
+      "writtenOn": "2022-08-10T09:12:27Z",
+      "side": 1,
+      "message": "+ Kevin in CC who is following ticket IT-24286\n\nIt looks like there are still some trouble in the CI though Gilles fixed every issues pointed in review comments.\nSince he is now out of office, I just pushed on his behalf a new PS with some adaptations and updates with more recent information.\nAdaptations are inspired from previous commits in Git Log which seemed to use a different pattern.\nLet\u0027s see if it behaves better this way.\n\nHope this helps\n\nBR\nGuillaume",
+      "revId": "990bbf41120b3d30dc83233c63b05e59b2a268b5",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}

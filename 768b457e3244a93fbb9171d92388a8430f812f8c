@@ -80,6 +80,30 @@
       },
       "revId": "768b457e3244a93fbb9171d92388a8430f812f8c",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e30dbc1d_9d0a9801",
+        "filename": "git.opendaylight.org/transportpce/models/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 530
+      },
+      "writtenOn": "2022-08-10T09:12:27Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "0b199091_a2bc1ca0",
+      "range": {
+        "startLine": 57,
+        "startChar": 13,
+        "endLine": 57,
+        "endChar": 19
+      },
+      "revId": "768b457e3244a93fbb9171d92388a8430f812f8c",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
