@@ -187,6 +187,40 @@
       "parentUuid": "64ec6d7c_31182462",
       "revId": "990bbf41120b3d30dc83233c63b05e59b2a268b5",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "395dd5c4_8772b743",
+        "filename": "git.opendaylight.org/transportpce/models/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2022-08-11T20:34:36Z",
+      "side": 1,
+      "message": "please update this date",
+      "revId": "990bbf41120b3d30dc83233c63b05e59b2a268b5",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "169decef_ec2e4d97",
+        "filename": "git.opendaylight.org/transportpce/models/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2022-08-11T20:34:36Z",
+      "side": 1,
+      "message": "the correct LFID for Cedric is \u0027ollivier\u0027",
+      "revId": "990bbf41120b3d30dc83233c63b05e59b2a268b5",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
