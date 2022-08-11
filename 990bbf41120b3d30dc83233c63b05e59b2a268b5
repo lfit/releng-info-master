@@ -169,6 +169,24 @@
       "message": "Well, that took more fixes than I was hoping, but we\u0027ve got it now! This must be the first ODL repo we\u0027ve created via the automation, because a lot of things were not in place, or were just wrong. But this is good to go now.",
       "revId": "990bbf41120b3d30dc83233c63b05e59b2a268b5",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2716525f_de15353c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 530
+      },
+      "writtenOn": "2022-08-11T14:48:23Z",
+      "side": 1,
+      "message": "Well done 🎉 👍",
+      "parentUuid": "64ec6d7c_31182462",
+      "revId": "990bbf41120b3d30dc83233c63b05e59b2a268b5",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
