@@ -33,6 +33,29 @@
       "message": "recheck",
       "revId": "4535b2e6047a7e8e1e4c21b32d0f2c557082829d",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3d013d3b_b5d9a388",
+        "filename": "gerrit.onap.org/ccsdk/odl-legacy/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 29
+      },
+      "writtenOn": "2022-08-16T21:45:14Z",
+      "side": 1,
+      "message": "Is the project inheriting from another project? If yes, then it should not have a separate info file.\n\n\"\n\n07:20:33 ERROR: This project inherits from \n07:20:33 Therefore it should not have an info file.\n\n\"",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 27
+      },
+      "revId": "4535b2e6047a7e8e1e4c21b32d0f2c557082829d",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
