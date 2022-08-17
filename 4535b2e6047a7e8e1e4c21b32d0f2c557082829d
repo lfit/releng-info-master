@@ -86,6 +86,23 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "9324661b_f5498753",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 418
+      },
+      "writtenOn": "2022-08-17T11:24:11Z",
+      "side": 1,
+      "message": "Thanks for clearing that error.  This is intended to just be a new repo (ccsdk/odl-legacy) in an existing ONAP project (ccsdk)",
+      "revId": "4535b2e6047a7e8e1e4c21b32d0f2c557082829d",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "3d013d3b_b5d9a388",
