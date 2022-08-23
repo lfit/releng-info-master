@@ -20,6 +20,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "5676c3f4_1fb32ae5",
+        "filename": "gerrit.o-ran-sc.org/aiml-fw/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 621
+      },
+      "writtenOn": "2022-08-23T09:23:34Z",
+      "side": 1,
+      "message": "I modified it to my \u0027username\u0027.",
+      "parentUuid": "a55d712c_1686d2fa",
+      "revId": "f414ee779b4a056547e208e5afae98b37e85a976",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "882cd7cf_9ded2af7",
         "filename": "gerrit.o-ran-sc.org/aiml-fw/INFO.yaml",
         "patchSetId": 1
@@ -31,6 +49,24 @@
       "writtenOn": "2022-08-17T22:06:52Z",
       "side": 1,
       "message": "This LFID is invalid, please review it and make sure you are using the UserID",
+      "revId": "f414ee779b4a056547e208e5afae98b37e85a976",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0d968b6f_bfaeab44",
+        "filename": "gerrit.o-ran-sc.org/aiml-fw/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 621
+      },
+      "writtenOn": "2022-08-23T09:23:34Z",
+      "side": 1,
+      "message": "I modified it to \u0027username\u0027.",
+      "parentUuid": "882cd7cf_9ded2af7",
       "revId": "f414ee779b4a056547e208e5afae98b37e85a976",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
