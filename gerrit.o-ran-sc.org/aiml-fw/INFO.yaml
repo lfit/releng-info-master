@@ -6,7 +6,7 @@ lifecycle_state: 'Incubation'
 project_lead: &oran_aiml_fw_ptl
     name: 'Hoejoo Lee'
     email: 'hoejoo.lee@samsung.com'
-    id: 'hoejoo.lee'
+    id: 'cromee'
     company: 'Samsung'
     timezone: 'Asia/Seoul'
 primary_contact: *oran_aiml_fw_ptl
@@ -37,7 +37,7 @@ committers:
     - name: 'Joseph Thaliath'
       email: 'jo.thaliath@samsung.com'
       company: 'Samsung'
-      id: 'jo.thaliath'
+      id: 'josephthaliath'
       timezone: 'Asia/Kolkata'
 tsc:
     # yamllint disable rule:line-length
