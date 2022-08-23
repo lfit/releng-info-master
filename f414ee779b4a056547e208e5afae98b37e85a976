@@ -36,6 +36,24 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "4da242aa_b78110fb",
+        "filename": "gerrit.o-ran-sc.org/aiml-fw/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2022-08-23T16:04:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5676c3f4_1fb32ae5",
+      "revId": "f414ee779b4a056547e208e5afae98b37e85a976",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "882cd7cf_9ded2af7",
@@ -67,6 +85,24 @@
       "side": 1,
       "message": "I modified it to \u0027username\u0027.",
       "parentUuid": "882cd7cf_9ded2af7",
+      "revId": "f414ee779b4a056547e208e5afae98b37e85a976",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8fdd3bc1_25de68a3",
+        "filename": "gerrit.o-ran-sc.org/aiml-fw/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2022-08-23T16:04:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "0d968b6f_bfaeab44",
       "revId": "f414ee779b4a056547e208e5afae98b37e85a976",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
