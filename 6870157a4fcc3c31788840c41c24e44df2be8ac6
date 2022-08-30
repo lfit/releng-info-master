@@ -24,6 +24,30 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ea4cae94_8648618e",
+        "filename": "gerrit.tungsten.io/tungstenfabric/tf-controller/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2022-08-30T22:06:16Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b8c2677a_1c9becae",
+      "range": {
+        "startLine": 12,
+        "startChar": 18,
+        "endLine": 12,
+        "endChar": 49
+      },
+      "revId": "6870157a4fcc3c31788840c41c24e44df2be8ac6",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d71d37ef_1f1fabea",
@@ -47,6 +71,30 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d593bed2_228d7283",
+        "filename": "gerrit.tungsten.io/tungstenfabric/tf-controller/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2022-08-30T22:06:16Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d71d37ef_1f1fabea",
+      "range": {
+        "startLine": 101,
+        "startChar": 18,
+        "endLine": 101,
+        "endChar": 24
+      },
+      "revId": "6870157a4fcc3c31788840c41c24e44df2be8ac6",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "58a8265b_d20b067b",
@@ -60,6 +108,30 @@
       "writtenOn": "2022-08-30T22:02:06Z",
       "side": 1,
       "message": "As above, this needs standard single quotes.",
+      "range": {
+        "startLine": 106,
+        "startChar": 18,
+        "endLine": 106,
+        "endChar": 26
+      },
+      "revId": "6870157a4fcc3c31788840c41c24e44df2be8ac6",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e77bc575_538efaff",
+        "filename": "gerrit.tungsten.io/tungstenfabric/tf-controller/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2022-08-30T22:06:16Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "58a8265b_d20b067b",
       "range": {
         "startLine": 106,
         "startChar": 18,
