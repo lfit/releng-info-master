@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3a6865d8_436656ee",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 385
+      },
+      "writtenOn": "2022-09-13T12:38:16Z",
+      "side": 1,
+      "message": "Please see comment below. ",
+      "revId": "a095855be53dcc738ec2820259342007d4f3c952",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3df3fd2a_6599dd77",
+        "filename": "gerrit.onap.org/integration/simulators/ran-app/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 385
+      },
+      "writtenOn": "2022-09-13T12:38:16Z",
+      "side": 1,
+      "message": "These \"ran apps\" are usecase-specific simulator extensions for the \"RANSim\" simulator, and can only be used as part of that simulator. \nTherefore, can I suggest a more descriptive name/path for this new repo, e.g.:\n* integration/simulators/ran-simulator/apps or, \n* integration/simulators/ran-simulator/ranapps or, \n* integration/simulators/ran-sim-apps \nThanks",
+      "range": {
+        "startLine": 31,
+        "startChar": 7,
+        "endLine": 31,
+        "endChar": 38
+      },
+      "revId": "a095855be53dcc738ec2820259342007d4f3c952",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
