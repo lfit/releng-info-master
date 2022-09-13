@@ -1,15 +1,15 @@
 ---
 project: 'integration/simulators/ran-app'
-project_creation_date: '2022-09-02'
+project_creation_date: '2022-09-13'
 lifecycle_state: 'Incubation'
 project_category: ''
-project_lead: &onap_releng_ptl
+project_lead: &onap_integration_ptl
     name: 'Michal Jagiello'
     email: 'Michal.Jagiello@t-mobile.pl'
     company: 'T-Mobile'
     id: 'MichalJagielloTMPL'
     timezone: 'Europe/Warsaw'
-primary_contact: *onap_releng_ptl
+primary_contact: *onap_integration_ptl
 issue_tracking:
     type: 'jira'
     url: 'https://jira.onap.org/projects/INT'
@@ -28,9 +28,9 @@ meetings:
       repeats: 'weekly'
       time: '14:00 UTC'
 repositories:
-    - 'integration/simulators/ran-sim-apps'
+    - 'integration/simulators/ran-app'
 committers:
-    - <<: *onap_releng_ptl
+    - <<: *onap_integration_ptl
     - name: 'Catherine Lefevre'
       email: 'cl664y@att.com'
       company: 'AT&T'
