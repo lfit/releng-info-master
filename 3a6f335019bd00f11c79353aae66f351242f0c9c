@@ -18,6 +18,23 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "81f801a9_3ef53414",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2022-09-13T16:53:09Z",
+      "side": 1,
+      "message": "@Michal, I am going to submit a new patch for this to fix few typos.  ",
+      "revId": "3a6f335019bd00f11c79353aae66f351242f0c9c",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "0732b6b9_1949ef50",
