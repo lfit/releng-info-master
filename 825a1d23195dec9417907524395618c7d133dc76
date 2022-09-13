@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7c4c0442_f7823975",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2022-09-13T13:32:41Z",
+      "side": 1,
+      "message": "@hoejoo You\u0027ve got a lead change in the relation chain that has been abandoned, please rebase this change and all the other changes on master and resubmit.",
+      "revId": "825a1d23195dec9417907524395618c7d133dc76",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
