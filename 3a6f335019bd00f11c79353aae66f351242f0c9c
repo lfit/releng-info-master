@@ -37,6 +37,41 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "ec580e20_aa0455e8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 385
+      },
+      "writtenOn": "2022-09-19T19:49:12Z",
+      "side": 1,
+      "message": "I think we decided on ran-sim-apps",
+      "parentUuid": "81f801a9_3ef53414",
+      "revId": "3a6f335019bd00f11c79353aae66f351242f0c9c",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e6389b60_7b7c8edb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 385
+      },
+      "writtenOn": "2022-09-19T19:49:12Z",
+      "side": 1,
+      "message": "I see repo onap - \"simulators/ran-app\" was created. \nhttps://gerrit.onap.org/r/admin/repos/integration/simulators/ran-app\n\nI think this wasn\u0027t the agreed name of the repo. Is it possible to change? \nThanks. ",
+      "revId": "3a6f335019bd00f11c79353aae66f351242f0c9c",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "0732b6b9_1949ef50",
         "filename": "gerrit.onap.org/integration/simulators/ran-app/INFO.yaml",
         "patchSetId": 4
@@ -48,6 +83,30 @@
       "writtenOn": "2022-09-13T16:42:38Z",
       "side": 1,
       "message": "Is this supposed to be \n\"ran-app\"\nor\n\"ran-sim-apps\"?\n\nLine 2 and line 31 have conflicting information",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 41
+      },
+      "revId": "3a6f335019bd00f11c79353aae66f351242f0c9c",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "66fb1c0a_842093f9",
+        "filename": "gerrit.onap.org/integration/simulators/ran-app/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 385
+      },
+      "writtenOn": "2022-09-19T19:49:12Z",
+      "side": 1,
+      "message": "I think we decided on \"ran-sim-apps\"",
+      "parentUuid": "0732b6b9_1949ef50",
       "range": {
         "startLine": 2,
         "startChar": 0,
