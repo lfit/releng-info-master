@@ -1,6 +1,6 @@
 ---
 project: 'ccsdk-odl-legacy'
-project_creation_date: '2022-08-16'
+project_creation_date: '2022-09-26'
 lifecycle_state: 'Mature'
 project_category: ''
 project_lead: &onap_releng_ptl
@@ -13,7 +13,7 @@ primary_contact: *onap_releng_ptl
 issue_tracking:
     type: 'jira'
     url: 'https://jira.onap.org/projects/CCSDK'
-    key: 'CCDSK'
+    key: 'CCSDK'
 mailing_list:
     type: 'groups.io'
     url: 'lists.onap.org'
@@ -59,6 +59,27 @@ repositories:
 tsc:
     approval: 'https://lists.onap.org/pipermail/onap-tsc'
     changes:
+        - type: 'Deletion'
+          name: 'Ryan Goulding'
+          link: 'https://lists.onap.org/g/onap-tsc/message/4261'
         - type: 'Addition'
-          name: 'ccsdk/odl-legacy'
-          link: 'https://lists.onap.org/g/onap-tsc/message/6784'
+          name: 'Gaurav Agrawal'
+          link: 'https://lists.onap.org/g/onap-tsc/message/4324'
+        - type: 'Addition'
+          name: 'Brinda Santh Muthuramalingam'
+          link: 'https://lists.onap.org/g/onap-tsc/message/5208'
+        - type: 'Addition'
+          name: 'Kevin Smokowski'
+          link: 'https://lists.onap.org/g/onap-tsc/message/5635'
+        - type: 'Addition'
+          name: 'Kapil Singal'
+          link: 'https://lists.onap.org/g/onap-tsc/message/5635'
+        - type: 'Deletion'
+          name: 'Brinda Santh Muthuramalingam'
+          link: 'https://lists.onap.org/g/onap-tsc/message/8489'
+        - type: 'Deletion'
+          name: 'Jun (Nicolas) Hu'
+          link: 'https://lists.onap.org/g/onap-tsc/message/8489'
+        - type: 'Addition'
+          name: 'Jozsef Csongvai'
+          link: 'https://lists.onap.org/g/onap-tsc/message/8490'
