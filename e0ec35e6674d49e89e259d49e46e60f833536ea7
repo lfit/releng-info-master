@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3170896b_59225d3b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2022-10-13T19:47:45Z",
+      "side": 1,
+      "message": "Please limit the subject line of your commit to 50 characters. Further details can be added to the body of the commit message.",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 80
+      },
+      "revId": "e0ec35e6674d49e89e259d49e46e60f833536ea7",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
