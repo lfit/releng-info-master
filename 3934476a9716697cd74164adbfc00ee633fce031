@@ -16,6 +16,23 @@
       "message": "recheck",
       "revId": "3934476a9716697cd74164adbfc00ee633fce031",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "99e6f823_4f82a8d7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 492
+      },
+      "writtenOn": "2023-02-01T12:26:28Z",
+      "side": 1,
+      "message": "Hi, can you guys help me with that change? I have -1 from Jenkins, but can\u0027t open a job url to check it\u0027s logs",
+      "revId": "3934476a9716697cd74164adbfc00ee633fce031",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
