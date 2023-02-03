@@ -33,6 +33,40 @@
       "message": "Hi, can you guys help me with that change? I have -1 from Jenkins, but can\u0027t open a job url to check it\u0027s logs",
       "revId": "3934476a9716697cd74164adbfc00ee633fce031",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8541405c_10fc0744",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-02-03T19:33:28Z",
+      "side": 1,
+      "message": "here is the error, in line 33 you are calling onap_integration_ptl but here you are defining onap_releng_ptl",
+      "revId": "3934476a9716697cd74164adbfc00ee633fce031",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4301059c_9f8ce776",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-02-03T19:33:28Z",
+      "side": 1,
+      "message": "same goes for here, you should use something that makes more sense like you did in line 33",
+      "revId": "3934476a9716697cd74164adbfc00ee633fce031",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
