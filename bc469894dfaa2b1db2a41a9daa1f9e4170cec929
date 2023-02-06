@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5076a95b_3a348582",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2023-02-06T23:50:45Z",
+      "side": 1,
+      "message": "Please clean up the commit message by removing the period at the end of the summary, and removing the line containing only a colon.",
+      "range": {
+        "startLine": 7,
+        "startChar": 39,
+        "endLine": 8,
+        "endChar": 1
+      },
+      "revId": "bc469894dfaa2b1db2a41a9daa1f9e4170cec929",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "062eb8ba_8cf23315",
+        "filename": "gerrit.onap.org/portal-ng/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2023-02-06T23:50:45Z",
+      "side": 1,
+      "message": "The project_lead should not be empty.",
+      "range": {
+        "startLine": 6,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 16
+      },
+      "revId": "bc469894dfaa2b1db2a41a9daa1f9e4170cec929",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
