@@ -1,5 +1,29 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9c89a2a9_6cedb437",
+        "filename": "gerrit.onap.org/portal-ng/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2023-02-07T23:28:20Z",
+      "side": 1,
+      "message": "@georg@schweflinghaus.de This approval link does not appear to actually have an approval for this repo. Could you please provide the correct approval link? I merged this, so I will update it here in the info-master repo.",
+      "range": {
+        "startLine": 64,
+        "startChar": 15,
+        "endLine": 64,
+        "endChar": 75
+      },
+      "revId": "1e2947a44bde0acd0f18fe4a5204b7e85ed9cf57",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
