@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "833ee609_f39f8dd1",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 192
+      },
+      "writtenOn": "2023-02-07T00:04:15Z",
+      "side": 1,
+      "message": "Europe/Belgium is not an ISO TZ. I believe this should be Europe/Brussels.",
+      "range": {
+        "startLine": 38,
+        "startChar": 6,
+        "endLine": 38,
+        "endChar": 32
+      },
+      "revId": "2ab870932df3a18870b2736cd723a366563e0eb6",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
