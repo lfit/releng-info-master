@@ -50,6 +50,23 @@
       "message": "this link is not working, please set the proper link with the TSC approval for this new project/repo",
       "revId": "de1f8c29220b4821e23d0131106caaf79a56d683",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fd0751a7_dd12c92f",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-02-13T19:39:27Z",
+      "side": 1,
+      "message": "this seems to be a new project/repo so this \"changes\" section doesn\u0027t make sense, please leave it blank, I would assume this was copy/pasted from another INFO.yaml file.",
+      "revId": "de1f8c29220b4821e23d0131106caaf79a56d683",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
