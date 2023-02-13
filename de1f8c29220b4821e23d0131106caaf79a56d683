@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "24b6d26b_f0477bc1",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-02-13T19:35:41Z",
+      "side": 1,
+      "message": "PTL is not a member of RELENG Team, please use something else that makes more sense, like \u0026onap_build_integration_ptl",
+      "revId": "de1f8c29220b4821e23d0131106caaf79a56d683",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4a08a381_79301a44",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-02-13T19:35:41Z",
+      "side": 1,
+      "message": "you already set yourself as a committer when you call the anchor \"\u003c\u003c: *onap_build_integration_ptl\" above, so it is not required to set yourself as committer again.",
+      "revId": "de1f8c29220b4821e23d0131106caaf79a56d683",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ccb2cf5c_271629b6",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-02-13T19:35:41Z",
+      "side": 1,
+      "message": "this link is not working, please set the proper link with the TSC approval for this new project/repo",
+      "revId": "de1f8c29220b4821e23d0131106caaf79a56d683",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
