@@ -71,6 +71,24 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "4054a9ee_f5cda5f1",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-02-15T14:56:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "e930ec88_1391fb01",
+      "revId": "de1f8c29220b4821e23d0131106caaf79a56d683",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ccb2cf5c_271629b6",

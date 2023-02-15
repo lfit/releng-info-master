@@ -22,6 +22,30 @@
       },
       "revId": "2ab870932df3a18870b2736cd723a366563e0eb6",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "50511029_403bfec2",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-02-15T14:56:13Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "833ee609_f39f8dd1",
+      "range": {
+        "startLine": 38,
+        "startChar": 6,
+        "endLine": 38,
+        "endChar": 32
+      },
+      "revId": "2ab870932df3a18870b2736cd723a366563e0eb6",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }

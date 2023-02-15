@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ffc05044_6a57b421",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-02-15T14:56:13Z",
+      "side": 1,
+      "message": "Please update this line to be \"onap_integration_ptl\" instead of \"onap_releng_ptl\"",
+      "revId": "348258a05dd79b81fb1d7a5671c646bcb959be4e",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
