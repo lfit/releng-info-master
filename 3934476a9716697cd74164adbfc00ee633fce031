@@ -70,6 +70,24 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "0ddd1073_28b758d5",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 492
+      },
+      "writtenOn": "2023-02-15T14:51:48Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b9d69ae0_f06d0d8a",
+      "revId": "3934476a9716697cd74164adbfc00ee633fce031",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "4301059c_9f8ce776",
@@ -101,6 +119,24 @@
       "side": 1,
       "message": "PTL is not a member of RELENG Team, please use something else that makes more sense, like \u0026onap_build_integration_ptl",
       "parentUuid": "4301059c_9f8ce776",
+      "revId": "3934476a9716697cd74164adbfc00ee633fce031",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f6abff9e_52e6a162",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 492
+      },
+      "writtenOn": "2023-02-15T14:51:48Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "23ada35d_ff5e9308",
       "revId": "3934476a9716697cd74164adbfc00ee633fce031",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }

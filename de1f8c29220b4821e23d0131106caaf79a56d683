@@ -18,6 +18,24 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "065d3936_10204e2f",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 492
+      },
+      "writtenOn": "2023-02-15T14:51:48Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "24b6d26b_f0477bc1",
+      "revId": "de1f8c29220b4821e23d0131106caaf79a56d683",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "4a08a381_79301a44",
@@ -31,6 +49,24 @@
       "writtenOn": "2023-02-13T19:35:41Z",
       "side": 1,
       "message": "you already set yourself as a committer when you call the anchor \"\u003c\u003c: *onap_build_integration_ptl\" above, so it is not required to set yourself as committer again.",
+      "revId": "de1f8c29220b4821e23d0131106caaf79a56d683",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e930ec88_1391fb01",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 492
+      },
+      "writtenOn": "2023-02-15T14:51:48Z",
+      "side": 1,
+      "message": "I\u0027d leave myself, we are waiting for a new ptl, so it\u0027ll be easier for a new member to not change the list of commites but just change data on ptl section",
+      "parentUuid": "4a08a381_79301a44",
       "revId": "de1f8c29220b4821e23d0131106caaf79a56d683",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
@@ -54,6 +90,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "e2cb9967_116c4a23",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 492
+      },
+      "writtenOn": "2023-02-15T14:51:48Z",
+      "side": 1,
+      "message": "is there any need for repo approval? no integration project has that I believe",
+      "parentUuid": "ccb2cf5c_271629b6",
+      "revId": "de1f8c29220b4821e23d0131106caaf79a56d683",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "fd0751a7_dd12c92f",
         "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
         "patchSetId": 3
@@ -65,6 +119,24 @@
       "writtenOn": "2023-02-13T19:39:27Z",
       "side": 1,
       "message": "this seems to be a new project/repo so this \"changes\" section doesn\u0027t make sense, please leave it blank, I would assume this was copy/pasted from another INFO.yaml file.",
+      "revId": "de1f8c29220b4821e23d0131106caaf79a56d683",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "acd346c1_272e8a79",
+        "filename": "gerrit.onap.org/integration/pipelines/build-integration/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 492
+      },
+      "writtenOn": "2023-02-15T14:51:48Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fd0751a7_dd12c92f",
       "revId": "de1f8c29220b4821e23d0131106caaf79a56d683",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
