@@ -108,6 +108,30 @@
       },
       "revId": "02da96958b501289d79cce8a886a000c69d97e76",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "777679e5_ca4b4d71",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 639
+      },
+      "writtenOn": "2023-03-06T18:46:20Z",
+      "side": 1,
+      "message": "should be updated to : https://wiki.o-ran-sc.org/display/TOC#ORANSCTechnicalOversightCommittee(TOC)-20221215",
+      "parentUuid": "508f3e33_56739edc",
+      "range": {
+        "startLine": 55,
+        "startChar": 0,
+        "endLine": 55,
+        "endChar": 47
+      },
+      "revId": "02da96958b501289d79cce8a886a000c69d97e76",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
