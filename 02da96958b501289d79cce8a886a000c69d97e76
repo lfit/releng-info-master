@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "378522d8_a7e450dc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 616
+      },
+      "writtenOn": "2023-03-06T13:06:31Z",
+      "side": 1,
+      "message": "Repo created. Please review",
+      "revId": "02da96958b501289d79cce8a886a000c69d97e76",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
