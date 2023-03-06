@@ -20,6 +20,75 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "53436dbb_d0c92a82",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 639
+      },
+      "writtenOn": "2023-03-06T18:43:19Z",
+      "side": 1,
+      "message": "Missing lfid",
+      "range": {
+        "startLine": 44,
+        "startChar": 6,
+        "endLine": 44,
+        "endChar": 12
+      },
+      "revId": "02da96958b501289d79cce8a886a000c69d97e76",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a1979f03_3da3fe13",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 639
+      },
+      "writtenOn": "2023-03-06T18:43:19Z",
+      "side": 1,
+      "message": "missing lfid",
+      "range": {
+        "startLine": 48,
+        "startChar": 6,
+        "endLine": 48,
+        "endChar": 12
+      },
+      "revId": "02da96958b501289d79cce8a886a000c69d97e76",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1056115a_1bdfaa3d",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 639
+      },
+      "writtenOn": "2023-03-06T18:43:19Z",
+      "side": 1,
+      "message": "missing lfid",
+      "range": {
+        "startLine": 52,
+        "startChar": 6,
+        "endLine": 52,
+        "endChar": 12
+      },
+      "revId": "02da96958b501289d79cce8a886a000c69d97e76",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "508f3e33_56739edc",
         "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
         "patchSetId": 1
