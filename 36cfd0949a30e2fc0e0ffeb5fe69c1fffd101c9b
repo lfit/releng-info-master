@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ced2c636_fb6dada2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 214
+      },
+      "writtenOn": "2023-03-09T14:20:32Z",
+      "side": 1,
+      "message": "I think this INFO file is already loaded https://gerrit.linuxfoundation.org/infra/c/releng/info-master/+/70429",
+      "revId": "36cfd0949a30e2fc0e0ffeb5fe69c1fffd101c9b",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
