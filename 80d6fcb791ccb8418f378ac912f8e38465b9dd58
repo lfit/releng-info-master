@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "341e4919_f5615fa0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 616
+      },
+      "writtenOn": "2023-03-13T08:00:21Z",
+      "side": 1,
+      "message": "Hi LF Team,\n\nPlease merge the changes.",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
