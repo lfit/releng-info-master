@@ -41,6 +41,30 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "798ed3b4_c9d5010e",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 639
+      },
+      "writtenOn": "2023-03-13T07:38:33Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "53436dbb_d0c92a82",
+      "range": {
+        "startLine": 44,
+        "startChar": 6,
+        "endLine": 44,
+        "endChar": 12
+      },
+      "revId": "02da96958b501289d79cce8a886a000c69d97e76",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a1979f03_3da3fe13",
@@ -64,6 +88,30 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "7a108ce2_9da841ff",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 639
+      },
+      "writtenOn": "2023-03-13T07:38:33Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a1979f03_3da3fe13",
+      "range": {
+        "startLine": 48,
+        "startChar": 6,
+        "endLine": 48,
+        "endChar": 12
+      },
+      "revId": "02da96958b501289d79cce8a886a000c69d97e76",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "1056115a_1bdfaa3d",
@@ -77,6 +125,30 @@
       "writtenOn": "2023-03-06T18:43:19Z",
       "side": 1,
       "message": "missing lfid",
+      "range": {
+        "startLine": 52,
+        "startChar": 6,
+        "endLine": 52,
+        "endChar": 12
+      },
+      "revId": "02da96958b501289d79cce8a886a000c69d97e76",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "57cbe9a1_0d0f7dba",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 639
+      },
+      "writtenOn": "2023-03-13T07:38:33Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1056115a_1bdfaa3d",
       "range": {
         "startLine": 52,
         "startChar": 6,
@@ -124,6 +196,30 @@
       "side": 1,
       "message": "should be updated to : https://wiki.o-ran-sc.org/display/TOC#ORANSCTechnicalOversightCommittee(TOC)-20221215",
       "parentUuid": "508f3e33_56739edc",
+      "range": {
+        "startLine": 55,
+        "startChar": 0,
+        "endLine": 55,
+        "endChar": 47
+      },
+      "revId": "02da96958b501289d79cce8a886a000c69d97e76",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4cdd8a84_7c3499ef",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 639
+      },
+      "writtenOn": "2023-03-13T07:38:33Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "777679e5_ca4b4d71",
       "range": {
         "startLine": 55,
         "startChar": 0,
