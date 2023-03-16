@@ -16,6 +16,125 @@
       "message": "Hi LF Team,\n\nPlease merge the changes.",
       "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "199a55ce_118578e6",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-16T00:12:51Z",
+      "side": 1,
+      "message": "it would be good if you set your timezone as well, you can find the proper value from the column \"TZ database name\" here \u003d\u003e https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c6496216_4b564368",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-16T00:12:51Z",
+      "side": 1,
+      "message": "shouldn\u0027t this be https://jira.o-ran-sc.org/projects/RICAPP ?",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7c4e9441_ec2edd09",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-16T00:12:51Z",
+      "side": 1,
+      "message": "this link is invalid, please provide the proper link, maybe you are looking for this one https://wiki.o-ran-sc.org/display/RICA/RICAPP+Meetings ??",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a6e518c0_bd41bd68",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-16T00:12:51Z",
+      "side": 1,
+      "message": "this is duplicate, you are already including yourself in the previous line \u003c\u003c: *oran_ric_app_ad_cell_ptl",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "00b5ac4e_0d841e88",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-16T00:12:51Z",
+      "side": 1,
+      "message": "this LFID doesn\u0027t exist",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f23db025_88efa407",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-16T00:12:51Z",
+      "side": 1,
+      "message": "this LFID doesn\u0027t exist",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2ea47b76_51ab2be8",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-16T00:12:51Z",
+      "side": 1,
+      "message": "this LFID doesn\u0027t exist",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
