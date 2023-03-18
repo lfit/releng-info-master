@@ -55,6 +55,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "a3474ad6_68293d81",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-18T00:43:58Z",
+      "side": 1,
+      "message": "this line is still the same, can you please verify you pushed your changes properly? the recommended steps are: git add \u003cMODIFIED FILE\u003e | git commit --amend | git review",
+      "parentUuid": "47e21738_1f3d9b16",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "c6496216_4b564368",
         "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
         "patchSetId": 3
@@ -90,6 +108,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "4bb91c4c_2a4653d0",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-18T00:43:58Z",
+      "side": 1,
+      "message": "this line is still the same, can you please verify you pushed your changes properly? the recommended steps are: git add \u003cMODIFIED FILE\u003e | git commit --amend | git review",
+      "parentUuid": "13c905a7_1b11cd8b",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "7c4e9441_ec2edd09",
         "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
         "patchSetId": 3
@@ -119,6 +155,24 @@
       "side": 1,
       "message": "Repo approval is done in TOC meetings. Changing the URL of TOC calls.",
       "parentUuid": "7c4e9441_ec2edd09",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6efbfd14_497f0187",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-18T00:43:58Z",
+      "side": 1,
+      "message": "this line is still the same, can you please verify you pushed your changes properly? the recommended steps are: git add \u003cMODIFIED FILE\u003e | git commit --amend | git review",
+      "parentUuid": "c914743c_47c892ad",
       "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
@@ -193,6 +247,24 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b955b8b2_d808d2a4",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-18T00:43:58Z",
+      "side": 1,
+      "message": "my bad, this LFID is valid",
+      "parentUuid": "b56c1e15_92ea1618",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f23db025_88efa407",
@@ -230,6 +302,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "38d07f88_ad9e85a3",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-18T00:43:58Z",
+      "side": 1,
+      "message": "Let me help you on this one, the LFID for email s.balasubram@samsung.com is \u0027saravanan.bala\u0027",
+      "parentUuid": "aeb46b73_7dc39229",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "2ea47b76_51ab2be8",
         "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
         "patchSetId": 3
@@ -259,6 +349,24 @@
       "side": 1,
       "message": "@subh.singh@samsung.com please check the LFID",
       "parentUuid": "2ea47b76_51ab2be8",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "679a5c70_7ee02b57",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-18T00:43:58Z",
+      "side": 1,
+      "message": "there is no LF account registered with email priyashu.p@samsung.com",
+      "parentUuid": "ce5f34f1_fecb5214",
       "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
