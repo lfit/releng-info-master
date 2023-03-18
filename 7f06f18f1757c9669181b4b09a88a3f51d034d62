@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "57d3da86_a4ef19fd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-18T06:35:45Z",
+      "side": 1,
+      "message": "Hi Sunil,\nWe are currently experiencing issues with the info-master-verify job during repo cloning, we will check this first thing in the morning on Monday. While we work on the fix please make sure all the feedback you received in this change is resolved accordingly. Thanks for your patience in advance.",
+      "revId": "7f06f18f1757c9669181b4b09a88a3f51d034d62",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
