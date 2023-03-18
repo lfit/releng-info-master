@@ -16,6 +16,23 @@
       "message": "@subh.singh@samsung.com please check LFID",
       "revId": "8e2208de53948db6370613990a21ea881e641b9a",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "753f2328_ae2d9bfa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-18T01:34:07Z",
+      "side": 1,
+      "message": "recheck",
+      "revId": "8e2208de53948db6370613990a21ea881e641b9a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
