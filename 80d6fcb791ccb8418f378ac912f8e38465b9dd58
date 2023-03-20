@@ -441,6 +441,24 @@
       "parentUuid": "ce5f34f1_fecb5214",
       "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1f91ce5d_ce833812",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 639
+      },
+      "writtenOn": "2023-03-20T14:15:39Z",
+      "side": 1,
+      "message": "mail id has been updated could you please check now.\nNow it LFID is correctly matching to mail ID.\nPlease let me know if you see any issue.",
+      "parentUuid": "679a5c70_7ee02b57",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
