@@ -16,6 +16,23 @@
       "message": "Hi Sunil,\nWe are currently experiencing issues with the info-master-verify job during repo cloning, we will check this first thing in the morning on Monday. While we work on the fix please make sure all the feedback you received in this change is resolved accordingly. Thanks for your patience in advance.",
       "revId": "7f06f18f1757c9669181b4b09a88a3f51d034d62",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9139a2bb_49bd63b5",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 8
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-20T16:07:47Z",
+      "side": 1,
+      "message": "email is wrong, LFID priyashu.p is registered with email address \u0027priyashu.p@samsung.com\u0027",
+      "revId": "7f06f18f1757c9669181b4b09a88a3f51d034d62",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }

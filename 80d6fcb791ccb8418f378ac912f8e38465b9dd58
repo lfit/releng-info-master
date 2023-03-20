@@ -459,6 +459,24 @@
       "parentUuid": "679a5c70_7ee02b57",
       "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b1ec5acc_37a5600f",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-20T16:07:47Z",
+      "side": 1,
+      "message": "now LFID is correct",
+      "parentUuid": "1f91ce5d_ce833812",
+      "revId": "80d6fcb791ccb8418f378ac912f8e38465b9dd58",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
