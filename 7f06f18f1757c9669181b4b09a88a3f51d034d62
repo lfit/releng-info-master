@@ -33,6 +33,24 @@
       "message": "email is wrong, LFID priyashu.p is registered with email address \u0027priyashu.p@samsung.com\u0027",
       "revId": "7f06f18f1757c9669181b4b09a88a3f51d034d62",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "159b9534_42b3c770",
+        "filename": "gerrit.o-ran-sc.org/ric-app/ad-cell/INFO.yaml",
+        "patchSetId": 8
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-21T00:01:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9139a2bb_49bd63b5",
+      "revId": "7f06f18f1757c9669181b4b09a88a3f51d034d62",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
