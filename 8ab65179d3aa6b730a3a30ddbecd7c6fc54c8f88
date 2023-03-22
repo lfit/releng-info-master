@@ -33,6 +33,23 @@
       "message": "Could you please check if I have done this correctly?",
       "revId": "8ab65179d3aa6b730a3a30ddbecd7c6fc54c8f88",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "72855e30_60cd7a2e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 605
+      },
+      "writtenOn": "2023-03-22T16:57:34Z",
+      "side": 1,
+      "message": "This user is not present in the LF identity management system:\nstefan.rothmajer@telekom.com\nPlease ask them to register, or edit the INFO.yaml to remove them and submit a second patch set on this change.",
+      "revId": "8ab65179d3aa6b730a3a30ddbecd7c6fc54c8f88",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
