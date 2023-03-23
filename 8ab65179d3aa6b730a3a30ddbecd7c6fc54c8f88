@@ -50,6 +50,142 @@
       "message": "This user is not present in the LF identity management system:\nstefan.rothmajer@telekom.com\nPlease ask them to register, or edit the INFO.yaml to remove them and submit a second patch set on this change.",
       "revId": "8ab65179d3aa6b730a3a30ddbecd7c6fc54c8f88",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e1dce4c8_ca64e7b9",
+        "filename": "gerrit.onap.org/portal-ng/bff/INFO.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-23T13:07:09Z",
+      "side": 1,
+      "message": "ID must not be empty, please add it accordingly",
+      "revId": "8ab65179d3aa6b730a3a30ddbecd7c6fc54c8f88",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6b83ae1c_9807733e",
+        "filename": "gerrit.onap.org/portal-ng/bff/INFO.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-23T13:07:09Z",
+      "side": 1,
+      "message": "ID must not be empty, please add it accordingly",
+      "revId": "8ab65179d3aa6b730a3a30ddbecd7c6fc54c8f88",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1b3f4b55_d753da1d",
+        "filename": "gerrit.onap.org/portal-ng/history/INFO.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-23T13:07:09Z",
+      "side": 1,
+      "message": "ID must not be empty, please add it accordingly",
+      "revId": "8ab65179d3aa6b730a3a30ddbecd7c6fc54c8f88",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9b5cb168_3eb28507",
+        "filename": "gerrit.onap.org/portal-ng/history/INFO.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-23T13:07:09Z",
+      "side": 1,
+      "message": "ID must not be empty, please add it accordingly",
+      "revId": "8ab65179d3aa6b730a3a30ddbecd7c6fc54c8f88",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "91a86310_6b966bdf",
+        "filename": "gerrit.onap.org/portal-ng/preferences/INFO.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-23T13:07:09Z",
+      "side": 1,
+      "message": "ID must not be empty, please add it accordingly",
+      "revId": "8ab65179d3aa6b730a3a30ddbecd7c6fc54c8f88",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7e5eb86d_872904d1",
+        "filename": "gerrit.onap.org/portal-ng/preferences/INFO.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-23T13:07:09Z",
+      "side": 1,
+      "message": "ID must not be empty, please add it accordingly",
+      "revId": "8ab65179d3aa6b730a3a30ddbecd7c6fc54c8f88",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "21bfe974_16baaf31",
+        "filename": "gerrit.onap.org/portal-ng/ui/INFO.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-23T13:07:09Z",
+      "side": 1,
+      "message": "ID must not be empty, please add it accordingly",
+      "revId": "8ab65179d3aa6b730a3a30ddbecd7c6fc54c8f88",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "38241c25_27c707f5",
+        "filename": "gerrit.onap.org/portal-ng/ui/INFO.yml",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-23T13:07:09Z",
+      "side": 1,
+      "message": "ID must not be empty, please add it accordingly",
+      "revId": "8ab65179d3aa6b730a3a30ddbecd7c6fc54c8f88",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
