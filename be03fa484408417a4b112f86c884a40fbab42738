@@ -16,6 +16,23 @@
       "message": "FYI",
       "revId": "be03fa484408417a4b112f86c884a40fbab42738",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "51e498c5_eed0f59d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-23T20:59:46Z",
+      "side": 1,
+      "message": "I missed the typo in the INFO file extension, it should be yaml not yml, that\u0027s why the merge job wasn\u0027t triggered",
+      "revId": "be03fa484408417a4b112f86c884a40fbab42738",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ],
   "submitRequirementResults": [
