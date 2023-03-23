@@ -16,6 +16,23 @@
       "message": "FYI",
       "revId": "e269cd135e6cad2554362f73553f6bb859a1b30c",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "faee1163_5ffc59d1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-23T20:58:35Z",
+      "side": 1,
+      "message": "file extension should be \u0027yaml\u0027 not \u0027yml\u0027",
+      "revId": "e269cd135e6cad2554362f73553f6bb859a1b30c",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
