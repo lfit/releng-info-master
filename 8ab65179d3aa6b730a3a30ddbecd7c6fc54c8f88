@@ -52,6 +52,23 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "045dc378_0a5aa703",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2023-03-23T13:25:24Z",
+      "side": 1,
+      "message": "Modifications to INFO.yaml files must be single object changes. Even in the case of new repository creations. Please split this into 4 separate changes.",
+      "revId": "8ab65179d3aa6b730a3a30ddbecd7c6fc54c8f88",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e1dce4c8_ca64e7b9",
