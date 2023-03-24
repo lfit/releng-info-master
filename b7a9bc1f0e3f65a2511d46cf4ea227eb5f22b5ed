@@ -33,6 +33,23 @@
       "message": "file extension should be \u0027yaml\u0027 not \u0027yml\u0027",
       "revId": "b7a9bc1f0e3f65a2511d46cf4ea227eb5f22b5ed",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f301c4ab_f47c954f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-24T02:49:57Z",
+      "side": 1,
+      "message": "Additionally please add the Issue-ID to the commit body, otherwise the merge job will fail.",
+      "revId": "b7a9bc1f0e3f65a2511d46cf4ea227eb5f22b5ed",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
