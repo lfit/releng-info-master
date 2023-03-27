@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "45d2bd6c_246017ab",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-27T16:40:17Z",
+      "side": 1,
+      "message": "Issue-ID error fixed at the info-master.sh script, now it should be safe to merge",
+      "revId": "bbd2e1cfb544470c3b1aae6fb11cb5e0f7d56ae2",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
