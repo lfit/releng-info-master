@@ -58,7 +58,7 @@ committers:
       timezone: "Europe/Bratislava"
 tsc:
     # yamllint disable rule:line-length
-    approval: 'https://wiki.onap.org/pages/viewpage.action?pageId=158662775'
+    approval: 'https://wiki.onap.org/pages/viewpage.action?spaceKey=Meetings&title=TSC+2022-12-08'
     changes:
         - type: ''
           name: ''
