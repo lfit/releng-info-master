@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ec33a021_93c54b27",
+        "filename": "gerrit.onap.org/portal-ng/preferences/INFO.yaml",
+        "patchSetId": 6
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-28T01:59:49Z",
+      "side": 1,
+      "message": "This should be a link to the TSC approval. Please update this line to https://wiki.onap.org/pages/viewpage.action?spaceKey\u003dMeetings\u0026title\u003dTSC+2022-12-08",
+      "revId": "e6c424e70565d05da58c8f770b5b3fa0c23619b2",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
