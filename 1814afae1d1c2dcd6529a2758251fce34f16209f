@@ -16,6 +16,24 @@
       "message": "This should be a link to the TSC approval of the parent repo. Please update this line to https://wiki.onap.org/pages/viewpage.action?spaceKey\u003dMeetings\u0026title\u003dTSC+2022-12-08",
       "revId": "1814afae1d1c2dcd6529a2758251fce34f16209f",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e36cf83_73aba795",
+        "filename": "gerrit.onap.org/portal-ng/bff/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-03-29T15:10:42Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fe119fc9_529d6128",
+      "revId": "1814afae1d1c2dcd6529a2758251fce34f16209f",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
