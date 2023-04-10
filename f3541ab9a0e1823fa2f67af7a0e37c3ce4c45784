@@ -1,5 +1,23 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "350026e9_38e24ea1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2023-04-10T20:53:18Z",
+      "side": 1,
+      "message": "merged since this is in sync.\nThis is not a new project, but rather a missing INFO.yaml file in LF Gerrit which do not get merged by auto merger",
+      "revId": "f3541ab9a0e1823fa2f67af7a0e37c3ce4c45784",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
