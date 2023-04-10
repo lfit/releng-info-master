@@ -33,6 +33,23 @@
       "message": "recheck",
       "revId": "820e4c6e7def1d564018b71ca529f8baad7d0c7e",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "65536683_1eb02fec",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2023-04-10T21:42:02Z",
+      "side": 1,
+      "message": "Fixed, just for future reference, this repo had the wrong saml owner group. It needed to be fixed",
+      "revId": "820e4c6e7def1d564018b71ca529f8baad7d0c7e",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
