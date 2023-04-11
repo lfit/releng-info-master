@@ -16,6 +16,23 @@
       "message": "recheck",
       "revId": "d358470c0f510df26b558bc4e2e66c79c154a446",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d34b3b55_63766eee",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2023-04-11T01:57:31Z",
+      "side": 1,
+      "message": "merged, we discussed this corner case (Anil and I) the releng repo should not have an INFO.yaml file since it is just acting as a parent with no code being hosted.",
+      "revId": "d358470c0f510df26b558bc4e2e66c79c154a446",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ],
   "submitRequirementResults": [
