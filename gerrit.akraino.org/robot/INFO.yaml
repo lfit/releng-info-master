@@ -1,0 +1,63 @@
+---
+project: 'robot'
+project_creation_date: '12/7/2021'
+project_category: ''
+lifecycle_state: 'Incubation'
+project_lead: &akraino_robot_ptl
+    name: 'Fukano Haruhisa'
+    email: 'fukano.haruhisa@fujitsu.com'
+    company: 'Fujitsu'
+    timezone: 'Asia/Tokyo'
+    id: 'haruhisa'
+primary_contact: *akraino_robot_ptl
+issue_tracking:
+    type: 'jira'
+    url: 'https://jira.akraino.org/projects/'
+    key: ''
+mailing_list:
+    type: 'groups.io'
+    url: 'technical-discuss@lists.akraino.org'
+    tag: '[]'
+realtime_discussion:
+    type: 'irc'
+    server: 'freenode.net'
+    channel: '#akraino'
+meetings:
+    - type: 'gotomeeting+irc'
+      agenda: 'https://wiki.akraino.org/display/'
+      url: ''
+      server: 'freenode.net'
+      channel: '#akraino'
+      repeats: ''
+      time: ''
+repositories:
+    - robot
+committers:
+    - <<: *akraino_robot_ptl
+    - name: 'Jeff Brower'
+      email: 'jbrower@signalogic.com'
+      company: 'signalogic'
+      timezone: 'Asia/Tokyo'
+      id: 'jbrower'
+    - name: 'Inoue Reo'
+      email: 'inoue.reo@jp.fujitsu.com'
+      company: 'Fujitsu'
+      timezone: 'Asia/Tokyo'
+      id: 'InoueReo'
+    - name: 'Colin Peters'
+      email: 'colin.peters@fujitsu.com'
+      company: 'Fujitsu'
+      timezone: 'Asia/Tokyo'
+      id: 'colinpeters'
+    - name: 'Yoshiko Tsuji'
+      email: 'tsuji.yoshiko@fujitsu.com'
+      company: 'Fujitsu'
+      timezone: 'Asia/Tokyo'
+      id: 'yoshiko'
+tsc:
+    # yamllint disable rule:line-length
+    approval: 'missing'
+    changes:
+        - type: ''
+          name: ''
+          link: ''
