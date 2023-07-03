@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dd5ba3fb_3f73bac7",
+        "filename": "gerrit.onap.org/portal-ng/e2e/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-07-03T16:17:45Z",
+      "side": 1,
+      "message": "is this the correct creation date?",
+      "revId": "5cb1a1c2fb37c783f2aa54e916abe971d0ce337a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "63a73a66_a4f3120d",
+        "filename": "gerrit.onap.org/portal-ng/e2e/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-07-03T16:17:45Z",
+      "side": 1,
+      "message": "this anchor name could be misleading, please customize for this project, something like portal_ng_e2e_ptl sounds better",
+      "revId": "5cb1a1c2fb37c783f2aa54e916abe971d0ce337a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "470f7ea7_70022633",
+        "filename": "gerrit.onap.org/portal-ng/e2e/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-07-03T16:17:45Z",
+      "side": 1,
+      "message": "this anchor name could be misleading, please customize for this project, something like portal_ng_e2e_ptl sounds better",
+      "revId": "5cb1a1c2fb37c783f2aa54e916abe971d0ce337a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ef3cb235_bccaf450",
+        "filename": "gerrit.onap.org/portal-ng/e2e/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-07-03T16:17:45Z",
+      "side": 1,
+      "message": "this link is not working, please set a valid URL",
+      "revId": "5cb1a1c2fb37c783f2aa54e916abe971d0ce337a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ab502e17_79c6b75c",
+        "filename": "gerrit.onap.org/portal-ng/e2e/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-07-03T16:17:45Z",
+      "side": 1,
+      "message": "this anchor name could be misleading, please customize for this project, something like portal_ng_e2e_ptl sounds better",
+      "revId": "5cb1a1c2fb37c783f2aa54e916abe971d0ce337a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
