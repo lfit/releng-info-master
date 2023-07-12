@@ -28,7 +28,7 @@ meetings:
     repeats: "n/a"
     time: "n/a"
 repositories:
-  - ci-management
+  - .github
 committers:
   - <<: *onap_releng_ptl
   - name: "Andrew Grimberg"
