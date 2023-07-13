@@ -18,6 +18,24 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d931c045_fa5c8c44",
+        "filename": "gerrit.onap.org/portal-ng/e2e/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 652
+      },
+      "writtenOn": "2023-07-13T07:40:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dd5ba3fb_3f73bac7",
+      "revId": "5cb1a1c2fb37c783f2aa54e916abe971d0ce337a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "63a73a66_a4f3120d",
@@ -31,6 +49,24 @@
       "writtenOn": "2023-07-03T16:17:45Z",
       "side": 1,
       "message": "this anchor name could be misleading, please customize for this project, something like portal_ng_e2e_ptl sounds better",
+      "revId": "5cb1a1c2fb37c783f2aa54e916abe971d0ce337a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2db4fc88_c9af375f",
+        "filename": "gerrit.onap.org/portal-ng/e2e/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 652
+      },
+      "writtenOn": "2023-07-13T07:40:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "63a73a66_a4f3120d",
       "revId": "5cb1a1c2fb37c783f2aa54e916abe971d0ce337a",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
@@ -52,6 +88,24 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "a46c8a40_dcecb92d",
+        "filename": "gerrit.onap.org/portal-ng/e2e/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 652
+      },
+      "writtenOn": "2023-07-13T07:40:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "470f7ea7_70022633",
+      "revId": "5cb1a1c2fb37c783f2aa54e916abe971d0ce337a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ef3cb235_bccaf450",
@@ -69,6 +123,24 @@
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "36cec1df_a3079a2c",
+        "filename": "gerrit.onap.org/portal-ng/e2e/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 652
+      },
+      "writtenOn": "2023-07-13T07:40:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ef3cb235_bccaf450",
+      "revId": "5cb1a1c2fb37c783f2aa54e916abe971d0ce337a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ab502e17_79c6b75c",
@@ -82,6 +154,24 @@
       "writtenOn": "2023-07-03T16:17:45Z",
       "side": 1,
       "message": "this anchor name could be misleading, please customize for this project, something like portal_ng_e2e_ptl sounds better",
+      "revId": "5cb1a1c2fb37c783f2aa54e916abe971d0ce337a",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e00043ad_899f7b84",
+        "filename": "gerrit.onap.org/portal-ng/e2e/INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 652
+      },
+      "writtenOn": "2023-07-13T07:40:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ab502e17_79c6b75c",
       "revId": "5cb1a1c2fb37c783f2aa54e916abe971d0ce337a",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }

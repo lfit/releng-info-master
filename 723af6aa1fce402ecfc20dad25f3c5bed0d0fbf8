@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "52a646f4_0840c77a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 652
+      },
+      "writtenOn": "2023-07-13T07:40:41Z",
+      "side": 1,
+      "message": "@ksandi@contractor.linuxfoundation.org Your review comments should be fixed now. Can this be approved and merged?",
+      "revId": "723af6aa1fce402ecfc20dad25f3c5bed0d0fbf8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
