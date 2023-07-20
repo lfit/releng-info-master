@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8c4a9006_4b0ca993",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 605
+      },
+      "writtenOn": "2023-07-20T10:51:09Z",
+      "side": 1,
+      "message": "Please check that the repository is listed correctly in this file?",
+      "revId": "7fb6a7b600469efadb5add8037aff014e6adcef2",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "95399b6a_04245585",
+        "filename": "gerrit.onap.org/modeling/yang-kit/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 605
+      },
+      "writtenOn": "2023-07-20T10:51:09Z",
+      "side": 1,
+      "message": "Shouldn\u0027t this be modeling/yang-kit?",
+      "range": {
+        "startLine": 30,
+        "startChar": 0,
+        "endLine": 31,
+        "endChar": 28
+      },
+      "revId": "7fb6a7b600469efadb5add8037aff014e6adcef2",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
