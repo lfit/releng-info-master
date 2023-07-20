@@ -33,6 +33,23 @@
       "message": "fixes look good",
       "revId": "723af6aa1fce402ecfc20dad25f3c5bed0d0fbf8",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "74f56e8e_6616190d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2023-07-20T23:21:28Z",
+      "side": 1,
+      "message": "remerge",
+      "revId": "723af6aa1fce402ecfc20dad25f3c5bed0d0fbf8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ],
   "submitRequirementResults": [
