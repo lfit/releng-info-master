@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "406b7f1b_57f93b3e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2023-10-02T18:01:47Z",
+      "side": 1,
+      "message": "This is something that we do not need to do. I\u0027m actually surprised that our CI said it was ok!",
+      "revId": "80ac0d1d2a175bb021aa5c053b3def7877256dad",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
