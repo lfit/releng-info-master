@@ -1,0 +1,38 @@
+---
+project: 'test'
+project_creation_date: '10/16/2023'
+project_category: ''
+lifecycle_state: 'Incubation'
+tsc: ''
+project_lead: &akraino_test_ptl
+    name: 'Eric Ball'
+    email: 'eball@linuxfoundation.org'
+    id: 'eball'
+    company: 'The Linux Foundation'
+    timezone: 'America/Los_Angeles'
+primary_contact: *akraino_test_ptl
+issue_tracking:
+    type: 'jira'
+    url: 'https://jira.akraino.org/'
+    key: 'TEST'
+mailing_list:
+    type: 'mail2'
+    url: ''
+    tag: '[releng]'
+realtime_discussion:
+    type: ''
+    server: ''
+    channel: '#lf-releng'
+meetings:
+    - type: ''
+      agenda: 'https://wiki.akraino.org/pages/viewpage.action?pageId=4456453'
+      url: ''
+      server: ''
+      channel: ''
+      repeats: ''
+      time: ''
+repositories:
+    - 'test'
+    - 'test/test-two'
+committers:
+    - <<: *akraino_test_ptl
