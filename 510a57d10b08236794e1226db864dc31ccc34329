@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "35494ab9_34e5d55c",
+        "filename": "gerrit.akraino.org/.github/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2023-11-28T23:02:55Z",
+      "side": 1,
+      "message": "I would recommend putting today\u0027s date to be more precise.",
+      "range": {
+        "startLine": 3,
+        "startChar": 24,
+        "endLine": 3,
+        "endChar": 34
+      },
+      "revId": "510a57d10b08236794e1226db864dc31ccc34329",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
