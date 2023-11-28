@@ -46,6 +46,30 @@
       },
       "revId": "510a57d10b08236794e1226db864dc31ccc34329",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "82f2dbb1_5cfaeb01",
+        "filename": "gerrit.akraino.org/.github/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 65
+      },
+      "writtenOn": "2023-11-28T23:23:24Z",
+      "side": 1,
+      "message": "my bad... thanks for clarifying",
+      "parentUuid": "dbaa8bfe_74511514",
+      "range": {
+        "startLine": 3,
+        "startChar": 24,
+        "endLine": 3,
+        "endChar": 34
+      },
+      "revId": "510a57d10b08236794e1226db864dc31ccc34329",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
