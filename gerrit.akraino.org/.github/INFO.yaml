@@ -1,0 +1,60 @@
+---
+project: ".github"
+project_creation_date: "2023-09-19"
+lifecycle_state: "Incubation"
+project_category: ""
+project_lead: &akraino_releng_ptl
+  name: "Eric Ball"
+  email: "eball@linuxfoundation.org"
+  company: "LF"
+  id: "eball"
+  timezone: "America/Los_Angeles"
+primary_contact: *akraino_releng_ptl
+issue_tracking:
+  type: "jira"
+  url: "https://jira.akraino.org/projects/CIMAN"
+  key: "NA"
+mailing_list:
+  type: "groups.io"
+  url: "lists.akraino.org"
+  tag: "<[sub-project_name]>"
+realtime_discussion: ""
+meetings:
+  - type: "zoom"
+    agenda: "n/a"
+    url: "n/a"
+    server: "n/a"
+    channel: "n/a"
+    repeats: "n/a"
+    time: "n/a"
+repositories:
+  - .github
+committers:
+  - <<: *akraino_releng_ptl
+  - name: "Andrew Grimberg"
+    email: "agrimberg@linuxfoundation.org"
+    company: "LF"
+    id: "agrimberg"
+    timezone: "America/Los_Angeles"
+  - name: "Anil Belur"
+    email: "abelur@linuxfoundation.org"
+    company: "LF"
+    id: "askb"
+    timezone: "Unknown/Unknown"
+  - name: "Jessica Wagantall"
+    email: "jwagantall@linuxfoundation.org"
+    id: "jwagantall"
+    company: "LF"
+    timezone: "America/Los_Angeles"
+  - name: "Kevin Sandi"
+    email: "ksandi@contractor.linuxfoundation.org"
+    company: "LF"
+    id: "kevin.sandi"
+    timezone: "America/Costa_Rica"
+  - name: "Matt Watkins"
+    email: "mwatkins@linuxfoundation.org"
+    company: "LF"
+    id: "modeSevenindustrialsolutions"
+    timezone: "Europe/London"
+tsc:
+  approval: "https://lists.akraino.org/g/tsc"
