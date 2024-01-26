@@ -16,6 +16,24 @@
       "message": "adding hekeguang again as a committer is redundant and as per you already configured him as the project lead above and are referencing him through the anchor onap_usecase_ui_ptl",
       "revId": "90306a182ae5c6c4f73f3fd97309470dd46f6709",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6425e334_942e0479",
+        "filename": "gerrit.onap.org/usecase-ui/llm-adaptation/INFO.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 577
+      },
+      "writtenOn": "2024-01-26T03:12:47Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "94ad97ac_e0b34708",
+      "revId": "90306a182ae5c6c4f73f3fd97309470dd46f6709",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
