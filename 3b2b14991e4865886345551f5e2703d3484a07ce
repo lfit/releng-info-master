@@ -16,6 +16,23 @@
       "message": "Unfortunately Seshu does not seem to have an account on this gerrit. \nseshukumar.mudiganti@windriver.com",
       "revId": "3b2b14991e4865886345551f5e2703d3484a07ce",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5471a7f5_3293da2e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 525
+      },
+      "writtenOn": "2024-06-06T14:51:48Z",
+      "side": 1,
+      "message": "looks good",
+      "revId": "3b2b14991e4865886345551f5e2703d3484a07ce",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ],
   "submitRequirementResults": [
