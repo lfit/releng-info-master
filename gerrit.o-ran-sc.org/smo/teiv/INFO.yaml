@@ -25,6 +25,10 @@ meetings:
       channel: 'n/a'
       repeats: 'bi-weekly'
       time: 'Tuesdays, 05:00 AM PST/PDT'
+realtime_discussion:
+    type: 'irc'
+    server: 'freenode.net'
+    channel: '#oran'
 repositories:
     - 'smo/teiv'
 committers:
