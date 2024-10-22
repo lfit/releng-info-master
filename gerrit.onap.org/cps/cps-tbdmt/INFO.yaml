@@ -1,7 +1,7 @@
 ---
 project: 'cps-tbdmt'
 project_creation_date: '2021-02-18'
-lifecycle_state: 'Incubation'
+lifecycle_state: 'Unmaintained'
 project_category: ''
 project_lead: &onap_cps_ptl
     name: 'Toine Siebelink'
@@ -29,11 +29,6 @@ meetings:
       time: '08:00 America/New_York'
 committers:
     - <<: *onap_cps_ptl
-    - name: 'Renu Kumari'
-      email: 'renu.kumari@bell.ca'
-      company: 'Bell Canada'
-      id: 'renukumari'
-      timezone: 'America/Toronto'
 repositories:
     - cps/cps-tbdmt
 tsc:
