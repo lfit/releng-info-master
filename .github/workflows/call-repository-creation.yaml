@@ -1,0 +1,33 @@
+---
+# SPDX-License-Identifier: Apache-2.0
+# SPDX-FileCopyrightText: 2025 The Linux Foundation
+
+# On local repository changes, runs remote repository creation tasks
+name: "🆕 Repository Creation"
+
+# yamllint disable-line rule:truthy
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - "**"
+      - "!INFO-master.yaml"
+      - "!tox.ini"
+      - "!.github/**"
+      - "!.*"
+
+permissions: {}
+
+concurrency:
+  # yamllint disable-line rule:line-length
+  group: ${{ github.workflow }}-${{ github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  repository-creation:
+    permissions:
+      contents: read
+    uses: lfit/releng-reusable-workflows/.github/workflows/reuse-repository-creation.yaml@main
