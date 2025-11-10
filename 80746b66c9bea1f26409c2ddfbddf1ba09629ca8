@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "edac3535_876c280d",
+        "filename": "git.opendaylight.org/gnmi/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 726
+      },
+      "writtenOn": "2025-11-10T11:59:58Z",
+      "side": 1,
+      "message": "no, Tomas is not here",
+      "revId": "80746b66c9bea1f26409c2ddfbddf1ba09629ca8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
