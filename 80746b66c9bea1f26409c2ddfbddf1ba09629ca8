@@ -3,6 +3,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "46828394_b520c7fc",
+        "filename": "git.opendaylight.org/gnmi/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 726
+      },
+      "writtenOn": "2025-11-10T12:01:11Z",
+      "side": 1,
+      "message": "to be honest, I am ptl 😊",
+      "revId": "80746b66c9bea1f26409c2ddfbddf1ba09629ca8",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "edac3535_876c280d",
         "filename": "git.opendaylight.org/gnmi/INFO.yaml",
         "patchSetId": 1
