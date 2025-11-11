@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "388defb8_baea1ce1",
+        "filename": "git.opendaylight.org/gnmi/INFO.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 726
+      },
+      "writtenOn": "2025-11-11T08:24:35Z",
+      "side": 1,
+      "message": "we have NETCONF committers with diff that there is another ptl",
+      "revId": "79321a9d08b5e13f4cba529c30c08cfa63ce40df",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    }
+  ]
+}
