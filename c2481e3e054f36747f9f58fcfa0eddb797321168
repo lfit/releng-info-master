@@ -33,6 +33,23 @@
       "message": "recheck",
       "revId": "c2481e3e054f36747f9f58fcfa0eddb797321168",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "eb0f1a19_3832ea96",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29
+      },
+      "writtenOn": "2025-11-12T06:59:21Z",
+      "side": 1,
+      "message": "remerge",
+      "revId": "c2481e3e054f36747f9f58fcfa0eddb797321168",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ],
   "submitRequirementResults": [
