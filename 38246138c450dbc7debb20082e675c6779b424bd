@@ -67,6 +67,23 @@
       "message": "remerge",
       "revId": "38246138c450dbc7debb20082e675c6779b424bd",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "373b8c06_f33a62fb",
+        "filename": "gerrit.onap.org/policy/common/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 29
+      },
+      "writtenOn": "2025-11-20T11:56:04Z",
+      "side": 1,
+      "message": "This needs to be removed. \nThe problem: Lines 33-48 show liamfallon appears twice:\n\n     - Line 33: - \u003c\u003c: *onap_releng_ptl (which references the anchor at line 6 with id \u0027liamfallon\u0027)\n     - Lines 44-48: Explicitly listed again as a committer",
+      "revId": "38246138c450dbc7debb20082e675c6779b424bd",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ],
   "submitRequirementResults": [
