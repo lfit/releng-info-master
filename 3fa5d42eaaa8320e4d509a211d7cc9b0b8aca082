@@ -16,6 +16,24 @@
       "message": "Please replace placeholder with a valid value, e.g \u0027integration\u0027",
       "revId": "3fa5d42eaaa8320e4d509a211d7cc9b0b8aca082",
       "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6452c6f0_78285217",
+        "filename": "gerrit.onap.org/integration/gating/INFO.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 728
+      },
+      "writtenOn": "2026-02-05T09:44:43Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2aad80d8_5d288c37",
+      "revId": "3fa5d42eaaa8320e4d509a211d7cc9b0b8aca082",
+      "serverId": "f2a2391d-0403-4fa5-b183-4056999a8a09"
     }
   ]
 }
